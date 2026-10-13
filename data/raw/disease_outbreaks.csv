@@ -1,0 +1,2001 @@
+disease_name,country,state,city,latitude,longitude,outbreak_date,number_of_cases,severity_level,duration_days,month,year,quarter
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-27,82,Low,35,5,2024,2
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2023-05-08,128,Low,11,5,2023,2
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-02-01,338,Medium,71,2,2024,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-23,416,High,90,12,2023,4
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-05,279,Medium,82,2,2024,1
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-03,407,High,61,10,2023,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-25,65,Low,50,9,2023,3
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-12-28,44,Low,52,12,2024,4
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-05-05,21,Low,65,5,2024,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-12-25,90,Low,77,12,2024,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-11-20,345,Medium,31,11,2024,4
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-20,94,Low,17,2,2024,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-12-28,192,Medium,65,12,2024,4
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-12-08,463,High,33,12,2024,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-10-27,323,Medium,38,10,2023,4
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-27,89,Low,88,12,2024,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-09-05,481,High,14,9,2024,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-08-18,255,Medium,41,8,2024,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-08-16,367,Medium,90,8,2024,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2025-06-07,123,Low,40,6,2025,2
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-02,129,Low,81,5,2024,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-03,120,Low,72,2,2024,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-02-15,490,High,21,2,2023,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-24,36,Low,56,3,2025,1
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-06-26,320,Medium,39,6,2025,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-03,399,Medium,75,7,2023,3
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-27,200,Medium,62,6,2023,2
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-17,87,Low,71,11,2022,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-06-16,790,Critical,45,6,2023,2
+Measles,USA,New York,New York City,40.7128,-74.006,2023-12-23,128,Low,54,12,2023,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-11-01,20,Low,83,11,2025,4
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-20,214,Medium,53,12,2022,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-09,173,Medium,79,3,2023,1
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2025-08-02,220,Medium,75,8,2025,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-11,712,Critical,28,7,2025,3
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2025-03-26,158,Medium,76,3,2025,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-05,393,Medium,90,2,2025,1
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-05,125,Low,22,10,2025,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-22,223,Medium,9,3,2023,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-02-25,351,Medium,35,2,2024,1
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-03-11,68,Low,15,3,2023,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-05,141,Low,37,4,2023,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-01-23,326,Medium,23,1,2024,1
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-07-06,174,Medium,67,7,2025,3
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-05-23,99,Low,62,5,2023,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-01,129,Low,13,3,2025,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2025-02-12,106,Low,20,2,2025,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-12-05,324,Medium,64,12,2023,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-21,91,Low,66,11,2023,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-05-06,463,High,77,5,2025,2
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2022-12-11,43,Low,37,12,2022,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-01,642,High,34,8,2025,3
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-14,244,Medium,7,10,2023,4
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-30,196,Medium,61,5,2025,2
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-09-24,147,Low,44,9,2023,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-15,432,High,47,3,2023,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-14,138,Low,74,7,2025,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-09-16,232,Medium,30,9,2025,3
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-03-30,80,Low,58,3,2023,1
+Dengue,USA,New York,New York City,40.7128,-74.006,2024-03-29,30,Low,86,3,2024,1
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-16,100,Low,40,10,2025,4
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-03-13,185,Medium,57,3,2024,1
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2025-06-04,473,High,16,6,2025,2
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-06-03,28,Low,75,6,2023,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-05-07,117,Low,51,5,2024,2
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-12-06,92,Low,27,12,2024,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2024-07-22,363,Medium,90,7,2024,3
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-16,389,Medium,20,7,2024,3
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-05,259,Medium,77,7,2023,3
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-10,769,Critical,33,6,2024,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-04,139,Low,69,5,2024,2
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-19,374,Medium,61,5,2023,2
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2022-11-18,220,Medium,23,11,2022,4
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-03,332,Medium,61,5,2025,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-06-28,88,Low,26,6,2023,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-12-06,348,Medium,77,12,2024,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-30,192,Medium,46,7,2023,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-12,315,Medium,38,11,2024,4
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-20,59,Low,37,2,2025,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-04,26,Low,29,3,2025,1
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-02,78,Low,27,4,2024,2
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-01-29,140,Low,35,1,2023,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-27,206,Medium,36,10,2024,4
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-11,254,Medium,49,12,2023,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-06-04,229,Medium,89,6,2024,2
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-19,64,Low,21,9,2024,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-07,69,Low,20,5,2024,2
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-10-18,423,High,47,10,2024,4
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-09-23,109,Low,56,9,2025,3
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-04-15,72,Low,62,4,2024,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-12-19,472,High,62,12,2023,4
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-14,277,Medium,45,8,2024,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-24,217,Medium,58,2,2025,1
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-07-29,148,Low,60,7,2023,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-19,257,Medium,77,7,2024,3
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-20,63,Low,62,6,2024,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-08-31,288,Medium,63,8,2024,3
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-09-22,292,Medium,28,9,2025,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-01,105,Low,18,10,2025,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-14,462,High,32,2,2024,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-13,82,Low,67,2,2023,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2025-05-31,262,Medium,87,5,2025,2
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-01-05,303,Medium,58,1,2025,1
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2022-11-22,434,High,20,11,2022,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-11-06,461,High,73,11,2023,4
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2024-04-04,484,High,22,4,2024,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-19,391,Medium,74,6,2025,2
+Measles,USA,New York,New York City,40.7128,-74.006,2024-08-21,436,High,63,8,2024,3
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-04-02,475,High,77,4,2025,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-10,280,Medium,40,7,2025,3
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-13,298,Medium,87,10,2025,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-29,89,Low,43,4,2025,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-28,213,Medium,76,9,2024,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-15,386,Medium,56,9,2023,3
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-22,126,Low,59,3,2023,1
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2025-06-22,116,Low,14,6,2025,2
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-16,444,High,81,1,2025,1
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-12-29,588,High,7,12,2024,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-17,973,Critical,60,1,2025,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-02-05,299,Medium,35,2,2024,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-01,64,Low,56,8,2025,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-10-15,129,Low,23,10,2023,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2023-01-05,251,Medium,82,1,2023,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-01,379,Medium,61,5,2023,2
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-18,32,Low,40,11,2023,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-01-18,282,Medium,48,1,2024,1
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2024-06-02,117,Low,39,6,2024,2
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-20,33,Low,51,12,2022,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-02-01,436,High,10,2,2023,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-12-22,368,Medium,26,12,2022,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-07,392,Medium,21,7,2025,3
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-20,408,High,39,6,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-03,51,Low,46,7,2023,3
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-01-02,99,Low,80,1,2023,1
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-22,88,Low,82,12,2023,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-07-20,485,High,83,7,2024,3
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-02-03,108,Low,75,2,2023,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-01,309,Medium,89,4,2023,2
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2025-03-20,135,Low,20,3,2025,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-06-09,412,High,26,6,2025,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-10-14,383,Medium,41,10,2025,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-07-28,288,Medium,62,7,2025,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-01,486,High,38,9,2024,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-22,82,Low,66,5,2025,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-12-26,222,Medium,10,12,2024,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-18,299,Medium,34,11,2023,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-08,81,Low,83,10,2024,4
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2022-12-01,314,Medium,31,12,2022,4
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-02-20,145,Low,78,2,2025,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-12,279,Medium,9,8,2025,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-07,123,Low,38,2,2024,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-12-05,292,Medium,77,12,2024,4
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-31,431,High,77,3,2025,1
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-28,79,Low,46,5,2025,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-07-16,419,High,31,7,2023,3
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-11-25,296,Medium,34,11,2023,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-20,355,Medium,43,10,2025,4
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-07-09,382,Medium,53,7,2024,3
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2022-12-09,52,Low,42,12,2022,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-01,188,Medium,23,7,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2022-12-06,343,Medium,43,12,2022,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-01,224,Medium,30,5,2025,2
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-07-16,39,Low,15,7,2025,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-04-11,345,Medium,87,4,2023,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-12,154,Medium,45,9,2023,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-07-11,721,Critical,60,7,2023,3
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-02-16,447,High,73,2,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-05,202,Medium,82,5,2025,2
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2023-03-14,362,Medium,19,3,2023,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-05,388,Medium,17,5,2024,2
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-11-01,39,Low,27,11,2023,4
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-05-21,186,Medium,83,5,2025,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-01-16,168,Medium,43,1,2023,1
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-04-05,401,High,36,4,2023,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-12-21,267,Medium,21,12,2023,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-12,186,Medium,25,9,2023,3
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-16,98,Low,83,10,2023,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-28,113,Low,66,4,2025,2
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-05-21,306,Medium,76,5,2024,2
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-04-24,356,Medium,12,4,2023,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-04-06,63,Low,18,4,2024,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2022-12-23,441,High,41,12,2022,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-11-04,290,Medium,73,11,2023,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-11-17,349,Medium,62,11,2023,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-06-30,228,Medium,59,6,2025,2
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-13,51,Low,49,6,2023,2
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-23,389,Medium,58,6,2024,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2025-05-30,95,Low,47,5,2025,2
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-06,445,High,58,7,2023,3
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-14,261,Medium,13,6,2025,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-11-20,368,Medium,70,11,2024,4
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-01,186,Medium,77,1,2024,1
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-26,144,Low,22,4,2025,2
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-03-15,191,Medium,27,3,2024,1
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2022-12-09,332,Medium,59,12,2022,4
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-07-01,622,High,22,7,2023,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-30,671,High,41,6,2024,2
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-07-05,174,Medium,65,7,2025,3
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-01-04,147,Low,83,1,2025,1
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-02,191,Medium,60,4,2023,2
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-05-11,10,Low,43,5,2024,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-08-09,493,High,26,8,2025,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-07-29,226,Medium,49,7,2025,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-12-22,283,Medium,48,12,2024,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-01-03,169,Medium,59,1,2025,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-06,190,Medium,55,7,2025,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-21,68,Low,23,8,2025,3
+Measles,USA,New York,New York City,40.7128,-74.006,2024-09-20,495,High,19,9,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-10-23,283,Medium,8,10,2025,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-23,226,Medium,67,9,2023,3
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-02,382,Medium,17,2,2025,1
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-12-28,424,High,87,12,2024,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2023-01-23,366,Medium,15,1,2023,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-19,432,High,18,2,2024,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-06-04,277,Medium,28,6,2023,2
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-13,216,Medium,14,2,2023,1
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-17,270,Medium,25,12,2024,4
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2025-03-03,339,Medium,30,3,2025,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-21,117,Low,86,4,2023,2
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-08-31,168,Medium,66,8,2023,3
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-04-16,391,Medium,8,4,2024,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-30,87,Low,63,9,2023,3
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-07-15,173,Medium,61,7,2024,3
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-21,151,Medium,56,7,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-03-10,245,Medium,80,3,2024,1
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-07-08,189,Medium,44,7,2024,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2024-05-26,12,Low,79,5,2024,2
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-08-24,83,Low,36,8,2025,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-02,375,Medium,31,2,2024,1
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-08-18,371,Medium,19,8,2023,3
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-01,18,Low,81,5,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-05-14,85,Low,48,5,2023,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-27,117,Low,76,12,2023,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2025-09-03,79,Low,28,9,2025,3
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-07,432,High,50,7,2024,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-04-14,56,Low,35,4,2023,2
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-11-29,96,Low,57,11,2024,4
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-22,126,Low,54,7,2023,3
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-12-30,471,High,88,12,2024,4
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-03-03,130,Low,10,3,2024,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-09-12,362,Medium,35,9,2024,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-21,568,High,21,7,2024,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-01-26,97,Low,70,1,2023,1
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-03-05,54,Low,56,3,2024,1
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-18,350,Medium,26,3,2025,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-08-09,365,Medium,59,8,2025,3
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-12-08,161,Medium,63,12,2024,4
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-11-22,100,Low,54,11,2024,4
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-15,253,Medium,42,3,2023,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-05-30,96,Low,34,5,2025,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-22,452,High,49,2,2023,1
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-05,85,Low,77,1,2024,1
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-01-27,466,High,36,1,2024,1
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2022-11-16,383,Medium,25,11,2022,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-04-07,64,Low,21,4,2024,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2022-12-11,466,High,37,12,2022,4
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2022-12-13,139,Low,40,12,2022,4
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-22,144,Low,21,3,2025,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-17,112,Low,72,5,2025,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2025-05-24,307,Medium,35,5,2025,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-13,204,Medium,65,10,2025,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-18,112,Low,61,7,2025,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-07,38,Low,17,5,2025,2
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-09-10,26,Low,23,9,2023,3
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-09-06,245,Medium,83,9,2024,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-28,308,Medium,84,5,2025,2
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-07-03,486,High,90,7,2023,3
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-04-09,281,Medium,36,4,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-27,254,Medium,60,5,2025,2
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-03,100,Low,39,4,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-09,27,Low,18,7,2025,3
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2025-04-13,44,Low,54,4,2025,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-03-13,104,Low,22,3,2023,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-26,494,High,13,3,2025,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-08-11,230,Medium,20,8,2024,3
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-01-20,129,Low,68,1,2024,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-10-28,482,High,78,10,2024,4
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-06-03,156,Medium,35,6,2024,2
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2023-01-03,361,Medium,41,1,2023,1
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-23,189,Medium,46,5,2024,2
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2022-11-23,285,Medium,25,11,2022,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-02,122,Low,88,4,2023,2
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-11-01,320,Medium,55,11,2025,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-09,130,Low,54,10,2024,4
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-03,76,Low,26,5,2023,2
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-02-20,40,Low,41,2,2023,1
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-01,360,Medium,63,8,2025,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-01-26,436,High,72,1,2024,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-09,48,Low,43,4,2025,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-25,391,Medium,46,10,2025,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-01-28,713,Critical,14,1,2025,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-07-20,64,Low,24,7,2024,3
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-12,111,Low,7,9,2024,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-05,116,Low,55,11,2023,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-08-31,336,Medium,52,8,2025,3
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-02-05,131,Low,9,2,2023,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-08-13,344,Medium,61,8,2024,3
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-15,198,Medium,21,3,2025,1
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2024-09-06,137,Low,86,9,2024,3
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-10,273,Medium,20,5,2023,2
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-02-08,318,Medium,17,2,2025,1
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-06,163,Medium,49,10,2024,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2025-09-21,798,Critical,21,9,2025,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2023-12-13,447,High,51,12,2023,4
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-03-08,36,Low,25,3,2024,1
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-11-01,358,Medium,26,11,2023,4
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-18,625,High,79,8,2025,3
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-02,492,High,87,9,2024,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-29,27,Low,67,4,2025,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-05-26,352,Medium,14,5,2024,2
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-04-11,89,Low,66,4,2023,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-07,238,Medium,43,3,2023,1
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2025-09-14,543,High,66,9,2025,3
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2023-02-03,280,Medium,80,2,2023,1
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-12,306,Medium,26,7,2025,3
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-06-10,97,Low,17,6,2023,2
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-30,176,Medium,63,1,2023,1
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-10-16,362,Medium,27,10,2025,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-06-12,109,Low,59,6,2024,2
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-02-26,908,Critical,87,2,2023,1
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-09-16,34,Low,78,9,2024,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-04-10,420,High,84,4,2024,2
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-26,56,Low,51,4,2023,2
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-02,354,Medium,17,8,2023,3
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2024-12-21,379,Medium,49,12,2024,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-05-21,128,Low,72,5,2023,2
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-22,416,High,30,11,2024,4
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-08-02,148,Low,35,8,2025,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-18,95,Low,19,4,2023,2
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-10-24,69,Low,50,10,2025,4
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-12-21,128,Low,27,12,2024,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-10-16,132,Low,12,10,2023,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-03-11,277,Medium,85,3,2024,1
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-03-04,323,Medium,37,3,2024,1
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-13,238,Medium,80,12,2023,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-10,448,High,55,6,2024,2
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-03-17,132,Low,32,3,2025,1
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-06,76,Low,89,4,2024,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-09,414,High,73,6,2023,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-05-01,61,Low,41,5,2023,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2023-09-08,475,High,62,9,2023,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-22,109,Low,10,5,2025,2
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-30,307,Medium,54,1,2025,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-27,241,Medium,35,4,2023,2
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-01,192,Medium,90,6,2023,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-19,19,Low,43,8,2023,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-28,279,Medium,85,6,2025,2
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2022-12-19,362,Medium,34,12,2022,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-10-26,128,Low,21,10,2025,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-07-19,112,Low,13,7,2024,3
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-06-04,82,Low,21,6,2025,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2022-12-14,373,Medium,72,12,2022,4
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-01,199,Medium,61,9,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-11-02,346,Medium,80,11,2024,4
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-05-05,318,Medium,53,5,2023,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2025-09-15,669,High,77,9,2025,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-06-30,21,Low,88,6,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-04-13,432,High,9,4,2024,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-10-17,71,Low,87,10,2024,4
+Dengue,USA,New York,New York City,40.7128,-74.006,2024-09-21,286,Medium,12,9,2024,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-10-04,174,Medium,29,10,2024,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-19,465,High,24,11,2023,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-01-25,95,Low,32,1,2023,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-04,423,High,46,2,2023,1
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-07,179,Medium,11,7,2025,3
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-11,491,High,13,11,2024,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-23,104,Low,62,7,2023,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-01-10,223,Medium,30,1,2025,1
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-02,458,High,73,12,2024,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-03-29,90,Low,62,3,2025,1
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-04,214,Medium,20,7,2024,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-07-08,463,High,64,7,2024,3
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-10-18,403,High,63,10,2023,4
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-02-05,844,Critical,52,2,2023,1
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-05-26,377,Medium,14,5,2024,2
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-11-24,60,Low,10,11,2024,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-04-26,28,Low,23,4,2025,2
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-11-30,112,Low,56,11,2024,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-09-21,397,Medium,64,9,2023,3
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-08,29,Low,80,5,2025,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-12-01,121,Low,47,12,2024,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-07-01,63,Low,30,7,2023,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-01-11,337,Medium,22,1,2025,1
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-12,159,Medium,85,5,2025,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-25,112,Low,24,12,2023,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-10-30,133,Low,18,10,2023,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-23,150,Low,76,3,2023,1
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-29,414,High,88,9,2023,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-09-17,379,Medium,22,9,2025,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-03-09,454,High,70,3,2024,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-05,578,High,77,12,2024,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-05-06,36,Low,46,5,2023,2
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-22,260,Medium,59,10,2025,4
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-07-25,212,Medium,89,7,2023,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-22,679,High,51,6,2025,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-11-18,53,Low,62,11,2023,4
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-23,315,Medium,26,7,2023,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-10-08,215,Medium,35,10,2023,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-06-14,30,Low,39,6,2024,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-05-26,114,Low,87,5,2024,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-11-07,97,Low,71,11,2025,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-09-22,325,Medium,86,9,2023,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-02-03,472,High,10,2,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-06,73,Low,80,5,2024,2
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-01-12,304,Medium,87,1,2023,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-21,297,Medium,38,7,2024,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-27,87,Low,14,5,2025,2
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-11,143,Low,66,3,2025,1
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-01,210,Medium,47,9,2023,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-05,104,Low,72,8,2023,3
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-08-25,173,Medium,66,8,2024,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-19,83,Low,25,5,2025,2
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-27,543,High,85,6,2024,2
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-04,466,High,48,10,2023,4
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-04,440,High,27,12,2023,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-06-24,305,Medium,46,6,2025,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-14,251,Medium,71,5,2023,2
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-01-25,348,Medium,52,1,2024,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-09,136,Low,83,6,2024,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2022-11-27,483,High,20,11,2022,4
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-05,422,High,53,5,2024,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-02-11,255,Medium,13,2,2023,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2023-12-14,235,Medium,77,12,2023,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-01-10,308,Medium,64,1,2025,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-12,115,Low,19,7,2023,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-05,335,Medium,53,10,2024,4
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-09-18,561,High,71,9,2025,3
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2023-01-29,240,Medium,49,1,2023,1
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-06-03,126,Low,84,6,2025,2
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-12,363,Medium,47,9,2024,3
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2024-07-15,757,Critical,50,7,2024,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-11-05,300,Medium,79,11,2025,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-15,238,Medium,49,12,2022,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-02,794,Critical,10,8,2024,3
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-05-07,385,Medium,81,5,2024,2
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-24,348,Medium,68,2,2023,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-12-28,57,Low,38,12,2024,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-06-24,58,Low,9,6,2023,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-17,127,Low,59,3,2025,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-09-03,446,High,85,9,2025,3
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-20,315,Medium,33,8,2023,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-17,319,Medium,55,7,2025,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-09,146,Low,50,6,2025,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-05-05,362,Medium,68,5,2024,2
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-06-04,335,Medium,45,6,2024,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-24,410,High,33,6,2024,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-20,228,Medium,78,7,2025,3
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-18,343,Medium,76,7,2023,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-10-17,445,High,25,10,2024,4
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-22,415,High,17,6,2024,2
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-04-19,132,Low,34,4,2024,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-05-19,337,Medium,41,5,2024,2
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2024-03-15,82,Low,13,3,2024,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-03-01,76,Low,19,3,2024,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-05,101,Low,24,7,2025,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-09-30,114,Low,90,9,2023,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-24,437,High,43,12,2023,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2023-03-12,32,Low,90,3,2023,1
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-11-10,428,High,11,11,2025,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-06,29,Low,57,11,2023,4
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-25,498,High,11,6,2024,2
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2023-06-18,95,Low,43,6,2023,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-10-19,302,Medium,24,10,2025,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-05-22,148,Low,21,5,2024,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-07,175,Medium,39,6,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-01,95,Low,79,10,2024,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-02-18,473,High,61,2,2025,1
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-07,255,Medium,19,5,2023,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-15,481,High,38,7,2025,3
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-04,341,Medium,64,1,2025,1
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-07-21,348,Medium,80,7,2024,3
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-16,809,Critical,37,11,2024,4
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-06-21,88,Low,27,6,2025,2
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-08-08,403,High,22,8,2024,3
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-06,162,Medium,24,2,2024,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-30,432,High,84,5,2025,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-02,147,Low,34,7,2025,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-04-27,319,Medium,64,4,2023,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-19,338,Medium,21,4,2023,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-09-11,61,Low,80,9,2025,3
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-10-13,217,Medium,73,10,2023,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-01-05,417,High,81,1,2024,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-09-21,278,Medium,14,9,2025,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-27,262,Medium,65,9,2025,3
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-14,394,Medium,46,6,2025,2
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-15,10,Low,34,4,2024,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-02-11,266,Medium,51,2,2023,1
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2023-03-14,37,Low,67,3,2023,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-25,284,Medium,24,2,2025,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-02,279,Medium,55,1,2025,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-08-10,384,Medium,51,8,2023,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-01-23,52,Low,35,1,2025,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-14,128,Low,76,7,2024,3
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-12-26,471,High,36,12,2024,4
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-19,129,Low,42,10,2024,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-01-15,464,High,60,1,2023,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-03-17,155,Medium,15,3,2024,1
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-01-18,134,Low,83,1,2023,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-09,511,High,63,2,2023,1
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-01-29,436,High,14,1,2024,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-06-25,389,Medium,80,6,2024,2
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-08-28,70,Low,45,8,2024,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-02-06,125,Low,45,2,2024,1
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-11-04,370,Medium,61,11,2023,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-02-15,226,Medium,89,2,2023,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-08-24,406,High,60,8,2024,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-17,242,Medium,30,7,2024,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-03-18,484,High,35,3,2024,1
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-16,79,Low,78,6,2025,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-31,118,Low,56,10,2025,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-01-01,219,Medium,89,1,2024,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-09,43,Low,75,12,2024,4
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-13,243,Medium,84,5,2024,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-09,146,Low,82,4,2023,2
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-19,156,Medium,49,7,2025,3
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-18,147,Low,22,1,2024,1
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-01-03,253,Medium,37,1,2024,1
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-06-12,244,Medium,66,6,2024,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-03,183,Medium,53,8,2024,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-22,100,Low,67,6,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-12-09,420,High,59,12,2024,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-02-07,859,Critical,25,2,2024,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-15,85,Low,26,3,2025,1
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-25,244,Medium,79,2,2024,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-02,181,Medium,69,10,2024,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-10-21,425,High,52,10,2023,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-07,338,Medium,76,8,2025,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-01-19,959,Critical,16,1,2023,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-03-04,45,Low,87,3,2025,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-09-16,54,Low,34,9,2023,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-14,80,Low,86,12,2024,4
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-06,58,Low,7,8,2025,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-03-02,56,Low,9,3,2025,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-20,58,Low,71,6,2024,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-18,99,Low,74,6,2023,2
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-12-09,84,Low,52,12,2023,4
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-21,241,Medium,58,4,2023,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-03-23,406,High,35,3,2024,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-01-14,97,Low,58,1,2023,1
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-12,78,Low,88,7,2025,3
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-29,137,Low,62,4,2023,2
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-05-25,145,Low,12,5,2023,2
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-11,188,Medium,12,7,2025,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-01-17,65,Low,47,1,2023,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-02,192,Medium,57,9,2023,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-09,81,Low,79,10,2023,4
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-09-20,246,Medium,24,9,2024,3
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-10-19,33,Low,19,10,2024,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-04-15,224,Medium,84,4,2023,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-01-31,446,High,48,1,2025,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-21,135,Low,36,5,2025,2
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-12-18,542,High,30,12,2024,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-05-05,445,High,86,5,2023,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-04-10,92,Low,41,4,2023,2
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-22,548,High,47,9,2023,3
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-05-17,11,Low,46,5,2023,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-05-16,102,Low,23,5,2024,2
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-11,134,Low,78,4,2025,2
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-02-23,102,Low,10,2,2025,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-20,103,Low,56,5,2023,2
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-07,109,Low,17,3,2025,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-13,136,Low,55,10,2025,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-14,97,Low,41,5,2024,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-03-20,135,Low,62,3,2023,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-07-16,297,Medium,16,7,2024,3
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-03-30,194,Medium,87,3,2024,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2023-12-16,284,Medium,20,12,2023,4
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2022-11-24,121,Low,49,11,2022,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-15,275,Medium,49,9,2024,3
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-08-16,203,Medium,48,8,2023,3
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-19,210,Medium,29,7,2025,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-06-29,426,High,88,6,2024,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-03-21,216,Medium,55,3,2024,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-11-27,108,Low,79,11,2024,4
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-11-14,399,Medium,77,11,2023,4
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-01-14,548,High,44,1,2024,1
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-29,292,Medium,88,8,2025,3
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-04-11,387,Medium,26,4,2024,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-11,279,Medium,83,4,2023,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2025-02-08,323,Medium,71,2,2025,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2023-01-25,454,High,53,1,2023,1
+Measles,USA,New York,New York City,40.7128,-74.006,2023-05-04,105,Low,38,5,2023,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-02-09,676,High,89,2,2023,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-10,104,Low,8,4,2025,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-08,150,Low,73,2,2024,1
+Measles,USA,New York,New York City,40.7128,-74.006,2024-02-06,278,Medium,54,2,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-31,127,Low,51,8,2025,3
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-06-13,85,Low,60,6,2023,2
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2023-08-28,506,High,46,8,2023,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-01-08,633,High,68,1,2024,1
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-29,122,Low,64,5,2023,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-07-17,21,Low,21,7,2024,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-22,183,Medium,28,6,2023,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2023-11-03,332,Medium,27,11,2023,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2025-04-02,128,Low,36,4,2025,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-27,377,Medium,62,11,2023,4
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-20,280,Medium,82,12,2023,4
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2022-11-20,410,High,34,11,2022,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-03-19,345,Medium,20,3,2023,1
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-29,216,Medium,32,11,2024,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-05-01,393,Medium,69,5,2024,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-14,362,Medium,57,1,2025,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-10-23,230,Medium,65,10,2024,4
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-12,364,Medium,82,7,2024,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2024-08-13,270,Medium,37,8,2024,3
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-11-20,241,Medium,25,11,2023,4
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-16,355,Medium,24,3,2025,1
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-26,145,Low,69,3,2025,1
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-10-18,300,Medium,43,10,2023,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-08-16,611,High,86,8,2024,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2022-11-30,596,High,24,11,2022,4
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-09-11,384,Medium,70,9,2025,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-11,413,High,63,3,2025,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-29,339,Medium,10,4,2023,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-01-16,190,Medium,35,1,2023,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-21,449,High,65,10,2023,4
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-09-22,107,Low,80,9,2025,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-12-01,30,Low,63,12,2024,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-30,102,Low,90,3,2025,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-01-16,280,Medium,40,1,2023,1
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-04-28,40,Low,37,4,2025,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-10-29,490,High,85,10,2024,4
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-23,451,High,33,8,2023,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-29,322,Medium,42,10,2024,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2023-10-21,215,Medium,44,10,2023,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-05-11,489,High,72,5,2024,2
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-02,35,Low,42,3,2025,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-05,57,Low,48,4,2024,2
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-09,122,Low,80,8,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-12-18,281,Medium,16,12,2024,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-01,91,Low,54,10,2025,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-11,347,Medium,7,9,2024,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-13,36,Low,75,11,2024,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-04-08,472,High,34,4,2025,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-02,474,High,43,9,2024,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-08-05,154,Medium,69,8,2023,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-13,201,Medium,87,2,2023,1
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-23,489,High,27,7,2023,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-12,269,Medium,32,11,2022,4
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-02,90,Low,18,10,2023,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2023-04-28,105,Low,90,4,2023,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-30,98,Low,36,1,2025,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-05-24,50,Low,34,5,2023,2
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-08-09,353,Medium,35,8,2023,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-30,54,Low,50,11,2022,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-08,639,High,16,8,2023,3
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2023-05-12,424,High,20,5,2023,2
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-02,96,Low,24,12,2024,4
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-30,85,Low,74,8,2023,3
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-13,275,Medium,51,10,2023,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-03,365,Medium,63,3,2025,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-06-04,121,Low,22,6,2023,2
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-10-30,269,Medium,47,10,2024,4
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-31,41,Low,38,5,2024,2
+Measles,USA,New York,New York City,40.7128,-74.006,2024-06-16,448,High,10,6,2024,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-06,360,Medium,72,10,2025,4
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-07-08,380,Medium,13,7,2024,3
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-01-09,107,Low,37,1,2025,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2023-04-05,320,Medium,8,4,2023,2
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-08-08,109,Low,79,8,2023,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-10-30,440,High,67,10,2023,4
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-29,23,Low,40,3,2023,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-14,454,High,57,3,2023,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-09-02,442,High,60,9,2025,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-28,377,Medium,75,4,2023,2
+Measles,USA,New York,New York City,40.7128,-74.006,2023-09-19,192,Medium,17,9,2023,3
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-09-23,154,Medium,26,9,2025,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-19,350,Medium,88,1,2025,1
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-24,81,Low,14,4,2025,2
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-04-18,109,Low,65,4,2025,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2023-03-03,208,Medium,29,3,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-19,161,Medium,27,8,2023,3
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-10-17,314,Medium,40,10,2025,4
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-28,425,High,22,7,2023,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-08,79,Low,74,4,2025,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-04-17,147,Low,65,4,2023,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-04,305,Medium,79,3,2023,1
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-29,411,High,20,9,2023,3
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-02-21,429,High,72,2,2024,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2022-12-06,350,Medium,12,12,2022,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-03,126,Low,29,1,2025,1
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-03-18,67,Low,48,3,2025,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-27,188,Medium,16,8,2024,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-13,307,Medium,13,7,2023,3
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-02,31,Low,58,10,2025,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-11,468,High,48,6,2024,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2025-06-03,158,Medium,54,6,2025,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-25,428,High,86,7,2024,3
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-04,352,Medium,70,12,2024,4
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-03-27,127,Low,7,3,2024,1
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2024-03-02,327,Medium,51,3,2024,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2022-11-13,877,Critical,55,11,2022,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-01-05,321,Medium,37,1,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-13,122,Low,42,3,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-28,125,Low,54,2,2024,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-05-25,308,Medium,24,5,2023,2
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-03-18,272,Medium,23,3,2023,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2024-04-28,485,High,47,4,2024,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-23,281,Medium,41,8,2024,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-12-31,119,Low,81,12,2023,4
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-15,318,Medium,64,6,2023,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-20,111,Low,75,2,2025,1
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-24,88,Low,66,5,2025,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-05-15,130,Low,45,5,2023,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-25,477,High,48,1,2024,1
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2024-04-02,111,Low,57,4,2024,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-15,183,Medium,29,7,2024,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-05-25,152,Medium,77,5,2025,2
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-06-14,102,Low,24,6,2025,2
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-17,76,Low,23,3,2023,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-12-12,401,High,87,12,2024,4
+Dengue,USA,New York,New York City,40.7128,-74.006,2024-04-24,39,Low,9,4,2024,2
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-07,52,Low,18,5,2025,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-02-06,572,High,13,2,2023,1
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-04-16,121,Low,70,4,2025,2
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-04-02,54,Low,52,4,2025,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-27,193,Medium,64,5,2024,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-03-28,95,Low,70,3,2024,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2025-07-19,81,Low,18,7,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-19,264,Medium,32,8,2023,3
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-12-20,245,Medium,52,12,2022,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-07-30,226,Medium,79,7,2025,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-14,188,Medium,30,1,2025,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-02,130,Low,42,2,2024,1
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-30,101,Low,81,10,2025,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-04,176,Medium,37,6,2023,2
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-03-05,441,High,35,3,2023,1
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-11-06,479,High,29,11,2024,4
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-08-23,517,High,82,8,2024,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-08-29,154,Medium,31,8,2023,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2024-08-04,139,Low,69,8,2024,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-03-06,69,Low,84,3,2023,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-24,294,Medium,7,10,2025,4
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-12-28,925,Critical,23,12,2023,4
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-03,25,Low,9,9,2024,3
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-08-28,263,Medium,74,8,2023,3
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2024-12-15,821,Critical,57,12,2024,4
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-09-30,204,Medium,48,9,2024,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-23,144,Low,90,4,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-10,328,Medium,82,11,2024,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2024-07-31,451,High,23,7,2024,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-20,28,Low,30,1,2025,1
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-06,377,Medium,79,2,2024,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-08-26,489,High,16,8,2023,3
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-26,135,Low,88,8,2024,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-13,22,Low,40,5,2025,2
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-29,229,Medium,39,3,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-17,118,Low,63,2,2023,1
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-07,302,Medium,55,3,2025,1
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-12-18,203,Medium,68,12,2024,4
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-10,281,Medium,16,10,2023,4
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2022-12-22,426,High,40,12,2022,4
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-10-11,63,Low,55,10,2024,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2023-05-20,106,Low,83,5,2023,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-01-13,270,Medium,90,1,2023,1
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-04-18,60,Low,13,4,2025,2
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-01-05,68,Low,59,1,2024,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-05-07,388,Medium,43,5,2024,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-05-26,75,Low,57,5,2023,2
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-08-12,128,Low,13,8,2025,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2025-04-04,32,Low,44,4,2025,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-24,99,Low,10,12,2023,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-30,91,Low,67,6,2024,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-02,140,Low,69,2,2025,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-01-12,144,Low,54,1,2025,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-28,278,Medium,12,11,2023,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-20,184,Medium,35,6,2025,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-03-17,127,Low,19,3,2023,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-07,78,Low,77,3,2025,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-16,117,Low,75,10,2025,4
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-03-07,293,Medium,45,3,2024,1
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-01-21,148,Low,80,1,2023,1
+Measles,USA,New York,New York City,40.7128,-74.006,2023-09-08,111,Low,64,9,2023,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-18,69,Low,23,1,2024,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-04-20,184,Medium,62,4,2023,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-22,213,Medium,15,4,2024,2
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-02-01,103,Low,42,2,2025,1
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-06,452,High,86,12,2022,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-03-19,107,Low,60,3,2025,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-04,258,Medium,79,6,2023,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-15,125,Low,40,10,2024,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-07-06,69,Low,29,7,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-01,366,Medium,84,9,2023,3
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-29,500,High,49,1,2025,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-11,187,Medium,54,7,2025,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-07-23,89,Low,42,7,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-02-20,118,Low,45,2,2024,1
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-05-15,423,High,60,5,2024,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-11-30,276,Medium,34,11,2023,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-03,494,High,54,10,2025,4
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-10-02,26,Low,46,10,2023,4
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-15,449,High,74,8,2023,3
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-11-01,148,Low,32,11,2023,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-01-17,567,High,13,1,2023,1
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-25,104,Low,66,5,2024,2
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-22,398,Medium,10,7,2023,3
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-08-08,354,Medium,64,8,2025,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-27,108,Low,27,10,2024,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-06-16,64,Low,56,6,2024,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-23,977,Critical,35,1,2024,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-15,383,Medium,59,5,2024,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2022-11-29,292,Medium,23,11,2022,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2022-11-28,77,Low,39,11,2022,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-05-27,266,Medium,55,5,2024,2
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-04-10,65,Low,66,4,2024,2
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2025-02-01,349,Medium,20,2,2025,1
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2024-12-16,674,High,89,12,2024,4
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-06-11,202,Medium,20,6,2024,2
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-09-29,191,Medium,88,9,2024,3
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-04-28,177,Medium,90,4,2024,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-14,314,Medium,37,9,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-02-15,776,Critical,47,2,2025,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-25,452,High,40,8,2025,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-14,427,High,11,1,2025,1
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2023-12-04,225,Medium,35,12,2023,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-14,309,Medium,45,11,2024,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-11-16,95,Low,19,11,2023,4
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-23,421,High,78,4,2024,2
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-12,76,Low,52,5,2023,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-21,453,High,49,3,2025,1
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-05,128,Low,22,7,2024,3
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-05,291,Medium,31,4,2023,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-12-31,321,Medium,45,12,2024,4
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-09-15,120,Low,32,9,2023,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-06-05,46,Low,47,6,2025,2
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2025-08-05,490,High,87,8,2025,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-09,21,Low,64,3,2023,1
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-22,345,Medium,27,10,2023,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-08-03,364,Medium,62,8,2023,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2025-04-07,294,Medium,56,4,2025,2
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-11-08,304,Medium,54,11,2025,4
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-11-02,295,Medium,9,11,2025,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-02-17,810,Critical,51,2,2024,1
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-09,246,Medium,71,6,2023,2
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-19,83,Low,12,10,2023,4
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2025-06-01,422,High,73,6,2025,2
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-10-02,272,Medium,24,10,2024,4
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-15,868,Critical,31,11,2024,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2022-12-20,78,Low,35,12,2022,4
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-12-25,149,Low,28,12,2022,4
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-01-26,116,Low,88,1,2023,1
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-02-18,354,Medium,13,2,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-17,49,Low,60,2,2023,1
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-22,330,Medium,39,7,2023,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-05,405,High,87,1,2024,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-21,179,Medium,19,3,2025,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2023-08-18,264,Medium,20,8,2023,3
+Measles,USA,New York,New York City,40.7128,-74.006,2023-07-10,194,Medium,21,7,2023,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-22,71,Low,40,12,2023,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-11-13,410,High,59,11,2024,4
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-30,330,Medium,70,1,2023,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-18,170,Medium,7,9,2024,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-06-25,156,Medium,70,6,2023,2
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2025-09-23,226,Medium,19,9,2025,3
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-03,201,Medium,40,6,2025,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-06-03,466,High,29,6,2023,2
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-17,920,Critical,47,11,2024,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-05-24,485,High,12,5,2023,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-10-26,94,Low,52,10,2023,4
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-05-13,499,High,18,5,2024,2
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-20,216,Medium,58,11,2023,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-05-20,477,High,56,5,2024,2
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2023-10-18,107,Low,23,10,2023,4
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-11,116,Low,82,6,2023,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2025-04-26,142,Low,85,4,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-01-09,491,High,23,1,2023,1
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-06-30,260,Medium,63,6,2023,2
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-04-29,177,Medium,47,4,2024,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2024-02-12,785,Critical,50,2,2024,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2023-05-25,271,Medium,38,5,2023,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-07,126,Low,78,1,2025,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2022-12-04,379,Medium,27,12,2022,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-22,495,High,28,8,2025,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-28,396,Medium,49,8,2024,3
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2025-09-14,164,Medium,77,9,2025,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-06,90,Low,65,3,2024,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2025-05-16,95,Low,70,5,2025,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-12,304,Medium,90,7,2023,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-02-14,522,High,11,2,2025,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2022-11-11,472,High,18,11,2022,4
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-07-26,310,Medium,78,7,2024,3
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-09,236,Medium,13,10,2024,4
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-20,336,Medium,86,9,2024,3
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-24,416,High,64,11,2024,4
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-02-08,20,Low,50,2,2024,1
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-15,105,Low,20,10,2025,4
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-15,45,Low,59,8,2025,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-12-17,68,Low,22,12,2023,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-04,472,High,31,6,2025,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-03-08,21,Low,88,3,2025,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2025-05-21,284,Medium,82,5,2025,2
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-28,52,Low,74,8,2025,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-04-15,159,Medium,68,4,2025,2
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-01,424,High,23,11,2023,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-31,666,High,56,8,2024,3
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2024-04-02,190,Medium,57,4,2024,2
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-26,44,Low,24,5,2025,2
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-09-25,203,Medium,77,9,2025,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-01-30,305,Medium,33,1,2024,1
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-18,394,Medium,23,10,2024,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-09-01,268,Medium,52,9,2024,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-14,395,Medium,75,3,2025,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2022-12-07,317,Medium,20,12,2022,4
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-04,23,Low,14,9,2023,3
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-06,196,Medium,39,10,2023,4
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-07,358,Medium,76,7,2024,3
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-25,36,Low,85,5,2025,2
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-01-15,171,Medium,72,1,2025,1
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-12-31,248,Medium,60,12,2024,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-03-01,13,Low,39,3,2023,1
+Cholera,USA,New York,New York City,40.7128,-74.006,2025-05-06,474,High,35,5,2025,2
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-12-18,894,Critical,31,12,2023,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-09,399,Medium,16,11,2023,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-28,272,Medium,55,9,2025,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2024-06-04,152,Medium,40,6,2024,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-16,21,Low,49,4,2024,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-31,128,Low,48,1,2023,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-19,301,Medium,80,7,2024,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-09,451,High,47,4,2023,2
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-11-22,316,Medium,15,11,2023,4
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-11,328,Medium,75,3,2025,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-10-26,163,Medium,34,10,2024,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-11-18,400,Medium,34,11,2024,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-07-10,337,Medium,90,7,2025,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-10-19,124,Low,37,10,2024,4
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-03-24,70,Low,48,3,2024,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-01-09,181,Medium,76,1,2025,1
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-04,470,High,54,10,2025,4
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-05-11,299,Medium,12,5,2025,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-08-28,313,Medium,17,8,2024,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-11-07,21,Low,87,11,2025,4
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-01-21,128,Low,20,1,2024,1
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2025-04-20,381,Medium,16,4,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-08,489,High,11,6,2025,2
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2023-03-02,65,Low,39,3,2023,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-02-20,182,Medium,59,2,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-02-16,271,Medium,47,2,2025,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-11,146,Low,7,7,2023,3
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-02-12,408,High,16,2,2023,1
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-06-16,84,Low,45,6,2023,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-06-09,441,High,63,6,2024,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2023-01-13,292,Medium,27,1,2023,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-08-17,432,High,57,8,2023,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-02,202,Medium,89,9,2023,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-27,41,Low,12,8,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-01-26,650,High,77,1,2025,1
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-01-15,108,Low,34,1,2024,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2023-08-29,132,Low,30,8,2023,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-04-11,149,Low,21,4,2024,2
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-03-02,138,Low,89,3,2023,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-06-28,393,Medium,15,6,2024,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-12-20,421,High,81,12,2023,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-11-11,115,Low,90,11,2024,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-06-16,367,Medium,15,6,2024,2
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-08-02,280,Medium,49,8,2025,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-19,339,Medium,79,9,2023,3
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-06,53,Low,7,4,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-02-07,829,Critical,89,2,2024,1
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-16,118,Low,49,11,2024,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-11,233,Medium,46,5,2025,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2023-06-21,139,Low,89,6,2023,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-06-07,489,High,24,6,2024,2
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-03,425,High,87,5,2024,2
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2022-12-19,149,Low,87,12,2022,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-02-17,887,Critical,82,2,2025,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-04-27,328,Medium,76,4,2024,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-29,250,Medium,35,11,2024,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-08-12,287,Medium,71,8,2023,3
+Measles,India,Delhi,New Delhi,28.6139,77.209,2025-01-31,236,Medium,71,1,2025,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-16,141,Low,24,10,2023,4
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-12,339,Medium,79,11,2023,4
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-14,30,Low,35,11,2024,4
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-19,185,Medium,54,3,2023,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-08,315,Medium,53,1,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-30,73,Low,12,5,2025,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-10-13,172,Medium,42,10,2025,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-11-02,242,Medium,90,11,2023,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-19,314,Medium,39,4,2023,2
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-03,257,Medium,52,10,2025,4
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-07-25,164,Medium,7,7,2025,3
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-29,134,Low,36,4,2025,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-06-08,366,Medium,26,6,2024,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-21,50,Low,36,11,2024,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-01,296,Medium,68,7,2023,3
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-07,381,Medium,59,10,2023,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-07,230,Medium,80,2,2023,1
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-13,372,Medium,72,8,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-09-07,24,Low,28,9,2023,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-10-04,257,Medium,83,10,2025,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-13,93,Low,34,6,2024,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2025-07-03,494,High,68,7,2025,3
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-01,56,Low,81,3,2025,1
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-09-22,420,High,28,9,2025,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-31,68,Low,55,3,2023,1
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-21,58,Low,32,6,2023,2
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-03-19,473,High,26,3,2025,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-11-09,293,Medium,85,11,2023,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-11-03,307,Medium,22,11,2025,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-08-04,767,Critical,76,8,2023,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-15,117,Low,54,10,2025,4
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-04-07,68,Low,68,4,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-30,267,Medium,24,5,2023,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-03-01,489,High,17,3,2024,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-02-24,181,Medium,31,2,2025,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-16,40,Low,73,10,2025,4
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2024-01-05,804,Critical,47,1,2024,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-06-17,129,Low,61,6,2023,2
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-04-29,487,High,75,4,2024,2
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2024-11-28,363,Medium,42,11,2024,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-06,332,Medium,78,3,2025,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-12-08,336,Medium,78,12,2024,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-31,345,Medium,51,7,2024,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-12,432,High,36,7,2023,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-04,159,Medium,72,6,2023,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-02-25,132,Low,56,2,2023,1
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-09-04,130,Low,83,9,2023,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-03-22,184,Medium,35,3,2023,1
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-01-27,841,Critical,56,1,2023,1
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-10-13,196,Medium,83,10,2025,4
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-19,122,Low,8,8,2025,3
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-06-18,149,Low,11,6,2024,2
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-10-02,407,High,36,10,2025,4
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-23,234,Medium,37,1,2023,1
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-05-07,80,Low,58,5,2023,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-02-18,700,High,32,2,2025,1
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-31,96,Low,77,3,2023,1
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2024-10-23,227,Medium,42,10,2024,4
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-12-14,282,Medium,58,12,2023,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-04-28,139,Low,59,4,2024,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2023-04-08,307,Medium,44,4,2023,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-09-27,75,Low,75,9,2025,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-05,243,Medium,79,5,2025,2
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-10-06,447,High,65,10,2024,4
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2023-01-06,296,Medium,21,1,2023,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-01-02,374,Medium,35,1,2025,1
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-04,230,Medium,73,3,2025,1
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-03,177,Medium,43,5,2024,2
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-10-11,39,Low,77,10,2024,4
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-14,512,High,34,8,2024,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-11-20,432,High,31,11,2023,4
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-03-05,426,High,37,3,2024,1
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-02-23,153,Medium,38,2,2024,1
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-26,448,High,20,9,2023,3
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2025-08-15,778,Critical,7,8,2025,3
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-25,240,Medium,86,7,2025,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-05-26,135,Low,30,5,2024,2
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-02,163,Medium,80,2,2025,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-22,128,Low,68,10,2025,4
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2025-09-05,227,Medium,57,9,2025,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-07-15,680,High,65,7,2023,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2022-12-05,790,Critical,33,12,2022,4
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-06-05,216,Medium,53,6,2023,2
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-11-29,330,Medium,40,11,2023,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-07-03,363,Medium,50,7,2025,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-28,118,Low,33,8,2025,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-11-27,487,High,58,11,2024,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-14,342,Medium,23,11,2023,4
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-06-03,419,High,41,6,2023,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2025-04-14,488,High,55,4,2025,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-13,292,Medium,8,9,2023,3
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-30,287,Medium,87,8,2025,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-08-18,452,High,69,8,2024,3
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2023-02-16,253,Medium,19,2,2023,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-26,85,Low,67,1,2024,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-26,416,High,53,9,2024,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-04-21,98,Low,9,4,2024,2
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-10-30,494,High,84,10,2024,4
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-11-03,449,High,43,11,2023,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-09-21,134,Low,64,9,2025,3
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-06-19,624,High,87,6,2024,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-10-01,127,Low,87,10,2024,4
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-02-16,484,High,16,2,2025,1
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2024-10-14,78,Low,47,10,2024,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-05-11,164,Medium,89,5,2024,2
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-10,449,High,53,5,2025,2
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-05-21,261,Medium,28,5,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-25,390,Medium,39,7,2023,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-10-18,121,Low,20,10,2023,4
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2025-07-07,711,Critical,13,7,2025,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-19,31,Low,20,10,2025,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-09-25,93,Low,90,9,2023,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-23,176,Medium,43,2,2024,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-06,319,Medium,28,8,2023,3
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-10,981,Critical,48,11,2024,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-05-21,330,Medium,63,5,2024,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-11-08,136,Low,87,11,2023,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-18,377,Medium,88,10,2025,4
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-22,296,Medium,76,10,2024,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-05-03,207,Medium,53,5,2025,2
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-25,205,Medium,8,9,2023,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-08-17,98,Low,43,8,2023,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2022-11-28,402,High,69,11,2022,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2022-11-29,442,High,62,11,2022,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-02-27,457,High,7,2,2024,1
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-02,260,Medium,78,12,2023,4
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-05,133,Low,89,4,2024,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-05,184,Medium,17,2,2024,1
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-04,441,High,85,10,2025,4
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2025-11-04,464,High,41,11,2025,4
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-31,143,Low,24,3,2023,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-05-31,366,Medium,64,5,2025,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-08-14,146,Low,48,8,2025,3
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-02-20,647,High,9,2,2023,1
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2024-06-10,425,High,23,6,2024,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2024-03-01,96,Low,26,3,2024,1
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-01-29,450,High,60,1,2024,1
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-10,287,Medium,11,12,2024,4
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-09-06,24,Low,41,9,2023,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-06-30,142,Low,31,6,2025,2
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2022-12-06,112,Low,38,12,2022,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-03-31,427,High,11,3,2024,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-22,316,Medium,33,5,2023,2
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-11,215,Medium,27,8,2024,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-10-12,41,Low,39,10,2025,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-12-22,234,Medium,13,12,2023,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-03-08,374,Medium,62,3,2024,1
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-19,80,Low,81,10,2023,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-22,22,Low,12,3,2024,1
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-09-24,240,Medium,18,9,2023,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-30,96,Low,86,8,2025,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-13,101,Low,89,3,2023,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-06-18,278,Medium,69,6,2023,2
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-22,462,High,63,10,2024,4
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-12-23,233,Medium,24,12,2024,4
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-31,411,High,63,7,2025,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-08-10,147,Low,79,8,2025,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-10-23,102,Low,66,10,2024,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-10-05,85,Low,74,10,2023,4
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-08,419,High,76,7,2024,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-12,894,Critical,88,11,2022,4
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-25,59,Low,86,11,2023,4
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-03-14,92,Low,15,3,2024,1
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-04,318,Medium,70,12,2023,4
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-12,215,Medium,59,6,2024,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-05-27,143,Low,15,5,2023,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-11,994,Critical,11,11,2023,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-08-01,148,Low,19,8,2025,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-01-14,773,Critical,69,1,2025,1
+Measles,USA,New York,New York City,40.7128,-74.006,2024-04-18,75,Low,53,4,2024,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-04-05,56,Low,33,4,2023,2
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-06-26,460,High,88,6,2025,2
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-11,104,Low,14,3,2025,1
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-29,70,Low,16,10,2025,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-01-27,315,Medium,19,1,2024,1
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-11-03,118,Low,31,11,2025,4
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-04-03,341,Medium,87,4,2024,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-03-10,47,Low,88,3,2025,1
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-06-07,409,High,61,6,2025,2
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-15,122,Low,71,11,2023,4
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-11-08,714,Critical,63,11,2025,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-09-05,105,Low,59,9,2024,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-03-17,338,Medium,76,3,2024,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-14,234,Medium,64,4,2024,2
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2022-11-11,421,High,11,11,2022,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2022-12-14,315,Medium,24,12,2022,4
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-18,163,Medium,34,7,2024,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-29,151,Medium,72,5,2024,2
+Measles,USA,New York,New York City,40.7128,-74.006,2023-09-23,98,Low,11,9,2023,3
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-26,120,Low,40,9,2023,3
+COVID-19,USA,New York,New York City,40.7128,-74.006,2024-04-05,69,Low,39,4,2024,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-02-06,341,Medium,34,2,2025,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-26,327,Medium,69,7,2025,3
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-07-18,69,Low,80,7,2024,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-03-05,444,High,49,3,2023,1
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-13,40,Low,36,3,2025,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-02,77,Low,46,1,2025,1
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-08-25,326,Medium,79,8,2024,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-09-04,376,Medium,26,9,2025,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-05-11,162,Medium,80,5,2025,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-02-08,271,Medium,44,2,2024,1
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-08,222,Medium,17,8,2023,3
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2023-02-19,330,Medium,58,2,2023,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-02-04,306,Medium,62,2,2025,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-22,722,Critical,32,7,2025,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-17,337,Medium,85,12,2023,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-03-21,86,Low,41,3,2024,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-13,107,Low,59,5,2023,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-24,147,Low,48,10,2024,4
+COVID-19,USA,New York,New York City,40.7128,-74.006,2022-12-30,888,Critical,46,12,2022,4
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-04,57,Low,63,5,2025,2
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-12-24,801,Critical,54,12,2023,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2023-06-29,205,Medium,38,6,2023,2
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-22,57,Low,50,6,2024,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-20,140,Low,9,5,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-01-18,308,Medium,76,1,2024,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-07-27,368,Medium,25,7,2025,3
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-24,21,Low,39,10,2025,4
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-14,355,Medium,86,6,2024,2
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-20,385,Medium,8,6,2025,2
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-05-19,112,Low,20,5,2024,2
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-10,336,Medium,55,1,2025,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-08-18,298,Medium,83,8,2024,3
+Measles,India,Delhi,New Delhi,28.6139,77.209,2023-11-27,151,Medium,71,11,2023,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2022-12-25,70,Low,38,12,2022,4
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-24,300,Medium,57,9,2024,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-21,110,Low,52,10,2024,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-09-02,191,Medium,14,9,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-01-10,334,Medium,42,1,2023,1
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-10-10,251,Medium,24,10,2024,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-12,78,Low,60,10,2025,4
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-09-19,268,Medium,46,9,2023,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-18,327,Medium,23,5,2025,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-30,491,High,24,12,2023,4
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-08-14,270,Medium,25,8,2023,3
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-08-22,84,Low,78,8,2024,3
+Measles,India,Delhi,New Delhi,28.6139,77.209,2023-11-23,212,Medium,25,11,2023,4
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-07,115,Low,45,3,2025,1
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-18,448,High,31,9,2023,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-24,26,Low,85,11,2023,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-02-26,355,Medium,36,2,2024,1
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-15,90,Low,68,11,2024,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-06-28,532,High,30,6,2025,2
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-07-08,120,Low,27,7,2025,3
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-01-16,259,Medium,8,1,2023,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-09,430,High,32,2,2024,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-11-08,274,Medium,85,11,2023,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-06-05,176,Medium,61,6,2025,2
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2024-12-29,418,High,47,12,2024,4
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-10-21,378,Medium,11,10,2025,4
+Measles,India,Delhi,New Delhi,28.6139,77.209,2025-05-23,283,Medium,12,5,2025,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2025-01-29,426,High,12,1,2025,1
+Measles,India,Rajasthan,Jaipur,26.9124,75.7873,2025-10-03,441,High,87,10,2025,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-06-29,122,Low,57,6,2024,2
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2025-06-12,135,Low,61,6,2025,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-03-02,403,High,73,3,2023,1
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-24,43,Low,71,5,2025,2
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-15,552,High,59,8,2023,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-01-01,283,Medium,65,1,2023,1
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-30,96,Low,39,5,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-22,33,Low,21,7,2023,3
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-04,318,Medium,56,5,2023,2
+Measles,USA,New York,New York City,40.7128,-74.006,2023-10-04,243,Medium,77,10,2023,4
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-10-26,221,Medium,79,10,2023,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-03,333,Medium,13,9,2023,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-08-05,423,High,64,8,2024,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-09,117,Low,32,7,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-04-12,13,Low,65,4,2024,2
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-22,361,Medium,70,11,2022,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-12,282,Medium,59,7,2025,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2022-11-24,175,Medium,77,11,2022,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-01-10,75,Low,30,1,2024,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-25,29,Low,25,10,2024,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-07-14,94,Low,18,7,2024,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-03-13,55,Low,27,3,2025,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-11-09,283,Medium,81,11,2023,4
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-20,86,Low,48,5,2023,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-03-29,119,Low,77,3,2023,1
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-07-02,287,Medium,22,7,2025,3
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-10-25,261,Medium,74,10,2025,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-10,105,Low,80,3,2023,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2025-07-28,420,High,84,7,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-20,182,Medium,74,8,2024,3
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-11-04,116,Low,85,11,2024,4
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-10,423,High,87,10,2025,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-14,362,Medium,36,11,2023,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-11-14,110,Low,10,11,2022,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-01-09,459,High,85,1,2024,1
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2023-02-12,220,Medium,51,2,2023,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-12-04,377,Medium,32,12,2022,4
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2023-03-29,207,Medium,45,3,2023,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-09-04,442,High,7,9,2024,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-10,121,Low,79,10,2024,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-11-05,149,Low,49,11,2023,4
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-07-09,19,Low,89,7,2025,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-09-25,792,Critical,65,9,2023,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-06-15,451,High,59,6,2025,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2024-07-16,154,Medium,47,7,2024,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2022-12-19,156,Medium,80,12,2022,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-26,48,Low,42,3,2023,1
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-18,741,Critical,75,12,2024,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-01-16,67,Low,83,1,2025,1
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2024-08-16,182,Medium,41,8,2024,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-08-24,499,High,37,8,2025,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-22,65,Low,74,7,2024,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-28,241,Medium,11,6,2023,2
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-05-07,309,Medium,10,5,2025,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2023-09-22,147,Low,50,9,2023,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2024-08-07,447,High,48,8,2024,3
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2025-10-03,53,Low,33,10,2025,4
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-01-12,830,Critical,73,1,2025,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-08-08,195,Medium,83,8,2024,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-06-24,197,Medium,20,6,2025,2
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2022-12-27,345,Medium,46,12,2022,4
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-26,148,Low,43,12,2023,4
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2024-08-25,445,High,63,8,2024,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-12,311,Medium,42,9,2023,3
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2025-09-28,254,Medium,33,9,2025,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-24,188,Medium,25,8,2024,3
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-03-26,137,Low,16,3,2024,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-10-04,326,Medium,63,10,2024,4
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-09,582,High,13,1,2023,1
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-03-01,42,Low,61,3,2023,1
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-12,365,Medium,52,5,2025,2
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-21,415,High,75,12,2023,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-08-07,245,Medium,66,8,2023,3
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-07,626,High,67,8,2024,3
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-01,490,High,85,9,2023,3
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-21,143,Low,49,1,2025,1
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-05,17,Low,15,8,2025,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-10-30,295,Medium,66,10,2024,4
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-24,52,Low,72,10,2024,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-06-18,483,High,78,6,2023,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-11-06,138,Low,58,11,2025,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-13,367,Medium,38,3,2024,1
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-25,246,Medium,15,7,2025,3
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-04-11,121,Low,79,4,2025,2
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-03-08,54,Low,16,3,2024,1
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-07-03,353,Medium,83,7,2023,3
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-29,470,High,63,5,2023,2
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-19,37,Low,83,2,2025,1
+Dengue,USA,New York,New York City,40.7128,-74.006,2024-12-26,103,Low,70,12,2024,4
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-01-30,936,Critical,24,1,2024,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-09-07,388,Medium,26,9,2023,3
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2024-06-29,249,Medium,85,6,2024,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-16,155,Medium,47,12,2023,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-07-26,272,Medium,51,7,2024,3
+Dengue,USA,New York,New York City,40.7128,-74.006,2022-11-27,150,Low,58,11,2022,4
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2023-03-18,114,Low,77,3,2023,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-15,212,Medium,43,11,2024,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-04-13,189,Medium,82,4,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-02,257,Medium,55,1,2025,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-01-17,389,Medium,29,1,2024,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-01,334,Medium,56,12,2023,4
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-22,83,Low,23,9,2023,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-06,24,Low,25,4,2023,2
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-16,93,Low,24,8,2023,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-31,369,Medium,30,3,2025,1
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-03-28,332,Medium,64,3,2025,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-16,145,Low,61,2,2024,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-27,483,High,37,8,2025,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-01,329,Medium,80,3,2025,1
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-01-27,681,High,68,1,2023,1
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-07-24,186,Medium,17,7,2025,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-06-05,626,High,73,6,2024,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2023-05-11,82,Low,67,5,2023,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-08-11,777,Critical,13,8,2024,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2022-12-03,580,High,65,12,2022,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-19,265,Medium,52,9,2024,3
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-20,68,Low,83,10,2023,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-04-27,81,Low,87,4,2024,2
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2023-10-23,343,Medium,13,10,2023,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-01-05,196,Medium,69,1,2023,1
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-11,228,Medium,42,9,2025,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-08,190,Medium,39,6,2024,2
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-11-03,705,Critical,26,11,2023,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-05,183,Medium,37,11,2023,4
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-10-26,491,High,11,10,2025,4
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2023-09-04,162,Medium,26,9,2023,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-03,171,Medium,63,1,2025,1
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-10-17,33,Low,89,10,2024,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-02-26,135,Low,66,2,2023,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-20,293,Medium,75,7,2024,3
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-17,292,Medium,40,1,2025,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-04-19,23,Low,43,4,2025,2
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-18,321,Medium,12,8,2024,3
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-11-04,130,Low,85,11,2024,4
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-05-17,186,Medium,19,5,2024,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-01-20,286,Medium,37,1,2025,1
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-10,222,Medium,30,10,2025,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2022-12-02,788,Critical,8,12,2022,4
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2025-03-02,45,Low,74,3,2025,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-30,76,Low,43,10,2024,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-01-19,62,Low,86,1,2023,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-29,51,Low,22,1,2024,1
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-08-04,534,High,89,8,2023,3
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2023-06-26,406,High,30,6,2023,2
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2025-06-24,388,Medium,16,6,2025,2
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-03,404,High,48,4,2025,2
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-11,191,Medium,14,4,2023,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-22,80,Low,40,9,2024,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-01,85,Low,69,5,2025,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2025-01-23,141,Low,89,1,2025,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-09-01,326,Medium,62,9,2023,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-06-16,276,Medium,40,6,2023,2
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-09,38,Low,80,4,2023,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-19,304,Medium,26,12,2022,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-18,372,Medium,26,1,2025,1
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2022-11-18,627,High,69,11,2022,4
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2025-02-15,482,High,15,2,2025,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-11-17,246,Medium,68,11,2022,4
+Dengue,USA,New York,New York City,40.7128,-74.006,2024-11-15,105,Low,45,11,2024,4
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-15,237,Medium,75,5,2023,2
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-06-09,84,Low,89,6,2025,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-01-30,246,Medium,31,1,2023,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-06-17,372,Medium,52,6,2023,2
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-04-25,426,High,31,4,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-11,26,Low,82,12,2023,4
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-01-15,82,Low,76,1,2025,1
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-11-08,477,High,64,11,2025,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-05,24,Low,50,10,2024,4
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-11,64,Low,90,7,2023,3
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-09-12,429,High,81,9,2023,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-01-25,426,High,25,1,2023,1
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-03,366,Medium,12,7,2025,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2022-12-10,138,Low,87,12,2022,4
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2023-05-29,126,Low,85,5,2023,2
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-03-21,47,Low,21,3,2023,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-02-05,82,Low,32,2,2024,1
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-11,216,Medium,22,2,2025,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2023-08-19,214,Medium,34,8,2023,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-11-01,443,High,15,11,2023,4
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2023-08-27,575,High,28,8,2023,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-10-14,122,Low,38,10,2023,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-11,101,Low,87,8,2023,3
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-09-30,58,Low,69,9,2023,3
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2022-11-25,65,Low,18,11,2022,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-03-12,405,High,67,3,2025,1
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-08-31,427,High,73,8,2023,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-14,139,Low,85,3,2024,1
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-11-14,834,Critical,70,11,2023,4
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-07-19,228,Medium,60,7,2024,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2024-03-07,59,Low,22,3,2024,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-11-21,491,High,76,11,2024,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-18,444,High,87,6,2025,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-02-27,149,Low,21,2,2023,1
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-25,330,Medium,27,8,2025,3
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-25,391,Medium,33,11,2024,4
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-25,365,Medium,65,9,2024,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2023-02-26,650,High,29,2,2023,1
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-31,677,High,21,7,2025,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-09,103,Low,60,5,2025,2
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-02-25,448,High,21,2,2024,1
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-05-30,70,Low,59,5,2023,2
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-05,87,Low,67,2,2024,1
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-02,273,Medium,25,3,2023,1
+Cholera,USA,New York,New York City,40.7128,-74.006,2025-05-30,141,Low,56,5,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-06-05,194,Medium,31,6,2025,2
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2023-12-30,443,High,23,12,2023,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-03-13,81,Low,24,3,2023,1
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-07,578,High,28,6,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-07-07,164,Medium,27,7,2024,3
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-02-24,94,Low,59,2,2024,1
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-01-28,352,Medium,67,1,2024,1
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2022-12-10,423,High,61,12,2022,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-09-11,272,Medium,81,9,2024,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-09-12,343,Medium,7,9,2023,3
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-01,290,Medium,71,2,2023,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-11-02,503,High,68,11,2025,4
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-21,396,Medium,17,8,2025,3
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2025-02-20,161,Medium,23,2,2025,1
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-03-14,175,Medium,18,3,2024,1
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-27,51,Low,65,7,2024,3
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2022-12-30,282,Medium,66,12,2022,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-24,114,Low,87,11,2023,4
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-04,247,Medium,49,4,2023,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-10,268,Medium,41,7,2024,3
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-01-09,453,High,17,1,2024,1
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-03,313,Medium,53,3,2023,1
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-01-03,474,High,66,1,2025,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-28,237,Medium,29,11,2024,4
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-01-04,120,Low,49,1,2024,1
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2023-07-01,382,Medium,68,7,2023,3
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-02-15,214,Medium,52,2,2024,1
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2025-03-26,191,Medium,13,3,2025,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-18,135,Low,69,10,2024,4
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2023-07-20,290,Medium,75,7,2023,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-24,367,Medium,54,5,2025,2
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-05,239,Medium,17,6,2025,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-23,89,Low,20,6,2024,2
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2023-06-28,301,Medium,70,6,2023,2
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-12,25,Low,44,10,2025,4
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2023-08-08,292,Medium,51,8,2023,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-12-24,199,Medium,31,12,2022,4
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-29,105,Low,59,2,2024,1
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-09-09,298,Medium,82,9,2024,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2025-05-10,284,Medium,45,5,2025,2
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-30,137,Low,40,7,2024,3
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-12-11,197,Medium,13,12,2024,4
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-06-15,616,High,28,6,2024,2
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-17,143,Low,29,6,2024,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2024-03-12,49,Low,12,3,2024,1
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-07-28,122,Low,40,7,2023,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-05,675,High,11,1,2024,1
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-09,105,Low,64,9,2023,3
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-11-07,204,Medium,22,11,2025,4
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-29,47,Low,65,8,2025,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2022-11-19,856,Critical,76,11,2022,4
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-07-08,292,Medium,44,7,2024,3
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-04,223,Medium,21,5,2025,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-23,397,Medium,77,8,2023,3
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2022-12-31,122,Low,86,12,2022,4
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-11-11,97,Low,48,11,2024,4
+Influenza,USA,New York,New York City,40.7128,-74.006,2023-12-15,697,High,74,12,2023,4
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-12-16,61,Low,17,12,2023,4
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-08,312,Medium,57,5,2023,2
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-22,358,Medium,84,8,2024,3
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-19,253,Medium,25,11,2024,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-09,240,Medium,8,1,2025,1
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-10-30,207,Medium,64,10,2024,4
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-01-26,422,High,63,1,2024,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-24,133,Low,61,6,2024,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2023-05-06,123,Low,33,5,2023,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-21,221,Medium,15,10,2025,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-05-11,53,Low,59,5,2023,2
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-04,334,Medium,66,11,2023,4
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-24,145,Low,55,12,2023,4
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2025-08-11,71,Low,45,8,2025,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-08-18,336,Medium,66,8,2025,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2022-11-16,128,Low,40,11,2022,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-07-23,384,Medium,43,7,2023,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-14,402,High,89,8,2025,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-13,441,High,42,7,2023,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-11-20,347,Medium,68,11,2024,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-22,371,Medium,67,4,2024,2
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-09-25,739,Critical,9,9,2025,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-03-10,124,Low,47,3,2023,1
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-11,133,Low,13,11,2024,4
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-19,375,Medium,52,3,2025,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-30,145,Low,88,6,2024,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2023-12-12,66,Low,19,12,2023,4
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-01,496,High,47,9,2024,3
+Typhoid,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-22,99,Low,75,11,2024,4
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-01,56,Low,24,9,2023,3
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-12-13,448,High,69,12,2024,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-10-10,102,Low,34,10,2023,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-02-06,68,Low,78,2,2024,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-11-04,414,High,77,11,2025,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-06-11,228,Medium,21,6,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-20,506,High,46,7,2025,3
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-04,162,Medium,73,5,2025,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-26,17,Low,22,7,2024,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-08-29,402,High,36,8,2023,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-01-14,116,Low,17,1,2024,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-04-19,59,Low,68,4,2023,2
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-18,105,Low,11,12,2023,4
+Measles,USA,New York,New York City,40.7128,-74.006,2023-03-12,290,Medium,22,3,2023,1
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-26,204,Medium,8,3,2023,1
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-01-05,71,Low,30,1,2024,1
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-05-15,47,Low,42,5,2023,2
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-11-01,132,Low,71,11,2024,4
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-09-10,341,Medium,15,9,2025,3
+Dengue,USA,New York,New York City,40.7128,-74.006,2022-12-09,75,Low,31,12,2022,4
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2022-11-19,421,High,19,11,2022,4
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2025-07-10,237,Medium,82,7,2025,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-06-18,335,Medium,52,6,2023,2
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-01-23,313,Medium,36,1,2024,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-08-15,113,Low,66,8,2024,3
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2023-08-16,657,High,53,8,2023,3
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-02-02,92,Low,48,2,2023,1
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-01-07,195,Medium,65,1,2025,1
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-08,165,Medium,77,5,2025,2
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-05,146,Low,15,4,2025,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-13,56,Low,69,11,2023,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2025-04-26,41,Low,22,4,2025,2
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-02-08,46,Low,28,2,2025,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-23,106,Low,32,12,2023,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-20,169,Medium,61,7,2023,3
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-05-23,437,High,89,5,2024,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-07-12,391,Medium,84,7,2025,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-09-23,192,Medium,25,9,2025,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2023-07-19,178,Medium,69,7,2023,3
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-08-13,65,Low,19,8,2023,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-08-27,183,Medium,10,8,2025,3
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-10,306,Medium,45,9,2024,3
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2023-05-27,439,High,16,5,2023,2
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-22,153,Medium,44,6,2025,2
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-09-09,183,Medium,76,9,2025,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2022-12-17,882,Critical,11,12,2022,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-01-04,280,Medium,47,1,2025,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-09,68,Low,11,6,2025,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2024-07-23,318,Medium,69,7,2024,3
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-08-11,416,High,56,8,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2025-08-11,387,Medium,77,8,2025,3
+Measles,USA,New York,New York City,40.7128,-74.006,2025-06-30,293,Medium,78,6,2025,2
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-03-05,120,Low,40,3,2023,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-12-23,365,Medium,52,12,2024,4
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-16,64,Low,82,3,2023,1
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-30,457,High,81,11,2024,4
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-29,199,Medium,61,12,2024,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-03,99,Low,14,3,2025,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-03-05,381,Medium,46,3,2024,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-03-25,494,High,46,3,2023,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-10-24,25,Low,75,10,2023,4
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-11,178,Medium,61,6,2025,2
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-03-22,186,Medium,9,3,2025,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2022-12-26,212,Medium,55,12,2022,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-01,343,Medium,19,9,2024,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-01-06,222,Medium,70,1,2024,1
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-10-18,364,Medium,45,10,2023,4
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-29,608,High,88,12,2023,4
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-01-23,93,Low,40,1,2024,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-11,923,Critical,35,2,2025,1
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-05-24,353,Medium,50,5,2023,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-11-02,293,Medium,61,11,2025,4
+Cholera,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-04-17,383,Medium,45,4,2023,2
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-15,389,Medium,76,4,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-08,112,Low,39,3,2025,1
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2025-05-27,393,Medium,77,5,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-03,67,Low,80,10,2025,4
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-25,187,Medium,88,6,2025,2
+Measles,USA,New York,New York City,40.7128,-74.006,2025-04-17,339,Medium,87,4,2025,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-12-26,473,High,66,12,2023,4
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-15,457,High,62,9,2023,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-22,374,Medium,33,3,2023,1
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-06-20,380,Medium,27,6,2024,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2024-03-08,257,Medium,37,3,2024,1
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-09,27,Low,38,12,2023,4
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-01,336,Medium,62,8,2025,3
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-29,131,Low,41,12,2023,4
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-04-23,91,Low,77,4,2024,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-02,170,Medium,14,8,2025,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-07-13,215,Medium,59,7,2024,3
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-01-31,959,Critical,24,1,2025,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-08-31,111,Low,73,8,2025,3
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-04-09,304,Medium,18,4,2024,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-07-19,445,High,47,7,2023,3
+COVID-19,USA,New York,New York City,40.7128,-74.006,2025-01-17,925,Critical,37,1,2025,1
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-02,104,Low,29,9,2023,3
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-04-29,259,Medium,39,4,2025,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-11,323,Medium,54,8,2025,3
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-03-27,141,Low,38,3,2025,1
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-11-23,293,Medium,54,11,2024,4
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2023-01-21,480,High,13,1,2023,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-06,208,Medium,88,1,2025,1
+COVID-19,India,Delhi,New Delhi,28.6139,77.209,2025-11-10,987,Critical,37,11,2025,4
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2022-11-27,251,Medium,39,11,2022,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-03-07,202,Medium,33,3,2024,1
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-21,566,High,11,8,2024,3
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-08-13,291,Medium,59,8,2025,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-06-04,51,Low,40,6,2023,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-10-31,265,Medium,84,10,2024,4
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-27,405,High,10,5,2025,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2025-05-07,174,Medium,24,5,2025,2
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-25,743,Critical,46,12,2023,4
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-04-28,38,Low,27,4,2023,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2023-08-04,483,High,83,8,2023,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-23,294,Medium,24,5,2025,2
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-11,459,High,43,9,2024,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-03-08,238,Medium,30,3,2025,1
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-13,60,Low,9,2,2024,1
+Measles,USA,New York,New York City,40.7128,-74.006,2024-02-22,95,Low,66,2,2024,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-22,75,Low,58,10,2023,4
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2024-04-26,126,Low,18,4,2024,2
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-09,13,Low,74,7,2023,3
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-08-19,110,Low,35,8,2025,3
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-05-09,197,Medium,70,5,2024,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-12,488,High,33,4,2025,2
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-06-12,422,High,31,6,2024,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-02-24,455,High,25,2,2025,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2024-04-30,70,Low,86,4,2024,2
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-12-07,348,Medium,89,12,2024,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2022-12-02,290,Medium,24,12,2022,4
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2024-01-19,830,Critical,56,1,2024,1
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2024-04-18,87,Low,19,4,2024,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-02-25,220,Medium,37,2,2023,1
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-02-12,52,Low,39,2,2023,1
+Measles,USA,New York,New York City,40.7128,-74.006,2024-12-30,204,Medium,57,12,2024,4
+COVID-19,India,Karnataka,Bangalore,12.9716,77.5946,2023-02-03,694,High,29,2,2023,1
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-07,302,Medium,50,9,2025,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-05-13,212,Medium,74,5,2023,2
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-27,109,Low,47,4,2024,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-29,81,Low,53,8,2025,3
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2024-05-03,363,Medium,40,5,2024,2
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-21,134,Low,47,4,2025,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-30,77,Low,31,4,2025,2
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-24,66,Low,11,2,2024,1
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2023-10-11,411,High,66,10,2023,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-08-20,70,Low,63,8,2025,3
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2025-07-31,127,Low,70,7,2025,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-22,507,High,18,7,2023,3
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2023-11-15,477,High,28,11,2023,4
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-01-19,348,Medium,7,1,2024,1
+Measles,USA,New York,New York City,40.7128,-74.006,2023-11-15,263,Medium,16,11,2023,4
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-23,218,Medium,10,5,2023,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-01-26,241,Medium,82,1,2025,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-09-21,179,Medium,17,9,2023,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-28,371,Medium,41,5,2025,2
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2024-09-15,72,Low,90,9,2024,3
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-06,424,High,79,9,2024,3
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-18,92,Low,48,2,2023,1
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-12-31,194,Medium,58,12,2024,4
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-03-16,444,High,58,3,2024,1
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2024-01-11,61,Low,56,1,2024,1
+Tuberculosis,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-22,111,Low,45,9,2023,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2024-08-07,400,Medium,84,8,2024,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-05-26,114,Low,72,5,2023,2
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-11,248,Medium,67,5,2025,2
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-03-26,96,Low,61,3,2025,1
+COVID-19,USA,New York,New York City,40.7128,-74.006,2023-11-27,544,High,87,11,2023,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-02-01,312,Medium,50,2,2023,1
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-24,303,Medium,74,9,2023,3
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-06-28,289,Medium,62,6,2024,2
+Dengue,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-18,302,Medium,23,7,2024,3
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-10-17,268,Medium,44,10,2025,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-16,73,Low,72,4,2023,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2025-03-30,125,Low,19,3,2025,1
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-04-12,231,Medium,39,4,2024,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2025-09-07,58,Low,21,9,2025,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-11-19,481,High,57,11,2023,4
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-03-12,190,Medium,45,3,2025,1
+COVID-19,USA,New York,New York City,40.7128,-74.006,2025-05-30,181,Medium,64,5,2025,2
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2024-10-10,496,High,30,10,2024,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-04-20,432,High,84,4,2023,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-04-17,323,Medium,9,4,2025,2
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-07,13,Low,28,7,2023,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-02-17,494,High,84,2,2025,1
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-18,403,High,57,11,2024,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-07-25,119,Low,8,7,2023,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2022-12-13,406,High,31,12,2022,4
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-23,176,Medium,25,7,2025,3
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2023-12-06,94,Low,45,12,2023,4
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-08,266,Medium,9,7,2025,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-19,605,High,69,9,2023,3
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2025-05-19,349,Medium,38,5,2025,2
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-21,76,Low,49,1,2025,1
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-04-13,116,Low,70,4,2025,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2024-06-28,68,Low,69,6,2024,2
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-09-27,352,Medium,85,9,2025,3
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-15,320,Medium,9,3,2023,1
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2024-08-18,333,Medium,15,8,2024,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-07,109,Low,70,7,2025,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-05-17,407,High,62,5,2025,2
+Influenza,India,Karnataka,Bangalore,12.9716,77.5946,2024-06-22,195,Medium,31,6,2024,2
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-26,168,Medium,71,4,2025,2
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-10-05,358,Medium,66,10,2024,4
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-18,126,Low,90,1,2025,1
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-10-08,169,Medium,33,10,2023,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-07-26,116,Low,29,7,2025,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-08-14,101,Low,60,8,2025,3
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2024-03-05,157,Medium,78,3,2024,1
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2024-11-14,367,Medium,52,11,2024,4
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-07,182,Medium,15,9,2025,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-07-02,168,Medium,36,7,2023,3
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2024-02-12,144,Low,40,2,2024,1
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-02-14,888,Critical,78,2,2023,1
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-10-01,359,Medium,20,10,2025,4
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-04,38,Low,20,6,2025,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2023-06-07,471,High,78,6,2023,2
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-06-14,52,Low,87,6,2023,2
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-11-20,60,Low,44,11,2024,4
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-08-27,425,High,19,8,2025,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-09-26,291,Medium,22,9,2024,3
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-11,443,High,7,3,2025,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-10,196,Medium,71,10,2024,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2024-05-08,115,Low,60,5,2024,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-09-17,145,Low,60,9,2023,3
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2025-04-07,261,Medium,59,4,2025,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2024-11-20,65,Low,63,11,2024,4
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-05,37,Low,17,10,2025,4
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-10,890,Critical,28,2,2025,1
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-24,438,High,11,1,2025,1
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-03-09,95,Low,60,3,2023,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-07-26,419,High,47,7,2024,3
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2024-06-05,145,Low,85,6,2024,2
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-05-12,72,Low,76,5,2025,2
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-05-04,407,High,51,5,2025,2
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-07-20,93,Low,11,7,2024,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-01-17,421,High,23,1,2025,1
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-06-14,159,Medium,18,6,2024,2
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2024-08-11,316,Medium,50,8,2024,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2023-01-07,86,Low,37,1,2023,1
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2025-09-10,106,Low,14,9,2025,3
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2025-09-15,100,Low,22,9,2025,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-05-18,86,Low,80,5,2025,2
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-10-05,70,Low,81,10,2024,4
+Chickenpox,USA,California,Los Angeles,34.0522,-118.2437,2024-03-03,229,Medium,45,3,2024,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2023-08-24,415,High,55,8,2023,3
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-06-14,217,Medium,73,6,2023,2
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-11-19,282,Medium,19,11,2024,4
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-03,40,Low,18,3,2025,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-04,131,Low,34,8,2023,3
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-12-06,396,Medium,74,12,2024,4
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2025-10-08,448,High,57,10,2025,4
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-08-28,375,Medium,61,8,2025,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-13,471,High,27,3,2025,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-07-29,646,High,65,7,2023,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-10-29,50,Low,34,10,2025,4
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-01-16,432,High,27,1,2023,1
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-07-12,358,Medium,59,7,2023,3
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2024-12-06,94,Low,12,12,2024,4
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-07-10,240,Medium,46,7,2023,3
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-05,134,Low,10,7,2024,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-03-23,32,Low,46,3,2025,1
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-11-20,469,High,69,11,2023,4
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2024-10-25,27,Low,12,10,2024,4
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-06,339,Medium,64,8,2024,3
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-11,194,Medium,84,7,2025,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-09,621,High,64,9,2025,3
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-07,95,Low,86,9,2024,3
+Chickenpox,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-12,169,Medium,57,1,2025,1
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2023-02-12,786,Critical,63,2,2023,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-10-16,412,High,10,10,2023,4
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-07-22,379,Medium,78,7,2023,3
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-27,68,Low,67,2,2023,1
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-15,387,Medium,75,7,2023,3
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2024-05-27,72,Low,38,5,2024,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-03,463,High,75,5,2023,2
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-10,351,Medium,12,2,2025,1
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2024-10-07,273,Medium,30,10,2024,4
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2025-10-27,212,Medium,55,10,2025,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-07-03,100,Low,76,7,2023,3
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2023-09-01,337,Medium,39,9,2023,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2024-07-31,567,High,28,7,2024,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2024-09-07,56,Low,10,9,2024,3
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-01-17,201,Medium,47,1,2025,1
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2024-09-04,414,High,55,9,2024,3
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-30,81,Low,83,12,2023,4
+Chickenpox,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-08-16,310,Medium,71,8,2025,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-05-15,81,Low,47,5,2024,2
+Hepatitis A,USA,California,Los Angeles,34.0522,-118.2437,2025-02-21,83,Low,68,2,2025,1
+Influenza,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-03,14,Low,41,3,2024,1
+Measles,USA,New York,New York City,40.7128,-74.006,2023-06-06,176,Medium,78,6,2023,2
+Malaria,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-21,134,Low,17,2,2025,1
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-08-29,241,Medium,76,8,2023,3
+Malaria,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-27,135,Low,12,3,2025,1
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-06-25,177,Medium,28,6,2024,2
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-25,79,Low,83,7,2025,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-10-30,481,High,87,10,2024,4
+Cholera,USA,New York,New York City,40.7128,-74.006,2025-09-21,194,Medium,12,9,2025,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-04-03,96,Low,18,4,2023,2
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-08-24,421,High,78,8,2023,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2024-01-16,362,Medium,71,1,2024,1
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-04-29,191,Medium,64,4,2024,2
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-08-30,224,Medium,33,8,2024,3
+Hepatitis A,USA,New York,New York City,40.7128,-74.006,2024-09-13,58,Low,24,9,2024,3
+Influenza,USA,New York,New York City,40.7128,-74.006,2025-07-13,11,Low,8,7,2025,3
+Malaria,India,Rajasthan,Jaipur,26.9124,75.7873,2025-08-08,552,High,75,8,2025,3
+Dengue,India,Delhi,New Delhi,28.6139,77.209,2023-01-13,133,Low,22,1,2023,1
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2024-11-13,496,High,29,11,2024,4
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-06-15,104,Low,31,6,2025,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-07,430,High,9,2,2024,1
+Typhoid,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-12-08,96,Low,85,12,2023,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-03-04,302,Medium,53,3,2024,1
+Influenza,India,West Bengal,Kolkata,22.5726,88.3639,2025-08-16,190,Medium,84,8,2025,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-17,470,High,88,12,2023,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-06-01,341,Medium,71,6,2024,2
+Hepatitis A,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-12,387,Medium,79,12,2023,4
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2023-11-05,83,Low,82,11,2023,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2023-07-29,415,High,79,7,2023,3
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2024-05-25,148,Low,9,5,2024,2
+Measles,USA,New York,New York City,40.7128,-74.006,2024-04-11,398,Medium,78,4,2024,2
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2025-04-03,378,Medium,90,4,2025,2
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-04-14,114,Low,42,4,2025,2
+Dengue,USA,California,Los Angeles,34.0522,-118.2437,2025-06-23,657,High,53,6,2025,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-02-13,74,Low,42,2,2024,1
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2025-05-18,211,Medium,7,5,2025,2
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-09-26,91,Low,80,9,2024,3
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-27,29,Low,38,3,2025,1
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-15,209,Medium,15,9,2024,3
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2025-07-20,592,High,10,7,2025,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-04-06,176,Medium,20,4,2024,2
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-10-08,476,High,13,10,2024,4
+COVID-19,USA,California,Los Angeles,34.0522,-118.2437,2024-03-09,28,Low,83,3,2024,1
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-05-25,370,Medium,64,5,2023,2
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2023-05-05,81,Low,11,5,2023,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-03-24,450,High,23,3,2023,1
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-03,87,Low,85,3,2023,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2023-06-07,396,Medium,14,6,2023,2
+Measles,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-06,485,High,55,7,2024,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-03-01,169,Medium,83,3,2025,1
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-05-27,246,Medium,66,5,2025,2
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-06-06,223,Medium,90,6,2023,2
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-05,94,Low,82,10,2025,4
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-06-09,56,Low,83,6,2023,2
+Dengue,USA,New York,New York City,40.7128,-74.006,2023-12-12,52,Low,88,12,2023,4
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-11-07,265,Medium,68,11,2024,4
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-11-26,174,Medium,24,11,2023,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2023-07-30,89,Low,81,7,2023,3
+Tuberculosis,USA,California,Los Angeles,34.0522,-118.2437,2024-11-12,209,Medium,81,11,2024,4
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2023-09-08,290,Medium,46,9,2023,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-06-29,238,Medium,8,6,2024,2
+Measles,USA,New York,New York City,40.7128,-74.006,2023-09-03,79,Low,37,9,2023,3
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2023-03-02,266,Medium,51,3,2023,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-12-28,452,High,15,12,2023,4
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-07-12,187,Medium,66,7,2025,3
+Chickenpox,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-09-28,365,Medium,45,9,2024,3
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-10-09,103,Low,65,10,2023,4
+Influenza,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-02-03,103,Low,88,2,2024,1
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-06-23,369,Medium,34,6,2025,2
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-09-19,463,High,55,9,2024,3
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2023-11-23,472,High,7,11,2023,4
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-04-11,101,Low,10,4,2023,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2023-08-29,198,Medium,63,8,2023,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-11-17,72,Low,10,11,2024,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-06-14,139,Low,35,6,2024,2
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-10-06,483,High,77,10,2024,4
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-17,61,Low,29,12,2023,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2022-12-23,475,High,24,12,2022,4
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-10-04,157,Medium,46,10,2024,4
+Hepatitis A,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-12-07,464,High,54,12,2024,4
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-04-17,36,Low,22,4,2025,2
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-04,69,Low,75,12,2023,4
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-08-23,356,Medium,61,8,2024,3
+Cholera,India,Maharashtra,Mumbai,19.076,72.8777,2023-12-03,487,High,75,12,2023,4
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2024-09-12,176,Medium,13,9,2024,3
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-16,349,Medium,69,9,2025,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-07-01,454,High,85,7,2025,3
+Dengue,India,Karnataka,Bangalore,12.9716,77.5946,2025-09-17,547,High,89,9,2025,3
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-08-28,315,Medium,66,8,2025,3
+Malaria,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-12-15,143,Low,70,12,2024,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2025-02-09,376,Medium,81,2,2025,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-02-03,307,Medium,64,2,2024,1
+Cholera,India,Rajasthan,Jaipur,26.9124,75.7873,2024-02-01,206,Medium,61,2,2024,1
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-09-28,481,High,54,9,2023,3
+Typhoid,USA,California,Los Angeles,34.0522,-118.2437,2023-05-03,118,Low,17,5,2023,2
+Typhoid,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-10-08,230,Medium,36,10,2025,4
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2025-06-20,312,Medium,86,6,2025,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-05-22,129,Low,62,5,2025,2
+Tuberculosis,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-08-25,212,Medium,41,8,2025,3
+Tuberculosis,India,Maharashtra,Mumbai,19.076,72.8777,2023-11-13,276,Medium,36,11,2023,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-11-15,92,Low,44,11,2024,4
+Measles,USA,California,Los Angeles,34.0522,-118.2437,2023-04-20,452,High,42,4,2023,2
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2023-07-11,86,Low,53,7,2023,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2023-12-26,441,High,32,12,2023,4
+COVID-19,India,West Bengal,Kolkata,22.5726,88.3639,2024-07-22,200,Medium,42,7,2024,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-08-20,487,High,76,8,2023,3
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2024-07-16,194,Medium,51,7,2024,3
+Tuberculosis,India,Rajasthan,Jaipur,26.9124,75.7873,2022-12-05,291,Medium,90,12,2022,4
+Measles,India,Karnataka,Bangalore,12.9716,77.5946,2025-02-02,166,Medium,36,2,2025,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-03-03,314,Medium,82,3,2024,1
+Measles,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-12,224,Medium,17,6,2025,2
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-04-07,188,Medium,60,4,2025,2
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-05-20,486,High,78,5,2025,2
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-08-22,157,Medium,23,8,2023,3
+Typhoid,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-30,464,High,52,8,2025,3
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-03-18,118,Low,58,3,2025,1
+Measles,India,West Bengal,Kolkata,22.5726,88.3639,2024-09-08,350,Medium,9,9,2024,3
+Chickenpox,India,Maharashtra,Mumbai,19.076,72.8777,2023-08-22,128,Low,49,8,2023,3
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-01-19,245,Medium,33,1,2025,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2025-11-09,247,Medium,31,11,2025,4
+Hepatitis A,India,Delhi,New Delhi,28.6139,77.209,2024-09-14,341,Medium,64,9,2024,3
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-10-28,103,Low,77,10,2023,4
+Malaria,India,Maharashtra,Mumbai,19.076,72.8777,2025-08-07,177,Medium,30,8,2025,3
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2025-01-09,195,Medium,33,1,2025,1
+Cholera,India,West Bengal,Kolkata,22.5726,88.3639,2025-10-19,85,Low,65,10,2025,4
+Influenza,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-10-07,12,Low,28,10,2025,4
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2025-01-19,260,Medium,21,1,2025,1
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2025-03-16,142,Low,15,3,2025,1
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-08-04,495,High,33,8,2023,3
+Typhoid,India,Rajasthan,Jaipur,26.9124,75.7873,2025-07-10,131,Low,84,7,2025,3
+Chickenpox,India,West Bengal,Kolkata,22.5726,88.3639,2023-12-31,307,Medium,65,12,2023,4
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2022-11-26,123,Low,64,11,2022,4
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2024-03-30,104,Low,79,3,2024,1
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-06-15,344,Medium,12,6,2025,2
+Dengue,India,West Bengal,Kolkata,22.5726,88.3639,2025-06-02,505,High,45,6,2025,2
+Tuberculosis,USA,New York,New York City,40.7128,-74.006,2023-11-04,262,Medium,38,11,2023,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2025-04-13,137,Low,56,4,2025,2
+Malaria,USA,New York,New York City,40.7128,-74.006,2023-05-25,120,Low,12,5,2023,2
+Cholera,India,Karnataka,Bangalore,12.9716,77.5946,2024-05-24,371,Medium,75,5,2024,2
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2024-01-29,302,Medium,59,1,2024,1
+Measles,India,Delhi,New Delhi,28.6139,77.209,2024-12-05,89,Low,20,12,2024,4
+Measles,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-27,280,Medium,28,2,2025,1
+Typhoid,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-09-12,72,Low,66,9,2025,3
+Influenza,India,Delhi,New Delhi,28.6139,77.209,2025-06-13,107,Low,50,6,2025,2
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-01-31,69,Low,8,1,2025,1
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2023-08-17,217,Medium,66,8,2023,3
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-30,92,Low,77,3,2023,1
+Cholera,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-08-25,291,Medium,42,8,2023,3
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2022-12-17,45,Low,29,12,2022,4
+Typhoid,India,Delhi,New Delhi,28.6139,77.209,2025-11-09,429,High,57,11,2025,4
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2022-12-03,89,Low,26,12,2022,4
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-10,160,Medium,11,11,2023,4
+Measles,India,Tamil Nadu,Chennai,13.0827,80.2707,2025-05-04,406,High,13,5,2025,2
+Measles,India,Delhi,New Delhi,28.6139,77.209,2025-01-18,403,High,46,1,2025,1
+Hepatitis A,India,Maharashtra,Mumbai,19.076,72.8777,2022-11-20,74,Low,55,11,2022,4
+Cholera,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-12-17,172,Medium,32,12,2024,4
+Dengue,India,Maharashtra,Mumbai,19.076,72.8777,2025-03-23,27,Low,8,3,2025,1
+COVID-19,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-03-20,66,Low,19,3,2023,1
+Malaria,India,Karnataka,Bangalore,12.9716,77.5946,2023-02-09,126,Low,72,2,2023,1
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2024-09-01,725,Critical,87,9,2024,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-01-09,327,Medium,57,1,2024,1
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-02-29,159,Medium,20,2,2024,1
+COVID-19,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-11-01,115,Low,58,11,2023,4
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2025-01-16,317,Medium,65,1,2025,1
+Cholera,India,Delhi,New Delhi,28.6139,77.209,2024-06-03,382,Medium,86,6,2024,2
+COVID-19,India,Maharashtra,Mumbai,19.076,72.8777,2023-03-28,65,Low,59,3,2023,1
+Typhoid,USA,New York,New York City,40.7128,-74.006,2025-08-30,102,Low,75,8,2025,3
+Chickenpox,India,Karnataka,Bangalore,12.9716,77.5946,2024-04-09,98,Low,83,4,2024,2
+COVID-19,India,Rajasthan,Jaipur,26.9124,75.7873,2023-08-10,95,Low,29,8,2023,3
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-03-29,95,Low,9,3,2023,1
+Chickenpox,USA,New York,New York City,40.7128,-74.006,2025-05-18,245,Medium,72,5,2025,2
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2022-12-08,169,Medium,9,12,2022,4
+Chickenpox,India,Delhi,New Delhi,28.6139,77.209,2024-08-04,171,Medium,61,8,2024,3
+Cholera,USA,New York,New York City,40.7128,-74.006,2023-04-22,80,Low,24,4,2023,2
+COVID-19,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-07-10,61,Low,26,7,2024,3
+Tuberculosis,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-01-27,171,Medium,83,1,2023,1
+Hepatitis A,India,Gujarat,Ahmedabad,23.0225,72.5714,2023-08-12,192,Medium,47,8,2023,3
+Influenza,USA,California,Los Angeles,34.0522,-118.2437,2025-03-09,175,Medium,43,3,2025,1
+Influenza,India,Tamil Nadu,Chennai,13.0827,80.2707,2024-09-19,97,Low,38,9,2024,3
+Cholera,USA,California,Los Angeles,34.0522,-118.2437,2023-03-01,390,Medium,38,3,2023,1
+Cholera,USA,New York,New York City,40.7128,-74.006,2024-12-31,316,Medium,48,12,2024,4
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2022-11-23,36,Low,69,11,2022,4
+Dengue,India,Tamil Nadu,Chennai,13.0827,80.2707,2023-02-25,56,Low,33,2,2023,1
+Malaria,India,Delhi,New Delhi,28.6139,77.209,2023-11-01,72,Low,37,11,2023,4
+Measles,India,Delhi,New Delhi,28.6139,77.209,2025-04-01,421,High,66,4,2025,2
+Typhoid,India,Karnataka,Bangalore,12.9716,77.5946,2023-12-20,175,Medium,61,12,2023,4
+Malaria,USA,New York,New York City,40.7128,-74.006,2024-04-03,97,Low,43,4,2024,2
+Chickenpox,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-28,189,Medium,68,12,2023,4
+Dengue,India,Gujarat,Ahmedabad,23.0225,72.5714,2025-02-03,116,Low,28,2,2025,1
+Hepatitis A,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2025-03-25,308,Medium,85,3,2025,1
+Tuberculosis,India,Karnataka,Bangalore,12.9716,77.5946,2025-07-25,60,Low,55,7,2025,3
+Tuberculosis,India,Delhi,New Delhi,28.6139,77.209,2024-07-17,354,Medium,75,7,2024,3
+Malaria,USA,California,Los Angeles,34.0522,-118.2437,2023-11-05,85,Low,55,11,2023,4
+Hepatitis A,India,West Bengal,Kolkata,22.5726,88.3639,2025-05-27,195,Medium,55,5,2025,2
+Measles,USA,New York,New York City,40.7128,-74.006,2025-07-22,86,Low,49,7,2025,3
+Malaria,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2023-12-16,59,Low,31,12,2023,4
+Influenza,India,Maharashtra,Mumbai,19.076,72.8777,2025-09-01,196,Medium,54,9,2025,3
+Hepatitis A,India,Rajasthan,Jaipur,26.9124,75.7873,2025-03-11,252,Medium,54,3,2025,1
+Tuberculosis,India,Uttar Pradesh,Lucknow,26.8467,80.9462,2024-08-02,378,Medium,82,8,2024,3
+Dengue,India,Rajasthan,Jaipur,26.9124,75.7873,2023-01-29,51,Low,56,1,2023,1

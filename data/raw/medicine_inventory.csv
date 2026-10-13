@@ -1,0 +1,18 @@
+medicine_id,medicine_name,disease_treated,current_stock,reorder_level,unit_price,supplier_id,supplier_name,expiry_date,batch_number,storage_location
+1,Oseltamivir,Influenza,4733,133,150,4,HealthCare Distributors,2026-06-26,BATCH6711,Warehouse-C
+2,Paracetamol,Influenza,4102,375,5,6,PharmaCorp India,2026-12-22,BATCH7313,Warehouse-B
+3,Dengue NS1 Test Kit,Dengue,2121,174,200,1,HealthCare Distributors,2027-04-13,BATCH1462,Warehouse-C
+4,Platelet Concentrate,Dengue,1311,183,500,4,BioMed Suppliers,2027-08-21,BATCH3414,Warehouse-B
+5,Chloroquine,Malaria,2126,358,50,6,MediSupply Ltd,2027-07-25,BATCH1202,Warehouse-A
+6,Artemisinin,Malaria,856,379,120,4,BioMed Suppliers,2027-01-07,BATCH2316,Warehouse-C
+7,ORS Solution,Cholera,1646,498,10,2,Global Pharma,2027-02-16,BATCH5143,Warehouse-C
+8,Doxycycline,Cholera,2575,306,80,6,Global Pharma,2027-06-08,BATCH6045,Warehouse-C
+9,Azithromycin,Typhoid,3471,435,100,1,BioMed Suppliers,2026-03-11,BATCH6642,Warehouse-A
+10,Ceftriaxone,Typhoid,2303,433,150,6,Global Pharma,2026-07-12,BATCH6047,Warehouse-A
+11,Remdesivir,COVID-19,1479,467,5000,1,PharmaCorp India,2027-04-27,BATCH2144,Warehouse-C
+12,Dexamethasone,COVID-19,3522,318,50,6,HealthCare Distributors,2027-02-09,BATCH8060,Warehouse-A
+13,Isoniazid,Tuberculosis,1545,241,30,6,MediSupply Ltd,2026-06-18,BATCH4244,Warehouse-B
+14,Rifampicin,Tuberculosis,1590,307,60,4,MedTech Solutions,2026-04-01,BATCH4482,Warehouse-A
+15,Hepatitis A Vaccine,Hepatitis A,1746,80,800,2,HealthCare Distributors,2026-06-15,BATCH7697,Warehouse-B
+16,MMR Vaccine,Measles,994,494,600,2,PharmaCorp India,2027-09-22,BATCH5802,Warehouse-A
+17,Acyclovir,Chickenpox,3194,113,200,1,HealthCare Distributors,2026-09-19,BATCH1486,Warehouse-C

@@ -1,0 +1,7 @@
+supplier_id,supplier_name,contact_email,contact_phone,address,rating,avg_delivery_time_days,reliability_score
+1,PharmaCorp India,contact@pharmacorpindia.com,+91-9007438217,"913 Business Park, Los Angeles",3.7,6,0.93
+2,MediSupply Ltd,contact@medisupplyltd.com,+91-8871905270,"636 Business Park, Mumbai",4.1,8,0.86
+3,HealthCare Distributors,contact@healthcaredistributors.com,+91-8507194785,"34 Business Park, Bangalore",4.1,7,0.85
+4,Global Pharma,contact@globalpharma.com,+91-7126751834,"719 Business Park, New York City",4.8,20,0.84
+5,MedTech Solutions,contact@medtechsolutions.com,+91-7580104329,"159 Business Park, Mumbai",4.7,18,0.87
+6,BioMed Suppliers,contact@biomedsuppliers.com,+91-8870144101,"416 Business Park, Ahmedabad",3.9,5,0.86

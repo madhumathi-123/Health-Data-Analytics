@@ -1,0 +1,1001 @@
+order_id,medicine_id,medicine_name,supplier_id,supplier_name,quantity_ordered,order_date,expected_delivery_date,delivery_time_days,destination_city,destination_state,status,total_cost
+ORD000001,5,Chloroquine,6,MediSupply Ltd,1182,2025-01-06,2025-01-25,19.0,Mumbai,Maharashtra,delivered,94500
+ORD000002,2,Paracetamol,6,PharmaCorp India,1963,2023-07-23,2023-08-20,28.0,New York City,New York,delivered,1070
+ORD000003,17,Acyclovir,1,HealthCare Distributors,545,2024-10-20,2024-11-01,12.0,Kolkata,West Bengal,shipped,394800
+ORD000004,15,Hepatitis A Vaccine,2,HealthCare Distributors,1015,2025-10-03,,,Lucknow,Uttar Pradesh,pending,1529600
+ORD000005,17,Acyclovir,1,HealthCare Distributors,1801,2024-01-03,2024-01-24,21.0,Bangalore,Karnataka,delivered,313400
+ORD000006,11,Remdesivir,1,PharmaCorp India,1799,2024-09-15,,,Chennai,Tamil Nadu,pending,1570000
+ORD000007,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1095,2024-12-17,2025-01-16,30.0,Los Angeles,California,delivered,79400
+ORD000008,17,Acyclovir,1,HealthCare Distributors,662,2023-11-30,2023-12-27,27.0,Bangalore,Karnataka,shipped,368800
+ORD000009,12,Dexamethasone,6,HealthCare Distributors,803,2023-08-07,,,New Delhi,Delhi,pending,23900
+ORD000010,15,Hepatitis A Vaccine,2,HealthCare Distributors,1704,2024-11-22,,,Jaipur,Rajasthan,pending,941600
+ORD000011,11,Remdesivir,1,PharmaCorp India,599,2023-04-22,2023-05-05,13.0,New York City,New York,delivered,1045000
+ORD000012,14,Rifampicin,4,MedTech Solutions,1830,2025-09-27,2025-10-03,6.0,New York City,New York,delivered,43260
+ORD000013,17,Acyclovir,1,HealthCare Distributors,311,2024-04-30,2024-05-26,26.0,Lucknow,Uttar Pradesh,shipped,296400
+ORD000014,10,Ceftriaxone,6,Global Pharma,676,2024-10-04,,,Los Angeles,California,pending,194700
+ORD000015,11,Remdesivir,1,PharmaCorp India,1271,2023-07-04,,,Mumbai,Maharashtra,pending,1890000
+ORD000016,14,Rifampicin,4,MedTech Solutions,586,2024-04-16,2024-04-28,12.0,Kolkata,West Bengal,delivered,118680
+ORD000017,15,Hepatitis A Vaccine,2,HealthCare Distributors,839,2024-09-21,,,Jaipur,Rajasthan,pending,647200
+ORD000018,7,ORS Solution,2,Global Pharma,1141,2024-11-01,2024-11-23,22.0,Ahmedabad,Gujarat,delivered,11460
+ORD000019,2,Paracetamol,6,PharmaCorp India,1459,2023-04-19,2023-05-19,30.0,Los Angeles,California,delivered,2060
+ORD000020,11,Remdesivir,1,PharmaCorp India,1672,2025-05-13,2025-05-30,17.0,Kolkata,West Bengal,shipped,9060000
+ORD000021,16,MMR Vaccine,2,PharmaCorp India,862,2025-05-24,2025-06-16,23.0,Lucknow,Uttar Pradesh,delivered,765600
+ORD000022,10,Ceftriaxone,6,Global Pharma,544,2023-11-14,2023-11-28,14.0,New Delhi,Delhi,delivered,172950
+ORD000023,10,Ceftriaxone,6,Global Pharma,1088,2025-05-15,2025-05-22,7.0,New York City,New York,delivered,198000
+ORD000024,2,Paracetamol,6,PharmaCorp India,227,2025-06-30,2025-07-22,22.0,Mumbai,Maharashtra,shipped,7775
+ORD000025,11,Remdesivir,1,PharmaCorp India,682,2024-06-16,,,Ahmedabad,Gujarat,pending,6105000
+ORD000026,14,Rifampicin,4,MedTech Solutions,1988,2024-08-07,2024-08-28,21.0,Lucknow,Uttar Pradesh,delivered,94380
+ORD000027,14,Rifampicin,4,MedTech Solutions,1488,2023-06-15,2023-07-01,16.0,Bangalore,Karnataka,delivered,75240
+ORD000028,14,Rifampicin,4,MedTech Solutions,415,2024-10-09,2024-11-06,28.0,Lucknow,Uttar Pradesh,delivered,46500
+ORD000029,8,Doxycycline,6,Global Pharma,445,2024-11-25,2024-12-16,21.0,Ahmedabad,Gujarat,delivered,135200
+ORD000030,15,Hepatitis A Vaccine,2,HealthCare Distributors,1603,2025-05-21,,,Kolkata,West Bengal,pending,1376000
+ORD000031,10,Ceftriaxone,6,Global Pharma,1966,2022-12-23,2023-01-07,15.0,New Delhi,Delhi,delivered,253200
+ORD000032,5,Chloroquine,6,MediSupply Ltd,838,2023-09-20,2023-10-08,18.0,Lucknow,Uttar Pradesh,shipped,25200
+ORD000033,12,Dexamethasone,6,HealthCare Distributors,665,2023-03-19,2023-03-31,12.0,New Delhi,Delhi,delivered,15550
+ORD000034,2,Paracetamol,6,PharmaCorp India,679,2025-08-23,2025-09-15,23.0,Mumbai,Maharashtra,delivered,4230
+ORD000035,8,Doxycycline,6,Global Pharma,828,2024-09-29,2024-10-19,20.0,Kolkata,West Bengal,delivered,109920
+ORD000036,12,Dexamethasone,6,HealthCare Distributors,351,2024-09-29,2024-10-28,29.0,Jaipur,Rajasthan,delivered,48400
+ORD000037,12,Dexamethasone,6,HealthCare Distributors,949,2024-01-24,2024-02-02,9.0,Lucknow,Uttar Pradesh,shipped,57100
+ORD000038,12,Dexamethasone,6,HealthCare Distributors,1745,2023-03-01,2023-03-21,20.0,Mumbai,Maharashtra,delivered,81150
+ORD000039,17,Acyclovir,1,HealthCare Distributors,701,2023-05-17,2023-05-20,3.0,Jaipur,Rajasthan,delivered,102200
+ORD000040,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1493,2023-04-22,2023-05-10,18.0,Ahmedabad,Gujarat,delivered,213000
+ORD000041,6,Artemisinin,4,BioMed Suppliers,1035,2024-08-29,,,New Delhi,Delhi,pending,155280
+ORD000042,13,Isoniazid,6,MediSupply Ltd,1916,2024-02-28,2024-03-09,10.0,Los Angeles,California,shipped,5820
+ORD000043,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1172,2024-03-21,2024-04-20,30.0,Jaipur,Rajasthan,delivered,255800
+ORD000044,12,Dexamethasone,6,HealthCare Distributors,168,2025-10-06,2025-10-25,19.0,Mumbai,Maharashtra,delivered,42700
+ORD000045,7,ORS Solution,2,Global Pharma,290,2024-12-11,2025-01-08,28.0,New York City,New York,delivered,3210
+ORD000046,7,ORS Solution,2,Global Pharma,431,2024-12-06,2025-01-04,29.0,Bangalore,Karnataka,delivered,9310
+ORD000047,2,Paracetamol,6,PharmaCorp India,1504,2024-06-16,2024-06-20,4.0,New York City,New York,delivered,7440
+ORD000048,7,ORS Solution,2,Global Pharma,597,2024-03-11,2024-04-05,25.0,New York City,New York,shipped,11230
+ORD000049,1,Oseltamivir,4,HealthCare Distributors,1247,2023-02-06,,,Chennai,Tamil Nadu,pending,210450
+ORD000050,6,Artemisinin,4,BioMed Suppliers,1190,2025-05-15,,,New Delhi,Delhi,pending,163080
+ORD000051,10,Ceftriaxone,6,Global Pharma,1164,2024-01-17,2024-02-05,19.0,Kolkata,West Bengal,shipped,45450
+ORD000052,15,Hepatitis A Vaccine,2,HealthCare Distributors,608,2025-03-04,2025-03-31,27.0,Jaipur,Rajasthan,shipped,1304800
+ORD000053,5,Chloroquine,6,MediSupply Ltd,576,2024-05-23,,,Mumbai,Maharashtra,pending,35600
+ORD000054,3,Dengue NS1 Test Kit,1,HealthCare Distributors,481,2025-09-25,2025-10-20,25.0,Bangalore,Karnataka,delivered,324200
+ORD000055,10,Ceftriaxone,6,Global Pharma,404,2025-02-16,2025-03-04,16.0,Lucknow,Uttar Pradesh,delivered,238500
+ORD000056,9,Azithromycin,1,BioMed Suppliers,1048,2025-03-05,2025-03-17,12.0,Mumbai,Maharashtra,delivered,142700
+ORD000057,6,Artemisinin,4,BioMed Suppliers,1780,2023-12-13,,,Lucknow,Uttar Pradesh,pending,118680
+ORD000058,15,Hepatitis A Vaccine,2,HealthCare Distributors,1161,2025-02-20,2025-03-02,10.0,New York City,New York,delivered,232000
+ORD000059,10,Ceftriaxone,6,Global Pharma,1260,2025-07-09,,,Kolkata,West Bengal,pending,66750
+ORD000060,17,Acyclovir,1,HealthCare Distributors,726,2024-08-09,2024-08-24,15.0,Lucknow,Uttar Pradesh,delivered,125200
+ORD000061,7,ORS Solution,2,Global Pharma,1540,2025-01-05,,,New York City,New York,pending,7850
+ORD000062,11,Remdesivir,1,PharmaCorp India,926,2024-04-04,2024-04-09,5.0,Ahmedabad,Gujarat,shipped,3680000
+ORD000063,9,Azithromycin,1,BioMed Suppliers,1383,2023-09-02,2023-09-11,9.0,Mumbai,Maharashtra,delivered,87500
+ORD000064,13,Isoniazid,6,MediSupply Ltd,895,2022-12-03,,,Kolkata,West Bengal,pending,26970
+ORD000065,17,Acyclovir,1,HealthCare Distributors,1454,2025-03-16,2025-04-09,24.0,New Delhi,Delhi,delivered,240200
+ORD000066,5,Chloroquine,6,MediSupply Ltd,597,2023-11-18,2023-12-17,29.0,New York City,New York,delivered,73050
+ORD000067,13,Isoniazid,6,MediSupply Ltd,381,2023-08-17,2023-08-28,11.0,Los Angeles,California,shipped,14400
+ORD000068,15,Hepatitis A Vaccine,2,HealthCare Distributors,1095,2023-02-26,2023-03-08,10.0,Chennai,Tamil Nadu,delivered,1237600
+ORD000069,13,Isoniazid,6,MediSupply Ltd,1154,2024-05-16,2024-05-20,4.0,New Delhi,Delhi,delivered,28410
+ORD000070,17,Acyclovir,1,HealthCare Distributors,1126,2025-08-14,2025-08-26,12.0,Ahmedabad,Gujarat,shipped,120000
+ORD000071,11,Remdesivir,1,PharmaCorp India,888,2023-02-24,,,Ahmedabad,Gujarat,pending,7525000
+ORD000072,15,Hepatitis A Vaccine,2,HealthCare Distributors,1790,2024-09-07,2024-10-01,24.0,Jaipur,Rajasthan,delivered,1392000
+ORD000073,13,Isoniazid,6,MediSupply Ltd,210,2025-06-10,2025-06-29,19.0,Los Angeles,California,delivered,57450
+ORD000074,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1404,2024-11-02,2024-11-15,13.0,Bangalore,Karnataka,shipped,326600
+ORD000075,14,Rifampicin,4,MedTech Solutions,1332,2025-07-18,2025-08-10,23.0,Kolkata,West Bengal,delivered,38400
+ORD000076,8,Doxycycline,6,Global Pharma,174,2024-01-24,2024-02-09,16.0,Bangalore,Karnataka,shipped,68160
+ORD000077,9,Azithromycin,1,BioMed Suppliers,495,2025-03-01,2025-03-07,6.0,Jaipur,Rajasthan,delivered,190700
+ORD000078,9,Azithromycin,1,BioMed Suppliers,225,2024-04-08,2024-05-06,28.0,Bangalore,Karnataka,delivered,69700
+ORD000079,17,Acyclovir,1,HealthCare Distributors,612,2023-09-16,2023-09-21,5.0,Jaipur,Rajasthan,shipped,206600
+ORD000080,12,Dexamethasone,6,HealthCare Distributors,611,2023-06-03,2023-07-03,30.0,Bangalore,Karnataka,delivered,38350
+ORD000081,3,Dengue NS1 Test Kit,1,HealthCare Distributors,811,2023-04-29,,,New York City,New York,pending,294600
+ORD000082,11,Remdesivir,1,PharmaCorp India,1384,2022-12-25,2023-01-22,28.0,Jaipur,Rajasthan,delivered,1535000
+ORD000083,11,Remdesivir,1,PharmaCorp India,201,2024-03-07,2024-03-17,10.0,Los Angeles,California,delivered,6060000
+ORD000084,9,Azithromycin,1,BioMed Suppliers,1805,2023-05-09,2023-06-01,23.0,Chennai,Tamil Nadu,delivered,48000
+ORD000085,16,MMR Vaccine,2,PharmaCorp India,1554,2025-09-01,2025-10-01,30.0,Jaipur,Rajasthan,shipped,311400
+ORD000086,16,MMR Vaccine,2,PharmaCorp India,1696,2023-11-27,2023-12-27,30.0,New York City,New York,delivered,402600
+ORD000087,7,ORS Solution,2,Global Pharma,103,2023-08-01,2023-08-10,9.0,Los Angeles,California,delivered,9230
+ORD000088,17,Acyclovir,1,HealthCare Distributors,1608,2023-02-02,2023-02-28,26.0,New York City,New York,delivered,357200
+ORD000089,2,Paracetamol,6,PharmaCorp India,359,2025-08-12,2025-08-16,4.0,Ahmedabad,Gujarat,delivered,6675
+ORD000090,9,Azithromycin,1,BioMed Suppliers,1943,2023-04-26,2023-05-15,19.0,Ahmedabad,Gujarat,shipped,181700
+ORD000091,14,Rifampicin,4,MedTech Solutions,1325,2024-07-08,,,Ahmedabad,Gujarat,pending,8520
+ORD000092,5,Chloroquine,6,MediSupply Ltd,1540,2024-09-24,2024-10-24,30.0,Lucknow,Uttar Pradesh,delivered,23450
+ORD000093,14,Rifampicin,4,MedTech Solutions,1742,2024-10-30,2024-11-21,22.0,New Delhi,Delhi,delivered,41580
+ORD000094,17,Acyclovir,1,HealthCare Distributors,739,2024-01-26,2024-02-08,13.0,Chennai,Tamil Nadu,delivered,375200
+ORD000095,16,MMR Vaccine,2,PharmaCorp India,352,2022-11-23,2022-12-16,23.0,Lucknow,Uttar Pradesh,delivered,331200
+ORD000096,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1638,2023-02-01,,,Mumbai,Maharashtra,pending,82600
+ORD000097,13,Isoniazid,6,MediSupply Ltd,1033,2023-08-24,,,Los Angeles,California,pending,20640
+ORD000098,7,ORS Solution,2,Global Pharma,678,2024-10-05,2024-11-02,28.0,Lucknow,Uttar Pradesh,delivered,10150
+ORD000099,5,Chloroquine,6,MediSupply Ltd,603,2024-03-14,2024-04-12,29.0,Mumbai,Maharashtra,delivered,13450
+ORD000100,10,Ceftriaxone,6,Global Pharma,467,2023-07-27,2023-08-13,17.0,Chennai,Tamil Nadu,delivered,142050
+ORD000101,12,Dexamethasone,6,HealthCare Distributors,459,2025-03-30,2025-04-15,16.0,Jaipur,Rajasthan,delivered,27650
+ORD000102,3,Dengue NS1 Test Kit,1,HealthCare Distributors,795,2023-12-28,2024-01-12,15.0,Jaipur,Rajasthan,delivered,228800
+ORD000103,5,Chloroquine,6,MediSupply Ltd,767,2022-12-26,2023-01-11,16.0,Kolkata,West Bengal,shipped,38950
+ORD000104,14,Rifampicin,4,MedTech Solutions,1931,2024-10-03,2024-10-10,7.0,Lucknow,Uttar Pradesh,delivered,12600
+ORD000105,16,MMR Vaccine,2,PharmaCorp India,1031,2024-03-20,2024-04-04,15.0,Mumbai,Maharashtra,delivered,949200
+ORD000106,1,Oseltamivir,4,HealthCare Distributors,1950,2024-08-15,2024-08-21,6.0,Mumbai,Maharashtra,delivered,244800
+ORD000107,16,MMR Vaccine,2,PharmaCorp India,1285,2025-04-23,2025-05-13,20.0,Mumbai,Maharashtra,shipped,63000
+ORD000108,3,Dengue NS1 Test Kit,1,HealthCare Distributors,270,2024-08-25,2024-09-11,17.0,New Delhi,Delhi,delivered,305800
+ORD000109,13,Isoniazid,6,MediSupply Ltd,514,2025-10-16,,,Lucknow,Uttar Pradesh,pending,52770
+ORD000110,12,Dexamethasone,6,HealthCare Distributors,1745,2023-11-15,,,Chennai,Tamil Nadu,pending,28500
+ORD000111,12,Dexamethasone,6,HealthCare Distributors,677,2024-02-27,,,Kolkata,West Bengal,pending,80150
+ORD000112,14,Rifampicin,4,MedTech Solutions,1774,2024-08-26,2024-08-31,5.0,Ahmedabad,Gujarat,shipped,12840
+ORD000113,10,Ceftriaxone,6,Global Pharma,1862,2025-05-04,2025-05-25,21.0,Chennai,Tamil Nadu,delivered,48150
+ORD000114,2,Paracetamol,6,PharmaCorp India,461,2025-10-27,2025-11-06,10.0,Bangalore,Karnataka,delivered,4550
+ORD000115,17,Acyclovir,1,HealthCare Distributors,1613,2024-05-06,2024-05-22,16.0,Ahmedabad,Gujarat,delivered,65200
+ORD000116,2,Paracetamol,6,PharmaCorp India,1853,2022-12-31,2023-01-07,7.0,Kolkata,West Bengal,delivered,8430
+ORD000117,10,Ceftriaxone,6,Global Pharma,167,2023-03-23,,,Los Angeles,California,pending,254250
+ORD000118,2,Paracetamol,6,PharmaCorp India,489,2024-08-19,2024-08-25,6.0,New York City,New York,delivered,3410
+ORD000119,12,Dexamethasone,6,HealthCare Distributors,953,2025-01-20,2025-02-16,27.0,Chennai,Tamil Nadu,delivered,25750
+ORD000120,11,Remdesivir,1,PharmaCorp India,1533,2024-03-12,2024-03-15,3.0,Lucknow,Uttar Pradesh,delivered,3595000
+ORD000121,2,Paracetamol,6,PharmaCorp India,1778,2023-12-12,,,Mumbai,Maharashtra,pending,6030
+ORD000122,13,Isoniazid,6,MediSupply Ltd,1023,2024-06-10,2024-06-16,6.0,Kolkata,West Bengal,delivered,30570
+ORD000123,5,Chloroquine,6,MediSupply Ltd,121,2023-01-17,2023-02-09,23.0,New Delhi,Delhi,shipped,89800
+ORD000124,2,Paracetamol,6,PharmaCorp India,798,2024-05-16,2024-06-02,17.0,New Delhi,Delhi,delivered,7705
+ORD000125,8,Doxycycline,6,Global Pharma,1625,2023-10-24,,,Chennai,Tamil Nadu,pending,85040
+ORD000126,12,Dexamethasone,6,HealthCare Distributors,322,2023-05-19,,,Jaipur,Rajasthan,pending,51450
+ORD000127,15,Hepatitis A Vaccine,2,HealthCare Distributors,826,2024-12-25,2025-01-16,22.0,Ahmedabad,Gujarat,delivered,1069600
+ORD000128,8,Doxycycline,6,Global Pharma,162,2023-05-23,2023-06-10,18.0,New York City,New York,delivered,133040
+ORD000129,12,Dexamethasone,6,HealthCare Distributors,271,2023-04-01,,,Ahmedabad,Gujarat,pending,84300
+ORD000130,7,ORS Solution,2,Global Pharma,1099,2024-12-25,2025-01-16,22.0,Chennai,Tamil Nadu,delivered,13050
+ORD000131,10,Ceftriaxone,6,Global Pharma,1163,2024-01-18,2024-02-02,15.0,Lucknow,Uttar Pradesh,delivered,199950
+ORD000132,10,Ceftriaxone,6,Global Pharma,817,2024-04-21,2024-05-17,26.0,Mumbai,Maharashtra,shipped,231300
+ORD000133,12,Dexamethasone,6,HealthCare Distributors,1269,2024-07-09,2024-08-08,30.0,Bangalore,Karnataka,delivered,25700
+ORD000134,1,Oseltamivir,4,HealthCare Distributors,1871,2024-12-04,2024-12-21,17.0,Lucknow,Uttar Pradesh,shipped,128250
+ORD000135,9,Azithromycin,1,BioMed Suppliers,1880,2022-11-24,2022-12-15,21.0,Jaipur,Rajasthan,delivered,12500
+ORD000136,11,Remdesivir,1,PharmaCorp India,1436,2025-06-28,2025-07-18,20.0,Jaipur,Rajasthan,delivered,7885000
+ORD000137,4,Platelet Concentrate,4,BioMed Suppliers,941,2023-11-19,2023-12-06,17.0,New York City,New York,delivered,76500
+ORD000138,13,Isoniazid,6,MediSupply Ltd,1249,2023-08-01,2023-08-30,29.0,New Delhi,Delhi,delivered,29790
+ORD000139,1,Oseltamivir,4,HealthCare Distributors,1341,2025-09-25,2025-10-25,30.0,New Delhi,Delhi,delivered,287100
+ORD000140,1,Oseltamivir,4,HealthCare Distributors,1307,2024-02-05,2024-02-21,16.0,New York City,New York,delivered,100500
+ORD000141,3,Dengue NS1 Test Kit,1,HealthCare Distributors,200,2022-11-18,2022-12-17,29.0,Lucknow,Uttar Pradesh,delivered,377200
+ORD000142,16,MMR Vaccine,2,PharmaCorp India,1180,2023-12-18,2023-12-25,7.0,Jaipur,Rajasthan,delivered,89400
+ORD000143,17,Acyclovir,1,HealthCare Distributors,1786,2024-10-16,2024-11-15,30.0,Lucknow,Uttar Pradesh,shipped,221000
+ORD000144,2,Paracetamol,6,PharmaCorp India,1474,2025-08-22,2025-09-19,28.0,New Delhi,Delhi,delivered,6525
+ORD000145,13,Isoniazid,6,MediSupply Ltd,1904,2025-06-18,2025-06-25,7.0,Los Angeles,California,delivered,9150
+ORD000146,11,Remdesivir,1,PharmaCorp India,1961,2023-06-14,,,Jaipur,Rajasthan,pending,4605000
+ORD000147,1,Oseltamivir,4,HealthCare Distributors,514,2024-07-29,2024-08-14,16.0,Lucknow,Uttar Pradesh,shipped,210150
+ORD000148,12,Dexamethasone,6,HealthCare Distributors,1504,2024-08-23,,,Jaipur,Rajasthan,pending,16450
+ORD000149,2,Paracetamol,6,PharmaCorp India,519,2023-10-19,2023-10-26,7.0,Ahmedabad,Gujarat,delivered,4270
+ORD000150,15,Hepatitis A Vaccine,2,HealthCare Distributors,1702,2025-02-09,,,Kolkata,West Bengal,pending,1177600
+ORD000151,2,Paracetamol,6,PharmaCorp India,830,2023-11-03,2023-11-17,14.0,Mumbai,Maharashtra,shipped,1580
+ORD000152,9,Azithromycin,1,BioMed Suppliers,1408,2025-03-29,2025-04-15,17.0,Los Angeles,California,shipped,106800
+ORD000153,4,Platelet Concentrate,4,BioMed Suppliers,1596,2023-12-03,2023-12-17,14.0,Los Angeles,California,delivered,165500
+ORD000154,16,MMR Vaccine,2,PharmaCorp India,1020,2025-08-10,,,Kolkata,West Bengal,pending,406200
+ORD000155,8,Doxycycline,6,Global Pharma,1375,2025-08-29,,,Ahmedabad,Gujarat,pending,117200
+ORD000156,10,Ceftriaxone,6,Global Pharma,581,2024-09-23,,,Chennai,Tamil Nadu,pending,129450
+ORD000157,16,MMR Vaccine,2,PharmaCorp India,818,2025-01-10,2025-02-01,22.0,New Delhi,Delhi,delivered,237600
+ORD000158,3,Dengue NS1 Test Kit,1,HealthCare Distributors,226,2023-01-23,2023-02-21,29.0,New York City,New York,delivered,305400
+ORD000159,14,Rifampicin,4,MedTech Solutions,404,2024-12-28,2025-01-08,11.0,New York City,New York,delivered,52860
+ORD000160,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1298,2025-08-12,2025-08-18,6.0,New York City,New York,shipped,255600
+ORD000161,12,Dexamethasone,6,HealthCare Distributors,535,2023-12-03,2023-12-12,9.0,Chennai,Tamil Nadu,delivered,69200
+ORD000162,16,MMR Vaccine,2,PharmaCorp India,181,2023-04-16,2023-04-26,10.0,Los Angeles,California,delivered,454200
+ORD000163,5,Chloroquine,6,MediSupply Ltd,865,2025-01-24,2025-02-12,19.0,Los Angeles,California,shipped,28750
+ORD000164,11,Remdesivir,1,PharmaCorp India,1512,2024-03-07,2024-03-20,13.0,Bangalore,Karnataka,shipped,2255000
+ORD000165,9,Azithromycin,1,BioMed Suppliers,619,2023-02-28,2023-03-07,7.0,Los Angeles,California,shipped,108300
+ORD000166,4,Platelet Concentrate,4,BioMed Suppliers,422,2025-09-08,,,Bangalore,Karnataka,pending,462500
+ORD000167,12,Dexamethasone,6,HealthCare Distributors,572,2023-12-19,2023-12-31,12.0,New Delhi,Delhi,shipped,63400
+ORD000168,5,Chloroquine,6,MediSupply Ltd,552,2023-10-15,,,Bangalore,Karnataka,pending,13450
+ORD000169,15,Hepatitis A Vaccine,2,HealthCare Distributors,787,2025-05-01,2025-05-24,23.0,Los Angeles,California,shipped,1563200
+ORD000170,8,Doxycycline,6,Global Pharma,1504,2022-11-27,2022-12-25,28.0,New York City,New York,delivered,126160
+ORD000171,2,Paracetamol,6,PharmaCorp India,1087,2025-04-28,2025-05-12,14.0,Ahmedabad,Gujarat,delivered,7590
+ORD000172,16,MMR Vaccine,2,PharmaCorp India,1039,2025-08-20,2025-09-15,26.0,New York City,New York,delivered,429000
+ORD000173,5,Chloroquine,6,MediSupply Ltd,718,2024-01-02,2024-01-07,5.0,Kolkata,West Bengal,delivered,70600
+ORD000174,12,Dexamethasone,6,HealthCare Distributors,1994,2024-08-25,,,Chennai,Tamil Nadu,pending,76200
+ORD000175,11,Remdesivir,1,PharmaCorp India,164,2023-04-16,2023-04-21,5.0,Lucknow,Uttar Pradesh,delivered,9275000
+ORD000176,6,Artemisinin,4,BioMed Suppliers,656,2023-08-26,,,Mumbai,Maharashtra,pending,138600
+ORD000177,7,ORS Solution,2,Global Pharma,1537,2023-01-20,,,Jaipur,Rajasthan,pending,18500
+ORD000178,12,Dexamethasone,6,HealthCare Distributors,1906,2024-12-14,2024-12-31,17.0,Jaipur,Rajasthan,delivered,67600
+ORD000179,7,ORS Solution,2,Global Pharma,933,2024-04-19,2024-04-28,9.0,New York City,New York,delivered,11970
+ORD000180,15,Hepatitis A Vaccine,2,HealthCare Distributors,1199,2024-12-23,,,Mumbai,Maharashtra,pending,596000
+ORD000181,13,Isoniazid,6,MediSupply Ltd,566,2024-09-05,2024-09-08,3.0,New York City,New York,delivered,50550
+ORD000182,4,Platelet Concentrate,4,BioMed Suppliers,132,2024-05-22,2024-06-02,11.0,Mumbai,Maharashtra,delivered,357000
+ORD000183,16,MMR Vaccine,2,PharmaCorp India,633,2023-09-05,2023-10-05,30.0,New York City,New York,shipped,824400
+ORD000184,9,Azithromycin,1,BioMed Suppliers,334,2023-12-11,2023-12-25,14.0,New York City,New York,delivered,198500
+ORD000185,17,Acyclovir,1,HealthCare Distributors,1217,2022-11-13,,,New Delhi,Delhi,pending,379200
+ORD000186,4,Platelet Concentrate,4,BioMed Suppliers,1661,2025-03-11,2025-04-02,22.0,Chennai,Tamil Nadu,delivered,917500
+ORD000187,15,Hepatitis A Vaccine,2,HealthCare Distributors,1182,2024-03-27,2024-04-10,14.0,Ahmedabad,Gujarat,delivered,582400
+ORD000188,3,Dengue NS1 Test Kit,1,HealthCare Distributors,765,2025-09-05,2025-09-28,23.0,New Delhi,Delhi,delivered,313400
+ORD000189,7,ORS Solution,2,Global Pharma,856,2025-08-29,2025-09-02,4.0,Kolkata,West Bengal,shipped,9100
+ORD000190,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1823,2023-02-27,2023-03-22,23.0,Jaipur,Rajasthan,delivered,379800
+ORD000191,6,Artemisinin,4,BioMed Suppliers,1960,2023-10-07,2023-10-22,15.0,Kolkata,West Bengal,delivered,91440
+ORD000192,6,Artemisinin,4,BioMed Suppliers,352,2024-06-14,2024-06-30,16.0,Mumbai,Maharashtra,delivered,216000
+ORD000193,9,Azithromycin,1,BioMed Suppliers,1552,2024-02-26,,,Jaipur,Rajasthan,pending,152400
+ORD000194,8,Doxycycline,6,Global Pharma,108,2023-10-24,2023-10-31,7.0,New York City,New York,delivered,88240
+ORD000195,15,Hepatitis A Vaccine,2,HealthCare Distributors,569,2023-04-30,2023-05-27,27.0,Chennai,Tamil Nadu,delivered,532000
+ORD000196,2,Paracetamol,6,PharmaCorp India,1806,2025-01-07,2025-01-22,15.0,New York City,New York,delivered,9980
+ORD000197,2,Paracetamol,6,PharmaCorp India,203,2024-04-24,2024-05-12,18.0,Mumbai,Maharashtra,shipped,8650
+ORD000198,17,Acyclovir,1,HealthCare Distributors,1004,2024-04-05,2024-04-26,21.0,New Delhi,Delhi,delivered,256600
+ORD000199,13,Isoniazid,6,MediSupply Ltd,373,2024-11-12,2024-11-18,6.0,Chennai,Tamil Nadu,delivered,7560
+ORD000200,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1969,2024-04-25,2024-05-18,23.0,Bangalore,Karnataka,delivered,89800
+ORD000201,4,Platelet Concentrate,4,BioMed Suppliers,917,2023-10-15,2023-10-27,12.0,Lucknow,Uttar Pradesh,delivered,118500
+ORD000202,2,Paracetamol,6,PharmaCorp India,993,2025-01-03,2025-01-22,19.0,New York City,New York,delivered,3090
+ORD000203,11,Remdesivir,1,PharmaCorp India,492,2023-05-05,2023-05-24,19.0,Kolkata,West Bengal,delivered,2735000
+ORD000204,13,Isoniazid,6,MediSupply Ltd,387,2023-12-19,2024-01-04,16.0,Ahmedabad,Gujarat,delivered,34800
+ORD000205,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1526,2024-10-08,2024-10-30,22.0,Ahmedabad,Gujarat,shipped,330800
+ORD000206,4,Platelet Concentrate,4,BioMed Suppliers,302,2024-08-26,,,Lucknow,Uttar Pradesh,pending,732500
+ORD000207,16,MMR Vaccine,2,PharmaCorp India,1258,2024-12-14,2025-01-09,26.0,Los Angeles,California,delivered,132600
+ORD000208,10,Ceftriaxone,6,Global Pharma,448,2024-09-15,2024-09-23,8.0,New York City,New York,delivered,41250
+ORD000209,4,Platelet Concentrate,4,BioMed Suppliers,1268,2023-07-06,2023-07-29,23.0,Kolkata,West Bengal,delivered,646500
+ORD000210,4,Platelet Concentrate,4,BioMed Suppliers,682,2024-05-17,2024-06-05,19.0,Kolkata,West Bengal,delivered,57000
+ORD000211,17,Acyclovir,1,HealthCare Distributors,1945,2023-05-02,2023-05-11,9.0,Ahmedabad,Gujarat,shipped,256400
+ORD000212,4,Platelet Concentrate,4,BioMed Suppliers,944,2023-12-04,2023-12-25,21.0,Kolkata,West Bengal,delivered,379000
+ORD000213,4,Platelet Concentrate,4,BioMed Suppliers,321,2023-09-22,2023-09-25,3.0,Bangalore,Karnataka,delivered,511000
+ORD000214,5,Chloroquine,6,MediSupply Ltd,1947,2024-07-21,,,Mumbai,Maharashtra,pending,56800
+ORD000215,10,Ceftriaxone,6,Global Pharma,1130,2024-07-22,,,Jaipur,Rajasthan,pending,172650
+ORD000216,13,Isoniazid,6,MediSupply Ltd,708,2025-10-12,,,Ahmedabad,Gujarat,pending,36390
+ORD000217,5,Chloroquine,6,MediSupply Ltd,1736,2023-04-11,2023-05-06,25.0,Lucknow,Uttar Pradesh,delivered,66400
+ORD000218,13,Isoniazid,6,MediSupply Ltd,1342,2023-07-24,2023-08-03,10.0,Lucknow,Uttar Pradesh,delivered,9240
+ORD000219,9,Azithromycin,1,BioMed Suppliers,1961,2025-03-12,2025-03-24,12.0,New York City,New York,delivered,74100
+ORD000220,5,Chloroquine,6,MediSupply Ltd,1440,2023-12-07,,,New Delhi,Delhi,pending,7600
+ORD000221,7,ORS Solution,2,Global Pharma,744,2023-05-24,,,Mumbai,Maharashtra,pending,19070
+ORD000222,4,Platelet Concentrate,4,BioMed Suppliers,1797,2023-08-19,2023-08-28,9.0,Ahmedabad,Gujarat,shipped,948500
+ORD000223,6,Artemisinin,4,BioMed Suppliers,474,2025-11-07,2025-12-04,27.0,Chennai,Tamil Nadu,delivered,145440
+ORD000224,1,Oseltamivir,4,HealthCare Distributors,1905,2024-04-07,2024-05-02,25.0,Bangalore,Karnataka,delivered,238050
+ORD000225,6,Artemisinin,4,BioMed Suppliers,1807,2024-04-09,2024-04-24,15.0,Jaipur,Rajasthan,shipped,32040
+ORD000226,6,Artemisinin,4,BioMed Suppliers,741,2024-03-22,2024-04-18,27.0,Mumbai,Maharashtra,delivered,72600
+ORD000227,8,Doxycycline,6,Global Pharma,1003,2024-04-12,2024-04-20,8.0,Los Angeles,California,shipped,139040
+ORD000228,15,Hepatitis A Vaccine,2,HealthCare Distributors,160,2023-01-30,2023-02-28,29.0,Lucknow,Uttar Pradesh,shipped,588800
+ORD000229,7,ORS Solution,2,Global Pharma,1110,2023-08-13,,,New York City,New York,pending,14100
+ORD000230,13,Isoniazid,6,MediSupply Ltd,206,2025-04-02,2025-04-27,25.0,Lucknow,Uttar Pradesh,delivered,36120
+ORD000231,5,Chloroquine,6,MediSupply Ltd,1019,2025-08-29,2025-09-16,18.0,New Delhi,Delhi,delivered,71550
+ORD000232,10,Ceftriaxone,6,Global Pharma,593,2024-10-03,2024-10-11,8.0,Mumbai,Maharashtra,delivered,270750
+ORD000233,2,Paracetamol,6,PharmaCorp India,138,2024-02-01,2024-02-26,25.0,Ahmedabad,Gujarat,delivered,7540
+ORD000234,10,Ceftriaxone,6,Global Pharma,805,2025-08-16,2025-08-23,7.0,Lucknow,Uttar Pradesh,delivered,99900
+ORD000235,12,Dexamethasone,6,HealthCare Distributors,994,2023-11-20,2023-12-06,16.0,Kolkata,West Bengal,delivered,81250
+ORD000236,7,ORS Solution,2,Global Pharma,1094,2025-11-04,2025-11-25,21.0,New York City,New York,delivered,18280
+ORD000237,8,Doxycycline,6,Global Pharma,753,2025-04-18,,,New York City,New York,pending,122560
+ORD000238,4,Platelet Concentrate,4,BioMed Suppliers,1728,2023-11-25,2023-12-05,10.0,Los Angeles,California,delivered,1000000
+ORD000239,7,ORS Solution,2,Global Pharma,1473,2025-09-23,2025-10-14,21.0,Jaipur,Rajasthan,delivered,13830
+ORD000240,15,Hepatitis A Vaccine,2,HealthCare Distributors,1156,2023-10-17,2023-11-13,27.0,Los Angeles,California,shipped,114400
+ORD000241,2,Paracetamol,6,PharmaCorp India,1432,2025-07-17,2025-08-12,26.0,Kolkata,West Bengal,delivered,9470
+ORD000242,15,Hepatitis A Vaccine,2,HealthCare Distributors,1167,2024-02-29,2024-03-14,14.0,Chennai,Tamil Nadu,delivered,1085600
+ORD000243,8,Doxycycline,6,Global Pharma,1585,2024-12-02,2024-12-23,21.0,New Delhi,Delhi,delivered,77840
+ORD000244,3,Dengue NS1 Test Kit,1,HealthCare Distributors,610,2023-11-29,2023-12-23,24.0,Chennai,Tamil Nadu,delivered,147800
+ORD000245,2,Paracetamol,6,PharmaCorp India,1769,2025-06-25,2025-07-21,26.0,Ahmedabad,Gujarat,delivered,5305
+ORD000246,16,MMR Vaccine,2,PharmaCorp India,1581,2022-11-17,2022-12-05,18.0,Ahmedabad,Gujarat,delivered,745800
+ORD000247,10,Ceftriaxone,6,Global Pharma,1353,2024-07-12,,,New York City,New York,pending,258300
+ORD000248,12,Dexamethasone,6,HealthCare Distributors,1133,2025-02-06,2025-02-15,9.0,Lucknow,Uttar Pradesh,shipped,47600
+ORD000249,3,Dengue NS1 Test Kit,1,HealthCare Distributors,123,2025-03-09,,,Chennai,Tamil Nadu,pending,352400
+ORD000250,12,Dexamethasone,6,HealthCare Distributors,1699,2024-09-07,,,New Delhi,Delhi,pending,89250
+ORD000251,9,Azithromycin,1,BioMed Suppliers,1632,2024-04-20,2024-05-10,20.0,Ahmedabad,Gujarat,delivered,45000
+ORD000252,11,Remdesivir,1,PharmaCorp India,501,2023-10-10,2023-10-24,14.0,Ahmedabad,Gujarat,delivered,8865000
+ORD000253,2,Paracetamol,6,PharmaCorp India,237,2023-12-02,,,Ahmedabad,Gujarat,pending,4090
+ORD000254,14,Rifampicin,4,MedTech Solutions,324,2024-07-05,2024-07-11,6.0,Chennai,Tamil Nadu,delivered,119100
+ORD000255,14,Rifampicin,4,MedTech Solutions,801,2023-06-02,2023-06-05,3.0,Lucknow,Uttar Pradesh,delivered,19140
+ORD000256,14,Rifampicin,4,MedTech Solutions,1648,2024-02-25,2024-03-26,30.0,Chennai,Tamil Nadu,shipped,49680
+ORD000257,11,Remdesivir,1,PharmaCorp India,232,2022-12-01,2022-12-31,30.0,Mumbai,Maharashtra,delivered,5530000
+ORD000258,5,Chloroquine,6,MediSupply Ltd,634,2024-03-11,2024-03-29,18.0,Bangalore,Karnataka,delivered,18750
+ORD000259,16,MMR Vaccine,2,PharmaCorp India,1878,2025-03-19,2025-04-18,30.0,Los Angeles,California,shipped,108000
+ORD000260,6,Artemisinin,4,BioMed Suppliers,329,2023-12-22,,,Chennai,Tamil Nadu,pending,46320
+ORD000261,15,Hepatitis A Vaccine,2,HealthCare Distributors,1771,2025-10-02,,,New Delhi,Delhi,pending,1099200
+ORD000262,10,Ceftriaxone,6,Global Pharma,1896,2024-02-25,2024-03-10,14.0,Lucknow,Uttar Pradesh,delivered,57600
+ORD000263,6,Artemisinin,4,BioMed Suppliers,1290,2023-07-14,2023-07-19,5.0,Lucknow,Uttar Pradesh,delivered,115920
+ORD000264,16,MMR Vaccine,2,PharmaCorp India,279,2024-03-25,2024-04-21,27.0,Chennai,Tamil Nadu,delivered,435600
+ORD000265,4,Platelet Concentrate,4,BioMed Suppliers,1131,2024-01-06,,,Mumbai,Maharashtra,pending,462000
+ORD000266,2,Paracetamol,6,PharmaCorp India,1700,2023-10-08,2023-10-18,10.0,Jaipur,Rajasthan,delivered,6450
+ORD000267,1,Oseltamivir,4,HealthCare Distributors,1767,2024-04-25,2024-05-19,24.0,Mumbai,Maharashtra,delivered,300000
+ORD000268,17,Acyclovir,1,HealthCare Distributors,1543,2025-11-05,2025-11-11,6.0,Mumbai,Maharashtra,delivered,191000
+ORD000269,12,Dexamethasone,6,HealthCare Distributors,1979,2024-07-12,2024-08-01,20.0,New Delhi,Delhi,delivered,9550
+ORD000270,17,Acyclovir,1,HealthCare Distributors,255,2023-08-02,2023-08-07,5.0,Bangalore,Karnataka,delivered,309200
+ORD000271,3,Dengue NS1 Test Kit,1,HealthCare Distributors,375,2024-04-11,2024-04-14,3.0,Lucknow,Uttar Pradesh,delivered,232000
+ORD000272,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1063,2024-04-30,,,Jaipur,Rajasthan,pending,238200
+ORD000273,7,ORS Solution,2,Global Pharma,676,2025-05-11,2025-06-03,23.0,Bangalore,Karnataka,delivered,12630
+ORD000274,1,Oseltamivir,4,HealthCare Distributors,142,2025-07-17,2025-08-16,30.0,Chennai,Tamil Nadu,delivered,100950
+ORD000275,10,Ceftriaxone,6,Global Pharma,536,2023-11-30,2023-12-23,23.0,Lucknow,Uttar Pradesh,delivered,237450
+ORD000276,10,Ceftriaxone,6,Global Pharma,188,2024-01-04,2024-01-16,12.0,Bangalore,Karnataka,delivered,141300
+ORD000277,2,Paracetamol,6,PharmaCorp India,1827,2024-11-19,2024-11-24,5.0,Mumbai,Maharashtra,delivered,4545
+ORD000278,1,Oseltamivir,4,HealthCare Distributors,508,2022-11-14,2022-11-19,5.0,Kolkata,West Bengal,delivered,52350
+ORD000279,12,Dexamethasone,6,HealthCare Distributors,1269,2024-03-05,2024-03-18,13.0,Ahmedabad,Gujarat,shipped,36050
+ORD000280,16,MMR Vaccine,2,PharmaCorp India,1490,2023-08-10,2023-08-14,4.0,Bangalore,Karnataka,delivered,345000
+ORD000281,15,Hepatitis A Vaccine,2,HealthCare Distributors,1101,2024-11-11,2024-11-27,16.0,Bangalore,Karnataka,delivered,698400
+ORD000282,17,Acyclovir,1,HealthCare Distributors,1292,2023-04-17,,,New York City,New York,pending,247000
+ORD000283,15,Hepatitis A Vaccine,2,HealthCare Distributors,1075,2025-08-24,2025-09-18,25.0,Lucknow,Uttar Pradesh,shipped,1284800
+ORD000284,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1083,2025-04-25,,,Chennai,Tamil Nadu,pending,210200
+ORD000285,7,ORS Solution,2,Global Pharma,272,2023-04-16,,,New York City,New York,pending,11910
+ORD000286,15,Hepatitis A Vaccine,2,HealthCare Distributors,668,2024-02-11,2024-03-04,22.0,Bangalore,Karnataka,delivered,909600
+ORD000287,2,Paracetamol,6,PharmaCorp India,339,2025-07-13,2025-07-23,10.0,Kolkata,West Bengal,delivered,6510
+ORD000288,11,Remdesivir,1,PharmaCorp India,1144,2024-04-11,2024-04-24,13.0,Los Angeles,California,shipped,8775000
+ORD000289,15,Hepatitis A Vaccine,2,HealthCare Distributors,332,2023-05-03,2023-05-26,23.0,Chennai,Tamil Nadu,delivered,961600
+ORD000290,13,Isoniazid,6,MediSupply Ltd,607,2023-01-12,2023-01-30,18.0,Kolkata,West Bengal,delivered,41460
+ORD000291,16,MMR Vaccine,2,PharmaCorp India,778,2023-06-18,,,Ahmedabad,Gujarat,pending,821400
+ORD000292,4,Platelet Concentrate,4,BioMed Suppliers,588,2023-12-10,2023-12-31,21.0,Los Angeles,California,delivered,727500
+ORD000293,5,Chloroquine,6,MediSupply Ltd,1944,2025-01-20,2025-02-15,26.0,Mumbai,Maharashtra,delivered,33550
+ORD000294,7,ORS Solution,2,Global Pharma,474,2024-07-29,,,Chennai,Tamil Nadu,pending,10170
+ORD000295,11,Remdesivir,1,PharmaCorp India,940,2023-04-26,2023-05-20,24.0,Kolkata,West Bengal,delivered,2830000
+ORD000296,14,Rifampicin,4,MedTech Solutions,387,2025-10-03,2025-10-16,13.0,Lucknow,Uttar Pradesh,delivered,12660
+ORD000297,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1039,2025-06-26,2025-07-19,23.0,Ahmedabad,Gujarat,delivered,248800
+ORD000298,2,Paracetamol,6,PharmaCorp India,1497,2024-06-04,2024-06-12,8.0,Ahmedabad,Gujarat,delivered,7140
+ORD000299,11,Remdesivir,1,PharmaCorp India,646,2024-10-24,2024-11-19,26.0,Chennai,Tamil Nadu,delivered,3390000
+ORD000300,17,Acyclovir,1,HealthCare Distributors,1033,2023-01-23,2023-02-09,17.0,New York City,New York,shipped,211600
+ORD000301,17,Acyclovir,1,HealthCare Distributors,1998,2025-09-06,,,Los Angeles,California,pending,379000
+ORD000302,5,Chloroquine,6,MediSupply Ltd,1616,2023-10-14,2023-11-06,23.0,New Delhi,Delhi,delivered,8950
+ORD000303,5,Chloroquine,6,MediSupply Ltd,144,2025-05-31,2025-06-27,27.0,Mumbai,Maharashtra,delivered,83700
+ORD000304,3,Dengue NS1 Test Kit,1,HealthCare Distributors,704,2024-08-07,2024-08-25,18.0,New Delhi,Delhi,delivered,184800
+ORD000305,15,Hepatitis A Vaccine,2,HealthCare Distributors,1200,2023-06-15,2023-07-10,25.0,Ahmedabad,Gujarat,shipped,1214400
+ORD000306,4,Platelet Concentrate,4,BioMed Suppliers,1230,2022-12-12,2022-12-23,11.0,Mumbai,Maharashtra,delivered,487500
+ORD000307,3,Dengue NS1 Test Kit,1,HealthCare Distributors,626,2025-02-25,2025-03-15,18.0,Los Angeles,California,shipped,131800
+ORD000308,5,Chloroquine,6,MediSupply Ltd,1786,2023-09-12,2023-09-28,16.0,Kolkata,West Bengal,delivered,55950
+ORD000309,9,Azithromycin,1,BioMed Suppliers,948,2023-03-12,,,New York City,New York,pending,106200
+ORD000310,1,Oseltamivir,4,HealthCare Distributors,1048,2023-04-28,,,New Delhi,Delhi,pending,158100
+ORD000311,8,Doxycycline,6,Global Pharma,1048,2022-12-09,2022-12-19,10.0,Bangalore,Karnataka,delivered,135200
+ORD000312,10,Ceftriaxone,6,Global Pharma,1709,2023-02-15,2023-03-12,25.0,Kolkata,West Bengal,delivered,246750
+ORD000313,8,Doxycycline,6,Global Pharma,1820,2023-01-09,2023-01-26,17.0,Bangalore,Karnataka,delivered,69600
+ORD000314,17,Acyclovir,1,HealthCare Distributors,1891,2025-03-26,,,New York City,New York,pending,217600
+ORD000315,2,Paracetamol,6,PharmaCorp India,634,2024-04-19,2024-05-11,22.0,Chennai,Tamil Nadu,delivered,8670
+ORD000316,4,Platelet Concentrate,4,BioMed Suppliers,1378,2024-02-20,2024-03-10,19.0,Lucknow,Uttar Pradesh,shipped,659000
+ORD000317,5,Chloroquine,6,MediSupply Ltd,1823,2025-08-31,2025-09-21,21.0,Kolkata,West Bengal,shipped,63700
+ORD000318,15,Hepatitis A Vaccine,2,HealthCare Distributors,1851,2023-10-06,2023-10-18,12.0,Mumbai,Maharashtra,delivered,944000
+ORD000319,7,ORS Solution,2,Global Pharma,1147,2023-07-17,2023-07-23,6.0,Mumbai,Maharashtra,delivered,9720
+ORD000320,5,Chloroquine,6,MediSupply Ltd,1767,2024-06-23,2024-07-03,10.0,Chennai,Tamil Nadu,delivered,32050
+ORD000321,13,Isoniazid,6,MediSupply Ltd,1144,2024-11-11,2024-12-06,25.0,Ahmedabad,Gujarat,delivered,51360
+ORD000322,15,Hepatitis A Vaccine,2,HealthCare Distributors,265,2023-07-24,,,Ahmedabad,Gujarat,pending,1550400
+ORD000323,1,Oseltamivir,4,HealthCare Distributors,595,2025-07-10,2025-07-14,4.0,Chennai,Tamil Nadu,delivered,292500
+ORD000324,7,ORS Solution,2,Global Pharma,1919,2025-06-10,2025-06-21,11.0,Bangalore,Karnataka,delivered,8800
+ORD000325,1,Oseltamivir,4,HealthCare Distributors,878,2025-06-28,2025-07-10,12.0,Ahmedabad,Gujarat,delivered,57300
+ORD000326,5,Chloroquine,6,MediSupply Ltd,249,2024-08-17,2024-08-22,5.0,Chennai,Tamil Nadu,delivered,89100
+ORD000327,4,Platelet Concentrate,4,BioMed Suppliers,1312,2024-09-30,2024-10-11,11.0,New Delhi,Delhi,delivered,906000
+ORD000328,5,Chloroquine,6,MediSupply Ltd,123,2023-01-05,2023-01-28,23.0,Mumbai,Maharashtra,shipped,55050
+ORD000329,13,Isoniazid,6,MediSupply Ltd,208,2023-06-08,2023-06-18,10.0,New York City,New York,delivered,51150
+ORD000330,5,Chloroquine,6,MediSupply Ltd,1482,2023-01-17,2023-01-31,14.0,Bangalore,Karnataka,delivered,36650
+ORD000331,14,Rifampicin,4,MedTech Solutions,1632,2024-05-06,2024-05-14,8.0,Lucknow,Uttar Pradesh,delivered,98640
+ORD000332,7,ORS Solution,2,Global Pharma,1471,2024-11-28,2024-12-27,29.0,Los Angeles,California,delivered,3780
+ORD000333,14,Rifampicin,4,MedTech Solutions,1804,2024-08-19,2024-09-15,27.0,New Delhi,Delhi,delivered,56280
+ORD000334,11,Remdesivir,1,PharmaCorp India,1565,2023-06-21,,,New York City,New York,pending,6755000
+ORD000335,5,Chloroquine,6,MediSupply Ltd,1193,2024-08-09,2024-08-20,11.0,Jaipur,Rajasthan,delivered,33150
+ORD000336,7,ORS Solution,2,Global Pharma,1196,2024-09-15,2024-09-28,13.0,Lucknow,Uttar Pradesh,delivered,4150
+ORD000337,5,Chloroquine,6,MediSupply Ltd,222,2025-02-10,2025-03-01,19.0,New York City,New York,delivered,59650
+ORD000338,10,Ceftriaxone,6,Global Pharma,1736,2023-06-17,2023-06-28,11.0,Mumbai,Maharashtra,delivered,73800
+ORD000339,12,Dexamethasone,6,HealthCare Distributors,1314,2023-08-11,2023-08-20,9.0,Los Angeles,California,delivered,28550
+ORD000340,2,Paracetamol,6,PharmaCorp India,1893,2024-10-23,2024-11-11,19.0,Chennai,Tamil Nadu,delivered,7100
+ORD000341,17,Acyclovir,1,HealthCare Distributors,157,2023-10-28,2023-11-16,19.0,Mumbai,Maharashtra,delivered,399200
+ORD000342,2,Paracetamol,6,PharmaCorp India,280,2025-08-22,,,Lucknow,Uttar Pradesh,pending,6495
+ORD000343,7,ORS Solution,2,Global Pharma,1714,2025-05-22,2025-06-19,28.0,Ahmedabad,Gujarat,delivered,17170
+ORD000344,12,Dexamethasone,6,HealthCare Distributors,1541,2024-07-06,2024-07-13,7.0,Bangalore,Karnataka,delivered,76800
+ORD000345,16,MMR Vaccine,2,PharmaCorp India,684,2025-07-07,2025-07-25,18.0,Lucknow,Uttar Pradesh,delivered,1016400
+ORD000346,13,Isoniazid,6,MediSupply Ltd,602,2024-05-24,,,Kolkata,West Bengal,pending,5070
+ORD000347,10,Ceftriaxone,6,Global Pharma,990,2024-07-29,2024-08-14,16.0,Mumbai,Maharashtra,delivered,17550
+ORD000348,17,Acyclovir,1,HealthCare Distributors,709,2025-01-10,2025-01-31,21.0,Bangalore,Karnataka,shipped,243600
+ORD000349,15,Hepatitis A Vaccine,2,HealthCare Distributors,1743,2025-04-18,2025-04-25,7.0,Ahmedabad,Gujarat,delivered,420000
+ORD000350,8,Doxycycline,6,Global Pharma,1949,2025-08-24,2025-09-10,17.0,Los Angeles,California,delivered,114720
+ORD000351,13,Isoniazid,6,MediSupply Ltd,306,2024-06-27,,,Mumbai,Maharashtra,pending,11580
+ORD000352,9,Azithromycin,1,BioMed Suppliers,421,2023-07-17,2023-07-20,3.0,Mumbai,Maharashtra,shipped,186000
+ORD000353,12,Dexamethasone,6,HealthCare Distributors,991,2024-11-18,,,Chennai,Tamil Nadu,pending,9450
+ORD000354,14,Rifampicin,4,MedTech Solutions,1807,2023-05-19,,,Mumbai,Maharashtra,pending,81480
+ORD000355,9,Azithromycin,1,BioMed Suppliers,1001,2024-02-09,2024-02-16,7.0,Lucknow,Uttar Pradesh,delivered,125400
+ORD000356,5,Chloroquine,6,MediSupply Ltd,1547,2023-08-31,2023-09-15,15.0,Ahmedabad,Gujarat,delivered,53800
+ORD000357,4,Platelet Concentrate,4,BioMed Suppliers,545,2024-07-10,2024-07-19,9.0,Jaipur,Rajasthan,delivered,184500
+ORD000358,8,Doxycycline,6,Global Pharma,604,2024-12-11,2024-12-15,4.0,New York City,New York,delivered,118400
+ORD000359,9,Azithromycin,1,BioMed Suppliers,1041,2025-09-17,2025-10-06,19.0,Kolkata,West Bengal,delivered,124000
+ORD000360,8,Doxycycline,6,Global Pharma,1710,2024-11-12,2024-11-19,7.0,Jaipur,Rajasthan,delivered,147440
+ORD000361,9,Azithromycin,1,BioMed Suppliers,1586,2025-08-29,2025-09-19,21.0,New York City,New York,shipped,63700
+ORD000362,10,Ceftriaxone,6,Global Pharma,1556,2024-09-29,2024-10-27,28.0,New York City,New York,delivered,206400
+ORD000363,15,Hepatitis A Vaccine,2,HealthCare Distributors,454,2024-11-05,2024-12-04,29.0,Los Angeles,California,delivered,814400
+ORD000364,4,Platelet Concentrate,4,BioMed Suppliers,1494,2023-12-11,2024-01-06,26.0,Lucknow,Uttar Pradesh,delivered,795000
+ORD000365,4,Platelet Concentrate,4,BioMed Suppliers,371,2023-09-01,2023-09-18,17.0,Los Angeles,California,delivered,920000
+ORD000366,9,Azithromycin,1,BioMed Suppliers,536,2023-09-04,2023-09-28,24.0,Mumbai,Maharashtra,delivered,132800
+ORD000367,5,Chloroquine,6,MediSupply Ltd,309,2024-01-12,2024-01-27,15.0,Lucknow,Uttar Pradesh,shipped,52250
+ORD000368,9,Azithromycin,1,BioMed Suppliers,182,2025-02-24,2025-03-25,29.0,Mumbai,Maharashtra,delivered,66900
+ORD000369,12,Dexamethasone,6,HealthCare Distributors,434,2025-01-16,2025-01-29,13.0,New Delhi,Delhi,delivered,61550
+ORD000370,17,Acyclovir,1,HealthCare Distributors,132,2024-12-23,2025-01-02,10.0,New Delhi,Delhi,delivered,163400
+ORD000371,5,Chloroquine,6,MediSupply Ltd,431,2022-11-24,,,Los Angeles,California,pending,8850
+ORD000372,10,Ceftriaxone,6,Global Pharma,830,2025-07-14,,,Ahmedabad,Gujarat,pending,67050
+ORD000373,5,Chloroquine,6,MediSupply Ltd,1104,2025-10-23,2025-11-17,25.0,Lucknow,Uttar Pradesh,shipped,54300
+ORD000374,7,ORS Solution,2,Global Pharma,751,2024-05-22,2024-05-30,8.0,New York City,New York,delivered,15310
+ORD000375,8,Doxycycline,6,Global Pharma,1597,2024-05-06,2024-05-15,9.0,Lucknow,Uttar Pradesh,delivered,136960
+ORD000376,15,Hepatitis A Vaccine,2,HealthCare Distributors,1345,2023-08-10,2023-09-04,25.0,Los Angeles,California,delivered,764800
+ORD000377,12,Dexamethasone,6,HealthCare Distributors,124,2023-11-29,2023-12-04,5.0,New Delhi,Delhi,delivered,19100
+ORD000378,16,MMR Vaccine,2,PharmaCorp India,238,2024-12-26,2024-12-29,3.0,Lucknow,Uttar Pradesh,delivered,376200
+ORD000379,9,Azithromycin,1,BioMed Suppliers,1896,2023-12-12,2024-01-04,23.0,Los Angeles,California,shipped,126500
+ORD000380,11,Remdesivir,1,PharmaCorp India,239,2025-01-02,2025-01-30,28.0,Chennai,Tamil Nadu,shipped,4195000
+ORD000381,8,Doxycycline,6,Global Pharma,829,2024-11-10,2024-11-28,18.0,New Delhi,Delhi,delivered,37680
+ORD000382,7,ORS Solution,2,Global Pharma,1028,2022-11-19,,,New Delhi,Delhi,pending,5540
+ORD000383,12,Dexamethasone,6,HealthCare Distributors,1375,2023-01-12,2023-02-05,24.0,Mumbai,Maharashtra,shipped,26450
+ORD000384,15,Hepatitis A Vaccine,2,HealthCare Distributors,366,2024-03-02,2024-03-19,17.0,Chennai,Tamil Nadu,delivered,1082400
+ORD000385,9,Azithromycin,1,BioMed Suppliers,1159,2025-07-13,2025-07-22,9.0,New Delhi,Delhi,delivered,79600
+ORD000386,6,Artemisinin,4,BioMed Suppliers,1342,2023-02-24,2023-03-23,27.0,Lucknow,Uttar Pradesh,delivered,168960
+ORD000387,5,Chloroquine,6,MediSupply Ltd,1566,2023-01-04,,,Jaipur,Rajasthan,pending,6850
+ORD000388,2,Paracetamol,6,PharmaCorp India,453,2022-11-11,2022-12-03,22.0,Lucknow,Uttar Pradesh,delivered,780
+ORD000389,6,Artemisinin,4,BioMed Suppliers,1296,2025-07-16,,,New Delhi,Delhi,pending,219720
+ORD000390,6,Artemisinin,4,BioMed Suppliers,1417,2024-06-04,,,Chennai,Tamil Nadu,pending,183840
+ORD000391,14,Rifampicin,4,MedTech Solutions,580,2024-09-03,2024-09-24,21.0,Mumbai,Maharashtra,delivered,31740
+ORD000392,11,Remdesivir,1,PharmaCorp India,1156,2023-04-14,,,New York City,New York,pending,7885000
+ORD000393,4,Platelet Concentrate,4,BioMed Suppliers,1012,2025-06-19,2025-07-03,14.0,Lucknow,Uttar Pradesh,delivered,858500
+ORD000394,6,Artemisinin,4,BioMed Suppliers,1777,2023-01-10,2023-01-19,9.0,Chennai,Tamil Nadu,delivered,147360
+ORD000395,2,Paracetamol,6,PharmaCorp India,1914,2025-10-22,2025-11-11,20.0,Jaipur,Rajasthan,delivered,6695
+ORD000396,15,Hepatitis A Vaccine,2,HealthCare Distributors,446,2024-06-12,2024-06-17,5.0,Ahmedabad,Gujarat,delivered,1382400
+ORD000397,8,Doxycycline,6,Global Pharma,1008,2024-06-05,2024-06-11,6.0,Mumbai,Maharashtra,delivered,92080
+ORD000398,12,Dexamethasone,6,HealthCare Distributors,764,2025-03-26,2025-04-13,18.0,Los Angeles,California,shipped,39850
+ORD000399,11,Remdesivir,1,PharmaCorp India,721,2024-10-03,2024-10-06,3.0,New York City,New York,delivered,3930000
+ORD000400,15,Hepatitis A Vaccine,2,HealthCare Distributors,900,2023-02-07,2023-02-19,12.0,Bangalore,Karnataka,delivered,755200
+ORD000401,13,Isoniazid,6,MediSupply Ltd,464,2024-06-29,2024-07-23,24.0,Bangalore,Karnataka,shipped,33810
+ORD000402,4,Platelet Concentrate,4,BioMed Suppliers,689,2025-04-08,2025-04-21,13.0,Los Angeles,California,delivered,835500
+ORD000403,10,Ceftriaxone,6,Global Pharma,653,2023-08-13,,,Chennai,Tamil Nadu,pending,250050
+ORD000404,9,Azithromycin,1,BioMed Suppliers,317,2024-09-04,2024-09-08,4.0,Jaipur,Rajasthan,delivered,109700
+ORD000405,7,ORS Solution,2,Global Pharma,1881,2025-01-09,,,Kolkata,West Bengal,pending,5120
+ORD000406,14,Rifampicin,4,MedTech Solutions,625,2024-06-19,2024-06-25,6.0,Jaipur,Rajasthan,shipped,10080
+ORD000407,14,Rifampicin,4,MedTech Solutions,1606,2025-05-03,,,New York City,New York,pending,108420
+ORD000408,11,Remdesivir,1,PharmaCorp India,1370,2024-11-17,2024-12-07,20.0,Lucknow,Uttar Pradesh,delivered,1270000
+ORD000409,13,Isoniazid,6,MediSupply Ltd,1412,2023-05-06,2023-05-10,4.0,Jaipur,Rajasthan,shipped,12270
+ORD000410,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1379,2025-04-07,2025-04-19,12.0,Los Angeles,California,shipped,116600
+ORD000411,11,Remdesivir,1,PharmaCorp India,1068,2025-05-20,2025-06-09,20.0,Chennai,Tamil Nadu,shipped,1035000
+ORD000412,9,Azithromycin,1,BioMed Suppliers,1899,2023-04-08,2023-04-16,8.0,New York City,New York,delivered,182700
+ORD000413,9,Azithromycin,1,BioMed Suppliers,1168,2023-06-23,,,Ahmedabad,Gujarat,pending,40100
+ORD000414,15,Hepatitis A Vaccine,2,HealthCare Distributors,653,2024-04-23,2024-05-03,10.0,Los Angeles,California,delivered,800800
+ORD000415,2,Paracetamol,6,PharmaCorp India,511,2022-11-16,,,Lucknow,Uttar Pradesh,pending,4480
+ORD000416,17,Acyclovir,1,HealthCare Distributors,906,2024-10-16,2024-10-21,5.0,Lucknow,Uttar Pradesh,delivered,342000
+ORD000417,5,Chloroquine,6,MediSupply Ltd,1468,2023-11-11,2023-11-27,16.0,Mumbai,Maharashtra,delivered,79250
+ORD000418,7,ORS Solution,2,Global Pharma,341,2023-10-02,2023-10-20,18.0,Ahmedabad,Gujarat,shipped,3880
+ORD000419,16,MMR Vaccine,2,PharmaCorp India,416,2024-11-25,2024-12-10,15.0,Bangalore,Karnataka,delivered,1107600
+ORD000420,1,Oseltamivir,4,HealthCare Distributors,1037,2024-04-04,2024-04-07,3.0,Los Angeles,California,delivered,217650
+ORD000421,12,Dexamethasone,6,HealthCare Distributors,852,2025-09-12,2025-10-12,30.0,New York City,New York,delivered,28950
+ORD000422,10,Ceftriaxone,6,Global Pharma,1688,2023-08-28,2023-09-22,25.0,Bangalore,Karnataka,delivered,134250
+ORD000423,1,Oseltamivir,4,HealthCare Distributors,1706,2024-12-29,,,New York City,New York,pending,237300
+ORD000424,11,Remdesivir,1,PharmaCorp India,535,2022-11-12,,,Lucknow,Uttar Pradesh,pending,4670000
+ORD000425,7,ORS Solution,2,Global Pharma,1947,2023-02-13,2023-03-10,25.0,Mumbai,Maharashtra,delivered,19630
+ORD000426,8,Doxycycline,6,Global Pharma,1439,2024-05-14,2024-05-19,5.0,Jaipur,Rajasthan,delivered,38960
+ORD000427,17,Acyclovir,1,HealthCare Distributors,1599,2023-07-25,2023-08-15,21.0,Ahmedabad,Gujarat,shipped,239400
+ORD000428,15,Hepatitis A Vaccine,2,HealthCare Distributors,1608,2024-05-10,2024-06-01,22.0,Lucknow,Uttar Pradesh,delivered,896000
+ORD000429,2,Paracetamol,6,PharmaCorp India,657,2023-02-08,2023-02-24,16.0,Mumbai,Maharashtra,shipped,4360
+ORD000430,9,Azithromycin,1,BioMed Suppliers,1885,2023-06-02,2023-07-01,29.0,Chennai,Tamil Nadu,delivered,101100
+ORD000431,9,Azithromycin,1,BioMed Suppliers,1594,2023-01-14,2023-01-18,4.0,New York City,New York,delivered,187700
+ORD000432,10,Ceftriaxone,6,Global Pharma,1246,2025-08-06,2025-08-18,12.0,Chennai,Tamil Nadu,shipped,149400
+ORD000433,13,Isoniazid,6,MediSupply Ltd,1964,2023-04-28,,,Chennai,Tamil Nadu,pending,46140
+ORD000434,6,Artemisinin,4,BioMed Suppliers,1926,2025-06-06,2025-06-22,16.0,New Delhi,Delhi,delivered,129360
+ORD000435,10,Ceftriaxone,6,Global Pharma,622,2025-08-10,2025-09-07,28.0,Mumbai,Maharashtra,delivered,130050
+ORD000436,14,Rifampicin,4,MedTech Solutions,405,2025-09-03,,,New Delhi,Delhi,pending,41640
+ORD000437,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1101,2025-08-29,2025-09-10,12.0,Kolkata,West Bengal,delivered,227200
+ORD000438,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1586,2024-11-20,2024-11-30,10.0,Kolkata,West Bengal,delivered,320600
+ORD000439,16,MMR Vaccine,2,PharmaCorp India,524,2025-09-06,2025-09-25,19.0,Bangalore,Karnataka,shipped,930600
+ORD000440,6,Artemisinin,4,BioMed Suppliers,379,2024-04-22,2024-05-16,24.0,New Delhi,Delhi,delivered,62280
+ORD000441,17,Acyclovir,1,HealthCare Distributors,743,2024-02-02,2024-02-23,21.0,Bangalore,Karnataka,delivered,250600
+ORD000442,15,Hepatitis A Vaccine,2,HealthCare Distributors,1863,2022-12-29,2023-01-01,3.0,New Delhi,Delhi,delivered,306400
+ORD000443,9,Azithromycin,1,BioMed Suppliers,1990,2022-11-24,2022-12-06,12.0,Los Angeles,California,delivered,169800
+ORD000444,15,Hepatitis A Vaccine,2,HealthCare Distributors,844,2024-10-30,2024-11-15,16.0,Lucknow,Uttar Pradesh,delivered,1439200
+ORD000445,15,Hepatitis A Vaccine,2,HealthCare Distributors,114,2024-05-08,2024-05-14,6.0,Jaipur,Rajasthan,shipped,565600
+ORD000446,8,Doxycycline,6,Global Pharma,1926,2024-08-18,2024-09-03,16.0,New York City,New York,delivered,24160
+ORD000447,10,Ceftriaxone,6,Global Pharma,1437,2025-02-11,2025-03-07,24.0,Ahmedabad,Gujarat,shipped,138000
+ORD000448,15,Hepatitis A Vaccine,2,HealthCare Distributors,1772,2025-08-13,2025-09-10,28.0,Jaipur,Rajasthan,delivered,856000
+ORD000449,13,Isoniazid,6,MediSupply Ltd,907,2025-04-15,2025-04-30,15.0,Kolkata,West Bengal,shipped,5850
+ORD000450,1,Oseltamivir,4,HealthCare Distributors,1840,2024-11-02,2024-11-09,7.0,Los Angeles,California,delivered,211800
+ORD000451,14,Rifampicin,4,MedTech Solutions,1903,2023-08-24,2023-09-14,21.0,Kolkata,West Bengal,delivered,45360
+ORD000452,16,MMR Vaccine,2,PharmaCorp India,688,2023-11-24,2023-11-29,5.0,Ahmedabad,Gujarat,delivered,763800
+ORD000453,17,Acyclovir,1,HealthCare Distributors,1243,2025-10-09,,,Bangalore,Karnataka,pending,225200
+ORD000454,15,Hepatitis A Vaccine,2,HealthCare Distributors,1616,2025-08-05,2025-08-12,7.0,Ahmedabad,Gujarat,delivered,531200
+ORD000455,1,Oseltamivir,4,HealthCare Distributors,1506,2023-08-28,2023-09-05,8.0,Jaipur,Rajasthan,delivered,229950
+ORD000456,2,Paracetamol,6,PharmaCorp India,448,2024-11-20,,,Jaipur,Rajasthan,pending,6590
+ORD000457,8,Doxycycline,6,Global Pharma,1707,2025-06-25,2025-07-23,28.0,Los Angeles,California,shipped,120320
+ORD000458,2,Paracetamol,6,PharmaCorp India,386,2024-05-28,2024-06-01,4.0,Jaipur,Rajasthan,shipped,3625
+ORD000459,14,Rifampicin,4,MedTech Solutions,176,2025-03-09,,,Chennai,Tamil Nadu,pending,36180
+ORD000460,3,Dengue NS1 Test Kit,1,HealthCare Distributors,213,2023-10-09,2023-11-06,28.0,Kolkata,West Bengal,delivered,99400
+ORD000461,7,ORS Solution,2,Global Pharma,595,2023-05-12,2023-06-01,20.0,New York City,New York,delivered,17800
+ORD000462,4,Platelet Concentrate,4,BioMed Suppliers,638,2022-12-21,,,New Delhi,Delhi,pending,734500
+ORD000463,12,Dexamethasone,6,HealthCare Distributors,1189,2022-12-24,,,Kolkata,West Bengal,pending,38100
+ORD000464,16,MMR Vaccine,2,PharmaCorp India,373,2024-10-13,2024-11-01,19.0,Ahmedabad,Gujarat,delivered,915600
+ORD000465,5,Chloroquine,6,MediSupply Ltd,313,2024-06-25,2024-07-09,14.0,New York City,New York,shipped,40150
+ORD000466,7,ORS Solution,2,Global Pharma,1036,2023-04-13,,,Jaipur,Rajasthan,pending,6180
+ORD000467,17,Acyclovir,1,HealthCare Distributors,249,2024-10-20,2024-11-06,17.0,Chennai,Tamil Nadu,delivered,205400
+ORD000468,17,Acyclovir,1,HealthCare Distributors,1444,2023-12-25,2024-01-17,23.0,Lucknow,Uttar Pradesh,delivered,118800
+ORD000469,13,Isoniazid,6,MediSupply Ltd,984,2024-09-13,,,Jaipur,Rajasthan,pending,56850
+ORD000470,7,ORS Solution,2,Global Pharma,827,2024-03-31,,,Los Angeles,California,pending,15550
+ORD000471,9,Azithromycin,1,BioMed Suppliers,1438,2025-04-24,2025-05-18,24.0,New Delhi,Delhi,shipped,119300
+ORD000472,13,Isoniazid,6,MediSupply Ltd,1328,2023-08-26,2023-09-08,13.0,Mumbai,Maharashtra,delivered,40740
+ORD000473,14,Rifampicin,4,MedTech Solutions,1862,2023-06-26,2023-07-23,27.0,Bangalore,Karnataka,delivered,58140
+ORD000474,16,MMR Vaccine,2,PharmaCorp India,1312,2024-07-30,2024-08-22,23.0,Jaipur,Rajasthan,delivered,300600
+ORD000475,10,Ceftriaxone,6,Global Pharma,1175,2025-01-24,2025-02-21,28.0,Bangalore,Karnataka,shipped,279150
+ORD000476,4,Platelet Concentrate,4,BioMed Suppliers,1037,2024-11-21,,,Lucknow,Uttar Pradesh,pending,245500
+ORD000477,2,Paracetamol,6,PharmaCorp India,368,2025-04-18,2025-05-06,18.0,New Delhi,Delhi,delivered,7205
+ORD000478,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1491,2025-08-19,2025-09-17,29.0,New York City,New York,delivered,342200
+ORD000479,5,Chloroquine,6,MediSupply Ltd,1205,2024-08-12,2024-09-11,30.0,Mumbai,Maharashtra,delivered,72600
+ORD000480,4,Platelet Concentrate,4,BioMed Suppliers,1688,2025-05-29,2025-06-06,8.0,Bangalore,Karnataka,delivered,931000
+ORD000481,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1398,2024-11-28,2024-12-21,23.0,New York City,New York,delivered,132200
+ORD000482,13,Isoniazid,6,MediSupply Ltd,1770,2024-10-31,2024-11-26,26.0,Bangalore,Karnataka,delivered,47400
+ORD000483,6,Artemisinin,4,BioMed Suppliers,292,2024-05-18,2024-06-03,16.0,Bangalore,Karnataka,delivered,108000
+ORD000484,14,Rifampicin,4,MedTech Solutions,1332,2024-09-30,2024-10-16,16.0,Chennai,Tamil Nadu,delivered,32040
+ORD000485,17,Acyclovir,1,HealthCare Distributors,486,2024-11-02,2024-11-06,4.0,Bangalore,Karnataka,delivered,319600
+ORD000486,5,Chloroquine,6,MediSupply Ltd,1479,2023-08-07,2023-08-22,15.0,Ahmedabad,Gujarat,delivered,60100
+ORD000487,1,Oseltamivir,4,HealthCare Distributors,1417,2023-05-17,2023-05-28,11.0,Chennai,Tamil Nadu,delivered,166800
+ORD000488,17,Acyclovir,1,HealthCare Distributors,1477,2024-08-14,2024-08-27,13.0,Kolkata,West Bengal,delivered,132000
+ORD000489,5,Chloroquine,6,MediSupply Ltd,709,2023-10-03,,,Kolkata,West Bengal,pending,24400
+ORD000490,16,MMR Vaccine,2,PharmaCorp India,129,2024-10-20,2024-10-24,4.0,Kolkata,West Bengal,delivered,993600
+ORD000491,8,Doxycycline,6,Global Pharma,210,2024-01-19,,,Bangalore,Karnataka,pending,148000
+ORD000492,5,Chloroquine,6,MediSupply Ltd,108,2025-06-21,2025-06-24,3.0,Kolkata,West Bengal,delivered,35950
+ORD000493,1,Oseltamivir,4,HealthCare Distributors,1058,2023-12-30,2024-01-04,5.0,New York City,New York,delivered,163650
+ORD000494,6,Artemisinin,4,BioMed Suppliers,1538,2023-05-27,2023-06-20,24.0,Chennai,Tamil Nadu,delivered,181440
+ORD000495,16,MMR Vaccine,2,PharmaCorp India,1102,2024-03-19,2024-03-26,7.0,Lucknow,Uttar Pradesh,delivered,595800
+ORD000496,9,Azithromycin,1,BioMed Suppliers,232,2024-11-06,2024-11-19,13.0,Lucknow,Uttar Pradesh,shipped,99600
+ORD000497,12,Dexamethasone,6,HealthCare Distributors,791,2023-07-29,2023-08-15,17.0,Lucknow,Uttar Pradesh,delivered,37800
+ORD000498,4,Platelet Concentrate,4,BioMed Suppliers,299,2024-08-06,2024-08-26,20.0,Kolkata,West Bengal,shipped,234000
+ORD000499,14,Rifampicin,4,MedTech Solutions,1925,2025-01-16,2025-02-01,16.0,New Delhi,Delhi,delivered,89940
+ORD000500,7,ORS Solution,2,Global Pharma,1343,2024-03-30,2024-04-20,21.0,New York City,New York,delivered,6450
+ORD000501,2,Paracetamol,6,PharmaCorp India,808,2023-11-13,2023-11-30,17.0,Bangalore,Karnataka,delivered,1100
+ORD000502,9,Azithromycin,1,BioMed Suppliers,1266,2023-05-31,2023-06-09,9.0,Chennai,Tamil Nadu,delivered,20300
+ORD000503,16,MMR Vaccine,2,PharmaCorp India,1355,2025-04-23,,,New York City,New York,pending,850800
+ORD000504,6,Artemisinin,4,BioMed Suppliers,1069,2024-09-17,2024-10-06,19.0,Kolkata,West Bengal,shipped,58320
+ORD000505,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1871,2024-01-25,,,Bangalore,Karnataka,pending,267200
+ORD000506,15,Hepatitis A Vaccine,2,HealthCare Distributors,324,2023-02-07,,,New Delhi,Delhi,pending,322400
+ORD000507,8,Doxycycline,6,Global Pharma,745,2025-05-03,2025-05-17,14.0,New York City,New York,delivered,83680
+ORD000508,6,Artemisinin,4,BioMed Suppliers,963,2023-05-09,2023-05-21,12.0,New Delhi,Delhi,delivered,177480
+ORD000509,2,Paracetamol,6,PharmaCorp India,1324,2023-11-28,2023-12-06,8.0,Jaipur,Rajasthan,delivered,1405
+ORD000510,9,Azithromycin,1,BioMed Suppliers,906,2023-02-12,2023-02-15,3.0,Kolkata,West Bengal,delivered,61400
+ORD000511,9,Azithromycin,1,BioMed Suppliers,530,2024-01-26,2024-02-10,15.0,Kolkata,West Bengal,delivered,178600
+ORD000512,14,Rifampicin,4,MedTech Solutions,617,2023-10-05,2023-10-31,26.0,New York City,New York,delivered,24060
+ORD000513,1,Oseltamivir,4,HealthCare Distributors,1388,2023-09-27,2023-10-22,25.0,Mumbai,Maharashtra,shipped,61050
+ORD000514,13,Isoniazid,6,MediSupply Ltd,753,2023-10-15,2023-11-01,17.0,Los Angeles,California,delivered,12630
+ORD000515,2,Paracetamol,6,PharmaCorp India,1987,2025-06-13,2025-07-02,19.0,Los Angeles,California,shipped,6080
+ORD000516,16,MMR Vaccine,2,PharmaCorp India,1332,2024-08-26,2024-09-19,24.0,New Delhi,Delhi,delivered,1185000
+ORD000517,12,Dexamethasone,6,HealthCare Distributors,129,2024-02-01,2024-02-10,9.0,Chennai,Tamil Nadu,delivered,9450
+ORD000518,14,Rifampicin,4,MedTech Solutions,800,2023-02-07,2023-02-11,4.0,Chennai,Tamil Nadu,delivered,69180
+ORD000519,16,MMR Vaccine,2,PharmaCorp India,680,2025-03-28,2025-04-20,23.0,Lucknow,Uttar Pradesh,delivered,554400
+ORD000520,14,Rifampicin,4,MedTech Solutions,439,2024-12-07,2024-12-27,20.0,New Delhi,Delhi,shipped,73920
+ORD000521,1,Oseltamivir,4,HealthCare Distributors,661,2024-08-04,2024-08-21,17.0,Chennai,Tamil Nadu,delivered,261750
+ORD000522,7,ORS Solution,2,Global Pharma,1557,2025-03-22,2025-04-14,23.0,Chennai,Tamil Nadu,delivered,6870
+ORD000523,14,Rifampicin,4,MedTech Solutions,1784,2024-12-25,2025-01-08,14.0,Los Angeles,California,delivered,100740
+ORD000524,10,Ceftriaxone,6,Global Pharma,781,2023-03-24,2023-04-06,13.0,Jaipur,Rajasthan,delivered,52050
+ORD000525,16,MMR Vaccine,2,PharmaCorp India,1648,2025-06-21,2025-07-04,13.0,Chennai,Tamil Nadu,delivered,143400
+ORD000526,4,Platelet Concentrate,4,BioMed Suppliers,1265,2025-09-30,2025-10-14,14.0,Lucknow,Uttar Pradesh,shipped,740500
+ORD000527,12,Dexamethasone,6,HealthCare Distributors,770,2025-01-10,2025-01-24,14.0,New York City,New York,shipped,85800
+ORD000528,2,Paracetamol,6,PharmaCorp India,1016,2025-03-03,2025-03-06,3.0,Chennai,Tamil Nadu,delivered,8115
+ORD000529,6,Artemisinin,4,BioMed Suppliers,1608,2024-08-16,2024-08-23,7.0,New York City,New York,shipped,78840
+ORD000530,5,Chloroquine,6,MediSupply Ltd,1254,2025-10-02,2025-10-13,11.0,New Delhi,Delhi,delivered,21350
+ORD000531,11,Remdesivir,1,PharmaCorp India,793,2023-11-22,2023-11-29,7.0,New Delhi,Delhi,delivered,4115000
+ORD000532,12,Dexamethasone,6,HealthCare Distributors,1413,2025-07-20,2025-08-10,21.0,Chennai,Tamil Nadu,shipped,18350
+ORD000533,13,Isoniazid,6,MediSupply Ltd,659,2024-02-24,2024-03-13,18.0,Jaipur,Rajasthan,delivered,7290
+ORD000534,14,Rifampicin,4,MedTech Solutions,217,2024-06-16,2024-06-23,7.0,Kolkata,West Bengal,delivered,28680
+ORD000535,3,Dengue NS1 Test Kit,1,HealthCare Distributors,417,2025-07-04,2025-07-08,4.0,Chennai,Tamil Nadu,shipped,93200
+ORD000536,1,Oseltamivir,4,HealthCare Distributors,840,2023-08-30,2023-09-05,6.0,New York City,New York,delivered,211050
+ORD000537,7,ORS Solution,2,Global Pharma,440,2023-09-11,2023-09-23,12.0,New York City,New York,delivered,13430
+ORD000538,3,Dengue NS1 Test Kit,1,HealthCare Distributors,907,2024-12-06,,,Kolkata,West Bengal,pending,387600
+ORD000539,9,Azithromycin,1,BioMed Suppliers,1749,2023-08-10,2023-08-30,20.0,Mumbai,Maharashtra,shipped,98500
+ORD000540,2,Paracetamol,6,PharmaCorp India,1202,2024-09-13,2024-09-22,9.0,Los Angeles,California,shipped,2675
+ORD000541,16,MMR Vaccine,2,PharmaCorp India,1507,2024-07-05,2024-08-01,27.0,Jaipur,Rajasthan,shipped,826200
+ORD000542,15,Hepatitis A Vaccine,2,HealthCare Distributors,736,2022-12-30,2023-01-03,4.0,Los Angeles,California,delivered,576800
+ORD000543,13,Isoniazid,6,MediSupply Ltd,732,2025-02-05,,,Jaipur,Rajasthan,pending,45240
+ORD000544,1,Oseltamivir,4,HealthCare Distributors,530,2024-02-08,2024-02-24,16.0,New York City,New York,delivered,174000
+ORD000545,6,Artemisinin,4,BioMed Suppliers,1184,2025-02-24,2025-03-15,19.0,Ahmedabad,Gujarat,delivered,92280
+ORD000546,6,Artemisinin,4,BioMed Suppliers,438,2024-09-27,2024-10-18,21.0,Ahmedabad,Gujarat,shipped,152280
+ORD000547,6,Artemisinin,4,BioMed Suppliers,1258,2025-07-14,2025-08-11,28.0,Jaipur,Rajasthan,shipped,196440
+ORD000548,5,Chloroquine,6,MediSupply Ltd,1604,2023-09-06,2023-09-15,9.0,Ahmedabad,Gujarat,shipped,88400
+ORD000549,8,Doxycycline,6,Global Pharma,1987,2023-10-02,2023-10-20,18.0,Kolkata,West Bengal,shipped,96480
+ORD000550,2,Paracetamol,6,PharmaCorp India,462,2023-10-16,2023-11-03,18.0,Kolkata,West Bengal,shipped,2470
+ORD000551,9,Azithromycin,1,BioMed Suppliers,914,2024-03-18,2024-03-29,11.0,Jaipur,Rajasthan,shipped,31500
+ORD000552,4,Platelet Concentrate,4,BioMed Suppliers,1592,2023-02-13,,,Kolkata,West Bengal,pending,811000
+ORD000553,2,Paracetamol,6,PharmaCorp India,910,2025-01-10,,,Jaipur,Rajasthan,pending,2225
+ORD000554,13,Isoniazid,6,MediSupply Ltd,1064,2025-09-04,,,Los Angeles,California,pending,40830
+ORD000555,9,Azithromycin,1,BioMed Suppliers,1921,2023-10-23,2023-11-03,11.0,New York City,New York,delivered,13800
+ORD000556,12,Dexamethasone,6,HealthCare Distributors,974,2024-03-28,,,New Delhi,Delhi,pending,68650
+ORD000557,3,Dengue NS1 Test Kit,1,HealthCare Distributors,659,2024-09-04,2024-09-20,16.0,Chennai,Tamil Nadu,delivered,39200
+ORD000558,8,Doxycycline,6,Global Pharma,607,2024-02-20,,,New Delhi,Delhi,pending,97200
+ORD000559,13,Isoniazid,6,MediSupply Ltd,648,2023-01-06,2023-01-12,6.0,New York City,New York,delivered,31800
+ORD000560,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1111,2025-03-21,2025-04-11,21.0,Bangalore,Karnataka,delivered,222200
+ORD000561,1,Oseltamivir,4,HealthCare Distributors,427,2024-04-01,2024-04-24,23.0,New Delhi,Delhi,delivered,260550
+ORD000562,13,Isoniazid,6,MediSupply Ltd,1126,2023-01-06,2023-01-11,5.0,Chennai,Tamil Nadu,delivered,49950
+ORD000563,1,Oseltamivir,4,HealthCare Distributors,592,2024-12-01,2024-12-09,8.0,Mumbai,Maharashtra,delivered,193050
+ORD000564,5,Chloroquine,6,MediSupply Ltd,2000,2023-06-02,2023-06-16,14.0,Chennai,Tamil Nadu,delivered,24950
+ORD000565,13,Isoniazid,6,MediSupply Ltd,696,2024-03-21,2024-04-19,29.0,Chennai,Tamil Nadu,delivered,50160
+ORD000566,6,Artemisinin,4,BioMed Suppliers,1093,2022-11-20,2022-12-11,21.0,New Delhi,Delhi,delivered,23160
+ORD000567,4,Platelet Concentrate,4,BioMed Suppliers,1974,2023-11-21,,,Los Angeles,California,pending,486500
+ORD000568,2,Paracetamol,6,PharmaCorp India,1374,2025-07-29,2025-08-06,8.0,New Delhi,Delhi,delivered,4060
+ORD000569,8,Doxycycline,6,Global Pharma,1095,2022-12-18,2023-01-17,30.0,New Delhi,Delhi,shipped,112080
+ORD000570,1,Oseltamivir,4,HealthCare Distributors,1513,2024-08-27,2024-09-11,15.0,Mumbai,Maharashtra,delivered,47250
+ORD000571,13,Isoniazid,6,MediSupply Ltd,1781,2023-04-22,2023-05-09,17.0,Ahmedabad,Gujarat,delivered,49530
+ORD000572,10,Ceftriaxone,6,Global Pharma,626,2023-11-02,2023-11-14,12.0,Los Angeles,California,delivered,82050
+ORD000573,16,MMR Vaccine,2,PharmaCorp India,1970,2025-09-21,2025-10-18,27.0,New Delhi,Delhi,delivered,148800
+ORD000574,16,MMR Vaccine,2,PharmaCorp India,1367,2024-08-12,2024-08-24,12.0,Kolkata,West Bengal,shipped,201600
+ORD000575,2,Paracetamol,6,PharmaCorp India,122,2023-07-01,2023-07-18,17.0,Los Angeles,California,shipped,1865
+ORD000576,6,Artemisinin,4,BioMed Suppliers,209,2025-07-26,2025-08-02,7.0,Mumbai,Maharashtra,delivered,23400
+ORD000577,17,Acyclovir,1,HealthCare Distributors,1589,2024-03-11,,,Mumbai,Maharashtra,pending,102600
+ORD000578,4,Platelet Concentrate,4,BioMed Suppliers,443,2024-06-12,2024-07-05,23.0,Bangalore,Karnataka,delivered,165500
+ORD000579,1,Oseltamivir,4,HealthCare Distributors,1863,2024-12-29,2025-01-22,24.0,Mumbai,Maharashtra,delivered,199350
+ORD000580,9,Azithromycin,1,BioMed Suppliers,578,2024-01-24,,,New Delhi,Delhi,pending,38400
+ORD000581,15,Hepatitis A Vaccine,2,HealthCare Distributors,839,2024-10-28,2024-11-05,8.0,Jaipur,Rajasthan,delivered,321600
+ORD000582,3,Dengue NS1 Test Kit,1,HealthCare Distributors,302,2023-02-06,2023-02-14,8.0,Chennai,Tamil Nadu,delivered,198800
+ORD000583,12,Dexamethasone,6,HealthCare Distributors,1183,2025-06-25,2025-07-16,21.0,Kolkata,West Bengal,delivered,97700
+ORD000584,13,Isoniazid,6,MediSupply Ltd,307,2024-01-25,2024-02-02,8.0,Lucknow,Uttar Pradesh,delivered,49020
+ORD000585,15,Hepatitis A Vaccine,2,HealthCare Distributors,331,2023-04-30,2023-05-15,15.0,Los Angeles,California,delivered,1395200
+ORD000586,14,Rifampicin,4,MedTech Solutions,114,2025-04-15,,,Bangalore,Karnataka,pending,28020
+ORD000587,11,Remdesivir,1,PharmaCorp India,913,2024-08-27,,,Chennai,Tamil Nadu,pending,9455000
+ORD000588,6,Artemisinin,4,BioMed Suppliers,578,2024-04-19,2024-05-16,27.0,Jaipur,Rajasthan,shipped,203520
+ORD000589,6,Artemisinin,4,BioMed Suppliers,1274,2022-12-13,,,Mumbai,Maharashtra,pending,85440
+ORD000590,11,Remdesivir,1,PharmaCorp India,679,2023-05-01,2023-05-19,18.0,Chennai,Tamil Nadu,delivered,7395000
+ORD000591,7,ORS Solution,2,Global Pharma,1168,2022-12-05,,,New Delhi,Delhi,pending,6750
+ORD000592,11,Remdesivir,1,PharmaCorp India,760,2023-04-12,2023-04-16,4.0,Mumbai,Maharashtra,shipped,8640000
+ORD000593,17,Acyclovir,1,HealthCare Distributors,755,2024-08-26,,,Kolkata,West Bengal,pending,87000
+ORD000594,16,MMR Vaccine,2,PharmaCorp India,576,2024-06-29,2024-07-15,16.0,Lucknow,Uttar Pradesh,delivered,1020000
+ORD000595,9,Azithromycin,1,BioMed Suppliers,1349,2025-08-23,2025-09-11,19.0,Jaipur,Rajasthan,shipped,110700
+ORD000596,1,Oseltamivir,4,HealthCare Distributors,148,2023-02-20,2023-03-18,26.0,Los Angeles,California,delivered,214800
+ORD000597,9,Azithromycin,1,BioMed Suppliers,795,2025-05-19,2025-06-03,15.0,Kolkata,West Bengal,delivered,114400
+ORD000598,11,Remdesivir,1,PharmaCorp India,1118,2024-02-29,2024-03-13,13.0,Mumbai,Maharashtra,delivered,9740000
+ORD000599,6,Artemisinin,4,BioMed Suppliers,1006,2023-10-11,,,Lucknow,Uttar Pradesh,pending,71520
+ORD000600,6,Artemisinin,4,BioMed Suppliers,341,2023-08-19,2023-09-08,20.0,New York City,New York,delivered,220080
+ORD000601,1,Oseltamivir,4,HealthCare Distributors,284,2024-03-08,2024-03-15,7.0,Ahmedabad,Gujarat,delivered,245700
+ORD000602,7,ORS Solution,2,Global Pharma,974,2023-09-29,2023-10-04,5.0,Kolkata,West Bengal,delivered,19330
+ORD000603,13,Isoniazid,6,MediSupply Ltd,249,2023-12-16,2024-01-15,30.0,Los Angeles,California,delivered,57420
+ORD000604,1,Oseltamivir,4,HealthCare Distributors,184,2023-01-30,2023-02-13,14.0,Bangalore,Karnataka,delivered,138150
+ORD000605,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1852,2024-08-16,2024-08-21,5.0,Lucknow,Uttar Pradesh,delivered,214400
+ORD000606,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1468,2023-04-19,2023-05-15,26.0,Lucknow,Uttar Pradesh,delivered,180800
+ORD000607,12,Dexamethasone,6,HealthCare Distributors,992,2024-05-20,,,Lucknow,Uttar Pradesh,pending,98400
+ORD000608,13,Isoniazid,6,MediSupply Ltd,434,2025-09-20,2025-10-10,20.0,Chennai,Tamil Nadu,delivered,57930
+ORD000609,2,Paracetamol,6,PharmaCorp India,151,2024-04-15,,,Lucknow,Uttar Pradesh,pending,3650
+ORD000610,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1446,2024-07-12,,,Chennai,Tamil Nadu,pending,233400
+ORD000611,2,Paracetamol,6,PharmaCorp India,1642,2023-07-15,2023-08-05,21.0,New Delhi,Delhi,delivered,9145
+ORD000612,11,Remdesivir,1,PharmaCorp India,1729,2024-05-25,2024-06-23,29.0,Jaipur,Rajasthan,shipped,7615000
+ORD000613,15,Hepatitis A Vaccine,2,HealthCare Distributors,1296,2025-02-11,2025-02-28,17.0,Jaipur,Rajasthan,delivered,1489600
+ORD000614,9,Azithromycin,1,BioMed Suppliers,1611,2024-10-03,2024-10-10,7.0,New York City,New York,shipped,15900
+ORD000615,2,Paracetamol,6,PharmaCorp India,1718,2023-05-27,2023-06-14,18.0,New York City,New York,delivered,1465
+ORD000616,10,Ceftriaxone,6,Global Pharma,1942,2025-05-20,2025-06-05,16.0,Ahmedabad,Gujarat,delivered,163350
+ORD000617,2,Paracetamol,6,PharmaCorp India,1462,2025-06-23,2025-07-20,27.0,Bangalore,Karnataka,delivered,2605
+ORD000618,12,Dexamethasone,6,HealthCare Distributors,1025,2022-11-19,2022-11-30,11.0,Chennai,Tamil Nadu,delivered,56650
+ORD000619,15,Hepatitis A Vaccine,2,HealthCare Distributors,1865,2023-10-09,2023-10-26,17.0,Bangalore,Karnataka,delivered,390400
+ORD000620,12,Dexamethasone,6,HealthCare Distributors,1189,2023-09-11,2023-09-15,4.0,New York City,New York,delivered,32400
+ORD000621,16,MMR Vaccine,2,PharmaCorp India,1551,2025-10-19,2025-11-09,21.0,Chennai,Tamil Nadu,delivered,676800
+ORD000622,15,Hepatitis A Vaccine,2,HealthCare Distributors,1344,2025-08-28,,,Bangalore,Karnataka,pending,1515200
+ORD000623,11,Remdesivir,1,PharmaCorp India,434,2023-12-05,2023-12-14,9.0,Lucknow,Uttar Pradesh,delivered,7665000
+ORD000624,8,Doxycycline,6,Global Pharma,921,2024-04-16,,,New York City,New York,pending,117040
+ORD000625,17,Acyclovir,1,HealthCare Distributors,686,2025-03-27,2025-04-05,9.0,Kolkata,West Bengal,shipped,238600
+ORD000626,5,Chloroquine,6,MediSupply Ltd,1299,2024-06-18,2024-06-29,11.0,Lucknow,Uttar Pradesh,delivered,62050
+ORD000627,13,Isoniazid,6,MediSupply Ltd,1554,2024-03-01,2024-03-14,13.0,Ahmedabad,Gujarat,delivered,17730
+ORD000628,14,Rifampicin,4,MedTech Solutions,440,2023-04-18,2023-05-08,20.0,Lucknow,Uttar Pradesh,shipped,102900
+ORD000629,8,Doxycycline,6,Global Pharma,1800,2023-09-25,2023-10-13,18.0,Ahmedabad,Gujarat,delivered,46400
+ORD000630,13,Isoniazid,6,MediSupply Ltd,1845,2024-08-10,2024-08-13,3.0,Bangalore,Karnataka,delivered,9390
+ORD000631,7,ORS Solution,2,Global Pharma,1696,2025-03-01,2025-03-17,16.0,Chennai,Tamil Nadu,delivered,2210
+ORD000632,5,Chloroquine,6,MediSupply Ltd,915,2023-07-07,2023-07-18,11.0,New Delhi,Delhi,delivered,75600
+ORD000633,11,Remdesivir,1,PharmaCorp India,533,2023-12-17,2023-12-28,11.0,Bangalore,Karnataka,shipped,4605000
+ORD000634,17,Acyclovir,1,HealthCare Distributors,472,2023-10-27,2023-11-24,28.0,Los Angeles,California,shipped,383200
+ORD000635,12,Dexamethasone,6,HealthCare Distributors,680,2024-01-29,2024-02-07,9.0,Lucknow,Uttar Pradesh,delivered,33250
+ORD000636,12,Dexamethasone,6,HealthCare Distributors,516,2024-05-09,2024-05-23,14.0,New Delhi,Delhi,delivered,32700
+ORD000637,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1056,2024-06-27,2024-07-04,7.0,New Delhi,Delhi,delivered,159000
+ORD000638,9,Azithromycin,1,BioMed Suppliers,780,2024-05-07,,,Kolkata,West Bengal,pending,107900
+ORD000639,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1571,2024-06-24,,,Los Angeles,California,pending,142400
+ORD000640,10,Ceftriaxone,6,Global Pharma,1135,2023-11-13,2023-12-13,30.0,Jaipur,Rajasthan,delivered,48600
+ORD000641,6,Artemisinin,4,BioMed Suppliers,351,2024-12-01,2024-12-06,5.0,New York City,New York,delivered,235560
+ORD000642,16,MMR Vaccine,2,PharmaCorp India,1947,2025-02-23,2025-03-06,11.0,New York City,New York,delivered,369000
+ORD000643,6,Artemisinin,4,BioMed Suppliers,1899,2025-01-12,,,New York City,New York,pending,135120
+ORD000644,9,Azithromycin,1,BioMed Suppliers,761,2025-05-04,2025-05-12,8.0,Lucknow,Uttar Pradesh,delivered,53900
+ORD000645,12,Dexamethasone,6,HealthCare Distributors,837,2025-10-27,2025-11-14,18.0,New York City,New York,delivered,29550
+ORD000646,15,Hepatitis A Vaccine,2,HealthCare Distributors,634,2022-11-15,2022-11-19,4.0,Ahmedabad,Gujarat,delivered,683200
+ORD000647,17,Acyclovir,1,HealthCare Distributors,1083,2023-04-14,2023-05-12,28.0,Chennai,Tamil Nadu,delivered,381800
+ORD000648,8,Doxycycline,6,Global Pharma,1053,2023-11-09,2023-12-03,24.0,Mumbai,Maharashtra,delivered,141120
+ORD000649,11,Remdesivir,1,PharmaCorp India,152,2023-10-28,2023-11-08,11.0,Chennai,Tamil Nadu,delivered,7915000
+ORD000650,5,Chloroquine,6,MediSupply Ltd,714,2025-09-06,2025-09-11,5.0,Kolkata,West Bengal,shipped,97550
+ORD000651,16,MMR Vaccine,2,PharmaCorp India,444,2024-03-13,2024-04-08,26.0,Los Angeles,California,shipped,438600
+ORD000652,2,Paracetamol,6,PharmaCorp India,1394,2024-01-06,2024-02-01,26.0,New Delhi,Delhi,delivered,4755
+ORD000653,14,Rifampicin,4,MedTech Solutions,333,2022-12-08,2022-12-24,16.0,New York City,New York,shipped,95100
+ORD000654,14,Rifampicin,4,MedTech Solutions,1970,2023-01-04,2023-01-19,15.0,Chennai,Tamil Nadu,shipped,43980
+ORD000655,5,Chloroquine,6,MediSupply Ltd,1969,2023-06-08,,,New Delhi,Delhi,pending,55250
+ORD000656,11,Remdesivir,1,PharmaCorp India,258,2023-01-25,2023-02-09,15.0,Mumbai,Maharashtra,shipped,9195000
+ORD000657,3,Dengue NS1 Test Kit,1,HealthCare Distributors,118,2024-05-09,,,Ahmedabad,Gujarat,pending,61800
+ORD000658,11,Remdesivir,1,PharmaCorp India,1589,2023-06-19,2023-06-27,8.0,Mumbai,Maharashtra,delivered,2455000
+ORD000659,2,Paracetamol,6,PharmaCorp India,1659,2023-04-26,2023-05-12,16.0,Mumbai,Maharashtra,delivered,1035
+ORD000660,6,Artemisinin,4,BioMed Suppliers,1208,2023-11-29,,,Los Angeles,California,pending,114120
+ORD000661,5,Chloroquine,6,MediSupply Ltd,223,2025-09-23,2025-10-03,10.0,New Delhi,Delhi,delivered,61700
+ORD000662,9,Azithromycin,1,BioMed Suppliers,704,2025-01-19,,,New York City,New York,pending,38800
+ORD000663,15,Hepatitis A Vaccine,2,HealthCare Distributors,1662,2024-12-11,2024-12-15,4.0,New York City,New York,shipped,703200
+ORD000664,9,Azithromycin,1,BioMed Suppliers,226,2025-05-26,2025-06-14,19.0,Bangalore,Karnataka,delivered,142500
+ORD000665,3,Dengue NS1 Test Kit,1,HealthCare Distributors,379,2023-03-29,2023-04-10,12.0,Kolkata,West Bengal,delivered,125400
+ORD000666,16,MMR Vaccine,2,PharmaCorp India,447,2025-01-22,2025-01-25,3.0,Chennai,Tamil Nadu,shipped,363000
+ORD000667,3,Dengue NS1 Test Kit,1,HealthCare Distributors,854,2025-11-07,,,Ahmedabad,Gujarat,pending,89400
+ORD000668,11,Remdesivir,1,PharmaCorp India,659,2025-10-08,,,New York City,New York,pending,5175000
+ORD000669,16,MMR Vaccine,2,PharmaCorp India,1933,2024-09-03,2024-09-27,24.0,Jaipur,Rajasthan,delivered,985800
+ORD000670,17,Acyclovir,1,HealthCare Distributors,570,2025-08-10,,,Bangalore,Karnataka,pending,31600
+ORD000671,16,MMR Vaccine,2,PharmaCorp India,1060,2024-10-07,,,Lucknow,Uttar Pradesh,pending,870600
+ORD000672,7,ORS Solution,2,Global Pharma,989,2025-11-09,2025-12-09,30.0,Jaipur,Rajasthan,shipped,1320
+ORD000673,4,Platelet Concentrate,4,BioMed Suppliers,1301,2025-06-28,2025-07-10,12.0,Mumbai,Maharashtra,delivered,273500
+ORD000674,4,Platelet Concentrate,4,BioMed Suppliers,1680,2024-05-22,2024-06-17,26.0,Ahmedabad,Gujarat,delivered,337000
+ORD000675,2,Paracetamol,6,PharmaCorp India,1755,2024-02-24,2024-03-16,21.0,Chennai,Tamil Nadu,delivered,4940
+ORD000676,5,Chloroquine,6,MediSupply Ltd,1671,2023-01-02,2023-02-01,30.0,Los Angeles,California,delivered,61450
+ORD000677,13,Isoniazid,6,MediSupply Ltd,1850,2025-02-27,2025-03-21,22.0,Jaipur,Rajasthan,delivered,40920
+ORD000678,12,Dexamethasone,6,HealthCare Distributors,1957,2025-03-18,2025-03-27,9.0,Kolkata,West Bengal,shipped,98900
+ORD000679,16,MMR Vaccine,2,PharmaCorp India,1732,2025-01-23,2025-01-26,3.0,Ahmedabad,Gujarat,delivered,270600
+ORD000680,3,Dengue NS1 Test Kit,1,HealthCare Distributors,365,2023-05-08,2023-05-12,4.0,Los Angeles,California,delivered,179400
+ORD000681,5,Chloroquine,6,MediSupply Ltd,1817,2023-10-15,2023-11-08,24.0,Jaipur,Rajasthan,delivered,72100
+ORD000682,17,Acyclovir,1,HealthCare Distributors,1850,2024-06-18,2024-06-24,6.0,Mumbai,Maharashtra,delivered,133600
+ORD000683,10,Ceftriaxone,6,Global Pharma,814,2024-10-18,,,Mumbai,Maharashtra,pending,256500
+ORD000684,13,Isoniazid,6,MediSupply Ltd,788,2024-03-04,2024-03-17,13.0,Ahmedabad,Gujarat,delivered,12660
+ORD000685,8,Doxycycline,6,Global Pharma,1664,2024-05-30,2024-06-22,23.0,Lucknow,Uttar Pradesh,shipped,127520
+ORD000686,15,Hepatitis A Vaccine,2,HealthCare Distributors,1684,2024-09-18,2024-09-22,4.0,Jaipur,Rajasthan,delivered,1348000
+ORD000687,8,Doxycycline,6,Global Pharma,1247,2024-09-01,2024-09-18,17.0,Lucknow,Uttar Pradesh,delivered,141040
+ORD000688,5,Chloroquine,6,MediSupply Ltd,449,2024-11-02,2024-11-28,26.0,Ahmedabad,Gujarat,delivered,22450
+ORD000689,10,Ceftriaxone,6,Global Pharma,1724,2024-09-18,2024-10-17,29.0,Jaipur,Rajasthan,shipped,196950
+ORD000690,16,MMR Vaccine,2,PharmaCorp India,1845,2023-02-24,2023-03-01,5.0,Ahmedabad,Gujarat,delivered,253800
+ORD000691,6,Artemisinin,4,BioMed Suppliers,1252,2025-07-21,2025-08-11,21.0,New York City,New York,delivered,180480
+ORD000692,6,Artemisinin,4,BioMed Suppliers,913,2025-04-05,,,Chennai,Tamil Nadu,pending,133920
+ORD000693,2,Paracetamol,6,PharmaCorp India,1779,2024-04-15,2024-05-09,24.0,Bangalore,Karnataka,delivered,2790
+ORD000694,9,Azithromycin,1,BioMed Suppliers,101,2025-10-04,2025-10-17,13.0,Mumbai,Maharashtra,shipped,22000
+ORD000695,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1563,2024-05-01,,,Ahmedabad,Gujarat,pending,53600
+ORD000696,5,Chloroquine,6,MediSupply Ltd,1615,2023-08-01,,,Jaipur,Rajasthan,pending,37750
+ORD000697,8,Doxycycline,6,Global Pharma,241,2025-06-30,2025-07-13,13.0,Los Angeles,California,delivered,123840
+ORD000698,16,MMR Vaccine,2,PharmaCorp India,783,2023-12-29,2024-01-22,24.0,Jaipur,Rajasthan,delivered,257400
+ORD000699,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1580,2024-06-15,2024-07-01,16.0,Kolkata,West Bengal,delivered,197800
+ORD000700,9,Azithromycin,1,BioMed Suppliers,825,2023-10-20,,,Mumbai,Maharashtra,pending,38800
+ORD000701,8,Doxycycline,6,Global Pharma,1912,2022-12-26,2023-01-10,15.0,Chennai,Tamil Nadu,delivered,74720
+ORD000702,17,Acyclovir,1,HealthCare Distributors,1176,2023-04-16,2023-04-21,5.0,New York City,New York,shipped,223000
+ORD000703,5,Chloroquine,6,MediSupply Ltd,1432,2023-12-02,2023-12-19,17.0,Los Angeles,California,delivered,44150
+ORD000704,7,ORS Solution,2,Global Pharma,184,2024-10-26,,,Chennai,Tamil Nadu,pending,6870
+ORD000705,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1747,2023-06-08,2023-07-03,25.0,Lucknow,Uttar Pradesh,delivered,382200
+ORD000706,8,Doxycycline,6,Global Pharma,225,2025-01-06,2025-01-10,4.0,Chennai,Tamil Nadu,delivered,90640
+ORD000707,10,Ceftriaxone,6,Global Pharma,1431,2024-12-15,,,New Delhi,Delhi,pending,107550
+ORD000708,14,Rifampicin,4,MedTech Solutions,1486,2024-04-05,2024-04-21,16.0,Mumbai,Maharashtra,delivered,7920
+ORD000709,8,Doxycycline,6,Global Pharma,1206,2023-12-23,,,Lucknow,Uttar Pradesh,pending,15840
+ORD000710,3,Dengue NS1 Test Kit,1,HealthCare Distributors,592,2023-10-01,,,Mumbai,Maharashtra,pending,190000
+ORD000711,14,Rifampicin,4,MedTech Solutions,1703,2025-08-01,2025-08-27,26.0,Lucknow,Uttar Pradesh,shipped,62940
+ORD000712,14,Rifampicin,4,MedTech Solutions,873,2025-05-30,2025-06-09,10.0,Ahmedabad,Gujarat,shipped,44220
+ORD000713,10,Ceftriaxone,6,Global Pharma,1913,2024-11-11,,,Ahmedabad,Gujarat,pending,32850
+ORD000714,17,Acyclovir,1,HealthCare Distributors,777,2024-01-11,,,New Delhi,Delhi,pending,350000
+ORD000715,12,Dexamethasone,6,HealthCare Distributors,1946,2024-04-06,2024-04-15,9.0,New Delhi,Delhi,delivered,10150
+ORD000716,7,ORS Solution,2,Global Pharma,860,2023-08-24,2023-09-08,15.0,New York City,New York,delivered,5200
+ORD000717,2,Paracetamol,6,PharmaCorp India,1598,2024-03-06,,,Los Angeles,California,pending,8190
+ORD000718,8,Doxycycline,6,Global Pharma,521,2023-08-15,2023-08-24,9.0,Chennai,Tamil Nadu,delivered,67760
+ORD000719,17,Acyclovir,1,HealthCare Distributors,1629,2023-04-03,2023-04-15,12.0,Ahmedabad,Gujarat,delivered,341600
+ORD000720,1,Oseltamivir,4,HealthCare Distributors,612,2023-01-08,2023-01-25,17.0,Bangalore,Karnataka,shipped,20250
+ORD000721,14,Rifampicin,4,MedTech Solutions,1001,2025-04-14,2025-04-21,7.0,Mumbai,Maharashtra,shipped,40560
+ORD000722,4,Platelet Concentrate,4,BioMed Suppliers,1769,2023-06-16,2023-06-29,13.0,Kolkata,West Bengal,delivered,569000
+ORD000723,6,Artemisinin,4,BioMed Suppliers,685,2025-07-15,2025-07-31,16.0,New Delhi,Delhi,shipped,150120
+ORD000724,9,Azithromycin,1,BioMed Suppliers,1527,2024-03-26,2024-04-21,26.0,Bangalore,Karnataka,shipped,189900
+ORD000725,2,Paracetamol,6,PharmaCorp India,677,2025-05-27,,,Bangalore,Karnataka,pending,1045
+ORD000726,11,Remdesivir,1,PharmaCorp India,806,2025-04-23,2025-05-14,21.0,Lucknow,Uttar Pradesh,delivered,2215000
+ORD000727,8,Doxycycline,6,Global Pharma,1369,2023-01-18,,,Ahmedabad,Gujarat,pending,41760
+ORD000728,4,Platelet Concentrate,4,BioMed Suppliers,1218,2025-05-28,2025-06-14,17.0,Bangalore,Karnataka,delivered,235000
+ORD000729,3,Dengue NS1 Test Kit,1,HealthCare Distributors,714,2024-05-05,,,New York City,New York,pending,360000
+ORD000730,13,Isoniazid,6,MediSupply Ltd,1292,2024-11-13,,,Ahmedabad,Gujarat,pending,7110
+ORD000731,13,Isoniazid,6,MediSupply Ltd,985,2024-05-29,2024-06-11,13.0,Kolkata,West Bengal,delivered,18420
+ORD000732,8,Doxycycline,6,Global Pharma,161,2024-08-30,2024-09-06,7.0,New York City,New York,delivered,50240
+ORD000733,6,Artemisinin,4,BioMed Suppliers,1894,2023-04-08,2023-04-22,14.0,Kolkata,West Bengal,delivered,227880
+ORD000734,16,MMR Vaccine,2,PharmaCorp India,776,2025-10-23,2025-11-07,15.0,Los Angeles,California,delivered,373800
+ORD000735,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1062,2025-08-18,,,Los Angeles,California,pending,332000
+ORD000736,12,Dexamethasone,6,HealthCare Distributors,1929,2025-08-06,2025-08-28,22.0,Mumbai,Maharashtra,delivered,75100
+ORD000737,15,Hepatitis A Vaccine,2,HealthCare Distributors,1490,2024-07-19,,,Mumbai,Maharashtra,pending,1314400
+ORD000738,16,MMR Vaccine,2,PharmaCorp India,1950,2024-02-21,2024-03-08,16.0,Bangalore,Karnataka,delivered,114600
+ORD000739,1,Oseltamivir,4,HealthCare Distributors,1464,2023-07-31,2023-08-19,19.0,Mumbai,Maharashtra,delivered,38550
+ORD000740,2,Paracetamol,6,PharmaCorp India,652,2025-06-13,2025-07-01,18.0,Lucknow,Uttar Pradesh,delivered,7675
+ORD000741,8,Doxycycline,6,Global Pharma,300,2025-03-27,2025-03-31,4.0,New Delhi,Delhi,shipped,44240
+ORD000742,16,MMR Vaccine,2,PharmaCorp India,361,2024-07-13,,,New York City,New York,pending,1045200
+ORD000743,9,Azithromycin,1,BioMed Suppliers,762,2023-05-09,2023-05-24,15.0,Ahmedabad,Gujarat,shipped,182600
+ORD000744,12,Dexamethasone,6,HealthCare Distributors,1569,2023-11-09,2023-11-27,18.0,Kolkata,West Bengal,delivered,56450
+ORD000745,5,Chloroquine,6,MediSupply Ltd,1103,2023-12-28,2024-01-27,30.0,Los Angeles,California,shipped,75350
+ORD000746,3,Dengue NS1 Test Kit,1,HealthCare Distributors,966,2025-09-04,2025-09-17,13.0,Ahmedabad,Gujarat,delivered,391600
+ORD000747,17,Acyclovir,1,HealthCare Distributors,834,2025-01-20,2025-02-08,19.0,New Delhi,Delhi,delivered,324200
+ORD000748,11,Remdesivir,1,PharmaCorp India,1487,2025-06-26,2025-07-02,6.0,Ahmedabad,Gujarat,shipped,4760000
+ORD000749,14,Rifampicin,4,MedTech Solutions,1292,2023-04-25,,,Jaipur,Rajasthan,pending,115500
+ORD000750,8,Doxycycline,6,Global Pharma,894,2024-07-20,2024-07-24,4.0,Jaipur,Rajasthan,delivered,49040
+ORD000751,1,Oseltamivir,4,HealthCare Distributors,1907,2025-02-22,,,Ahmedabad,Gujarat,pending,128700
+ORD000752,14,Rifampicin,4,MedTech Solutions,548,2024-08-14,2024-08-20,6.0,New Delhi,Delhi,delivered,31440
+ORD000753,7,ORS Solution,2,Global Pharma,634,2024-09-25,2024-10-11,16.0,Bangalore,Karnataka,delivered,19560
+ORD000754,17,Acyclovir,1,HealthCare Distributors,908,2024-12-10,2024-12-15,5.0,Bangalore,Karnataka,delivered,268600
+ORD000755,5,Chloroquine,6,MediSupply Ltd,1413,2025-02-15,2025-02-20,5.0,New Delhi,Delhi,delivered,77600
+ORD000756,15,Hepatitis A Vaccine,2,HealthCare Distributors,1819,2025-04-08,,,Kolkata,West Bengal,pending,1324800
+ORD000757,16,MMR Vaccine,2,PharmaCorp India,1176,2025-01-13,2025-02-03,21.0,Los Angeles,California,delivered,651600
+ORD000758,14,Rifampicin,4,MedTech Solutions,1270,2025-09-15,2025-10-08,23.0,Chennai,Tamil Nadu,delivered,58200
+ORD000759,12,Dexamethasone,6,HealthCare Distributors,1384,2024-02-13,2024-02-17,4.0,Bangalore,Karnataka,shipped,10200
+ORD000760,7,ORS Solution,2,Global Pharma,1892,2024-04-26,,,Jaipur,Rajasthan,pending,18010
+ORD000761,12,Dexamethasone,6,HealthCare Distributors,964,2023-11-21,2023-11-29,8.0,New York City,New York,delivered,30600
+ORD000762,1,Oseltamivir,4,HealthCare Distributors,1088,2023-08-10,2023-08-20,10.0,New Delhi,Delhi,delivered,101400
+ORD000763,1,Oseltamivir,4,HealthCare Distributors,899,2025-02-18,2025-03-11,21.0,New Delhi,Delhi,shipped,77550
+ORD000764,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1865,2023-06-20,,,New York City,New York,pending,194000
+ORD000765,1,Oseltamivir,4,HealthCare Distributors,1466,2024-03-24,2024-04-10,17.0,Los Angeles,California,delivered,121200
+ORD000766,13,Isoniazid,6,MediSupply Ltd,1714,2024-02-17,2024-03-16,28.0,Mumbai,Maharashtra,shipped,12210
+ORD000767,1,Oseltamivir,4,HealthCare Distributors,813,2023-11-01,2023-11-10,9.0,Jaipur,Rajasthan,delivered,143100
+ORD000768,12,Dexamethasone,6,HealthCare Distributors,865,2025-07-01,2025-07-10,9.0,Lucknow,Uttar Pradesh,shipped,45050
+ORD000769,17,Acyclovir,1,HealthCare Distributors,103,2024-06-25,2024-07-03,8.0,Kolkata,West Bengal,delivered,347200
+ORD000770,2,Paracetamol,6,PharmaCorp India,1060,2024-07-13,2024-07-16,3.0,Chennai,Tamil Nadu,delivered,2580
+ORD000771,5,Chloroquine,6,MediSupply Ltd,456,2022-12-18,,,Kolkata,West Bengal,pending,77600
+ORD000772,13,Isoniazid,6,MediSupply Ltd,360,2025-05-09,2025-05-21,12.0,Chennai,Tamil Nadu,delivered,44970
+ORD000773,11,Remdesivir,1,PharmaCorp India,337,2024-02-23,2024-03-22,28.0,Jaipur,Rajasthan,delivered,6200000
+ORD000774,5,Chloroquine,6,MediSupply Ltd,1809,2025-09-30,2025-10-25,25.0,Mumbai,Maharashtra,delivered,60300
+ORD000775,14,Rifampicin,4,MedTech Solutions,1135,2022-11-17,2022-12-11,24.0,New York City,New York,delivered,87840
+ORD000776,3,Dengue NS1 Test Kit,1,HealthCare Distributors,509,2025-03-05,2025-03-12,7.0,Los Angeles,California,delivered,396200
+ORD000777,4,Platelet Concentrate,4,BioMed Suppliers,1129,2023-03-22,2023-04-16,25.0,New Delhi,Delhi,delivered,830000
+ORD000778,16,MMR Vaccine,2,PharmaCorp India,1757,2023-04-20,2023-05-07,17.0,New York City,New York,delivered,316800
+ORD000779,13,Isoniazid,6,MediSupply Ltd,903,2025-01-20,2025-02-05,16.0,Jaipur,Rajasthan,delivered,42990
+ORD000780,6,Artemisinin,4,BioMed Suppliers,1431,2024-07-25,2024-08-12,18.0,Los Angeles,California,delivered,72480
+ORD000781,11,Remdesivir,1,PharmaCorp India,673,2023-10-01,,,New York City,New York,pending,3940000
+ORD000782,7,ORS Solution,2,Global Pharma,200,2022-12-01,,,Lucknow,Uttar Pradesh,pending,15680
+ORD000783,9,Azithromycin,1,BioMed Suppliers,1104,2023-10-31,2023-11-24,24.0,Mumbai,Maharashtra,delivered,83900
+ORD000784,7,ORS Solution,2,Global Pharma,418,2024-02-01,2024-02-15,14.0,New Delhi,Delhi,delivered,15550
+ORD000785,11,Remdesivir,1,PharmaCorp India,1510,2024-04-07,2024-05-03,26.0,Bangalore,Karnataka,shipped,3875000
+ORD000786,4,Platelet Concentrate,4,BioMed Suppliers,197,2025-03-09,2025-03-26,17.0,New York City,New York,delivered,882500
+ORD000787,12,Dexamethasone,6,HealthCare Distributors,1031,2024-04-05,,,Jaipur,Rajasthan,pending,61850
+ORD000788,3,Dengue NS1 Test Kit,1,HealthCare Distributors,775,2023-03-17,2023-04-03,17.0,Bangalore,Karnataka,shipped,82000
+ORD000789,10,Ceftriaxone,6,Global Pharma,247,2024-06-14,,,Los Angeles,California,pending,168750
+ORD000790,17,Acyclovir,1,HealthCare Distributors,1129,2024-11-08,,,Chennai,Tamil Nadu,pending,388400
+ORD000791,3,Dengue NS1 Test Kit,1,HealthCare Distributors,666,2023-10-23,2023-10-26,3.0,Ahmedabad,Gujarat,delivered,260400
+ORD000792,16,MMR Vaccine,2,PharmaCorp India,1276,2025-06-24,2025-07-11,17.0,Jaipur,Rajasthan,delivered,169200
+ORD000793,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1002,2024-03-28,2024-04-12,15.0,Jaipur,Rajasthan,delivered,189400
+ORD000794,17,Acyclovir,1,HealthCare Distributors,1540,2024-10-20,2024-10-27,7.0,Bangalore,Karnataka,delivered,349600
+ORD000795,11,Remdesivir,1,PharmaCorp India,1464,2025-01-11,,,Kolkata,West Bengal,pending,8840000
+ORD000796,5,Chloroquine,6,MediSupply Ltd,1250,2022-12-29,2023-01-28,30.0,New York City,New York,delivered,92600
+ORD000797,10,Ceftriaxone,6,Global Pharma,1616,2024-05-03,2024-05-24,21.0,Chennai,Tamil Nadu,delivered,278550
+ORD000798,16,MMR Vaccine,2,PharmaCorp India,257,2024-08-27,2024-09-13,17.0,Jaipur,Rajasthan,shipped,946800
+ORD000799,14,Rifampicin,4,MedTech Solutions,133,2024-03-11,2024-03-31,20.0,Ahmedabad,Gujarat,delivered,101460
+ORD000800,3,Dengue NS1 Test Kit,1,HealthCare Distributors,809,2023-01-19,,,Ahmedabad,Gujarat,pending,315000
+ORD000801,15,Hepatitis A Vaccine,2,HealthCare Distributors,390,2025-02-07,2025-03-05,26.0,Los Angeles,California,delivered,420800
+ORD000802,7,ORS Solution,2,Global Pharma,1991,2024-11-26,2024-12-23,27.0,Jaipur,Rajasthan,delivered,3390
+ORD000803,5,Chloroquine,6,MediSupply Ltd,950,2024-06-16,2024-06-21,5.0,Lucknow,Uttar Pradesh,delivered,44200
+ORD000804,11,Remdesivir,1,PharmaCorp India,170,2023-06-16,2023-07-06,20.0,Chennai,Tamil Nadu,shipped,7720000
+ORD000805,2,Paracetamol,6,PharmaCorp India,101,2025-11-02,2025-11-20,18.0,Lucknow,Uttar Pradesh,delivered,7345
+ORD000806,8,Doxycycline,6,Global Pharma,1224,2023-08-24,,,Chennai,Tamil Nadu,pending,24400
+ORD000807,1,Oseltamivir,4,HealthCare Distributors,974,2023-03-27,,,New York City,New York,pending,136650
+ORD000808,8,Doxycycline,6,Global Pharma,135,2025-07-14,2025-07-30,16.0,Lucknow,Uttar Pradesh,delivered,40640
+ORD000809,10,Ceftriaxone,6,Global Pharma,558,2025-05-07,,,Kolkata,West Bengal,pending,290100
+ORD000810,14,Rifampicin,4,MedTech Solutions,1042,2024-12-18,2025-01-01,14.0,Lucknow,Uttar Pradesh,delivered,84660
+ORD000811,1,Oseltamivir,4,HealthCare Distributors,1450,2023-06-05,2023-06-26,21.0,Ahmedabad,Gujarat,shipped,278250
+ORD000812,10,Ceftriaxone,6,Global Pharma,935,2024-09-08,,,Chennai,Tamil Nadu,pending,165150
+ORD000813,11,Remdesivir,1,PharmaCorp India,1776,2025-07-17,2025-07-21,4.0,Kolkata,West Bengal,shipped,5110000
+ORD000814,8,Doxycycline,6,Global Pharma,614,2023-12-28,2024-01-19,22.0,New Delhi,Delhi,shipped,126880
+ORD000815,11,Remdesivir,1,PharmaCorp India,1931,2022-11-22,2022-12-13,21.0,Kolkata,West Bengal,shipped,6125000
+ORD000816,8,Doxycycline,6,Global Pharma,1159,2025-11-05,2025-11-23,18.0,Mumbai,Maharashtra,delivered,90320
+ORD000817,4,Platelet Concentrate,4,BioMed Suppliers,776,2025-04-07,2025-04-27,20.0,Mumbai,Maharashtra,delivered,267000
+ORD000818,6,Artemisinin,4,BioMed Suppliers,361,2023-05-23,2023-05-30,7.0,Jaipur,Rajasthan,shipped,89640
+ORD000819,17,Acyclovir,1,HealthCare Distributors,1254,2024-05-21,2024-06-08,18.0,Mumbai,Maharashtra,delivered,154200
+ORD000820,10,Ceftriaxone,6,Global Pharma,1696,2025-10-02,2025-10-06,4.0,Mumbai,Maharashtra,delivered,105150
+ORD000821,11,Remdesivir,1,PharmaCorp India,1674,2025-01-09,2025-01-15,6.0,New York City,New York,shipped,8005000
+ORD000822,1,Oseltamivir,4,HealthCare Distributors,1475,2022-12-07,,,New Delhi,Delhi,pending,31950
+ORD000823,7,ORS Solution,2,Global Pharma,755,2023-01-21,,,Los Angeles,California,pending,6270
+ORD000824,8,Doxycycline,6,Global Pharma,679,2025-01-22,2025-02-08,17.0,Kolkata,West Bengal,shipped,47920
+ORD000825,8,Doxycycline,6,Global Pharma,1235,2025-02-11,2025-03-10,27.0,New York City,New York,delivered,106960
+ORD000826,7,ORS Solution,2,Global Pharma,1187,2024-05-29,,,New Delhi,Delhi,pending,7510
+ORD000827,3,Dengue NS1 Test Kit,1,HealthCare Distributors,393,2024-12-24,2025-01-11,18.0,Los Angeles,California,delivered,64600
+ORD000828,12,Dexamethasone,6,HealthCare Distributors,1452,2023-12-27,2023-12-30,3.0,Kolkata,West Bengal,delivered,60450
+ORD000829,6,Artemisinin,4,BioMed Suppliers,312,2024-04-12,2024-05-05,23.0,Ahmedabad,Gujarat,delivered,33240
+ORD000830,12,Dexamethasone,6,HealthCare Distributors,1860,2023-02-04,2023-02-13,9.0,New York City,New York,delivered,81550
+ORD000831,10,Ceftriaxone,6,Global Pharma,678,2022-12-10,,,Bangalore,Karnataka,pending,34350
+ORD000832,15,Hepatitis A Vaccine,2,HealthCare Distributors,1612,2023-11-17,,,New York City,New York,pending,1424000
+ORD000833,8,Doxycycline,6,Global Pharma,1242,2023-01-24,2023-02-19,26.0,Bangalore,Karnataka,delivered,96800
+ORD000834,14,Rifampicin,4,MedTech Solutions,1846,2025-05-15,2025-06-08,24.0,Lucknow,Uttar Pradesh,shipped,58860
+ORD000835,13,Isoniazid,6,MediSupply Ltd,1282,2023-01-24,,,Bangalore,Karnataka,pending,22650
+ORD000836,10,Ceftriaxone,6,Global Pharma,1255,2023-04-05,2023-04-14,9.0,Mumbai,Maharashtra,delivered,202950
+ORD000837,7,ORS Solution,2,Global Pharma,687,2025-07-01,2025-07-21,20.0,Los Angeles,California,shipped,6940
+ORD000838,17,Acyclovir,1,HealthCare Distributors,502,2023-12-14,,,New Delhi,Delhi,pending,186800
+ORD000839,7,ORS Solution,2,Global Pharma,1545,2024-03-14,2024-03-22,8.0,New York City,New York,shipped,1170
+ORD000840,13,Isoniazid,6,MediSupply Ltd,441,2023-11-15,,,Chennai,Tamil Nadu,pending,56910
+ORD000841,4,Platelet Concentrate,4,BioMed Suppliers,1245,2022-11-20,2022-12-08,18.0,Ahmedabad,Gujarat,delivered,131500
+ORD000842,8,Doxycycline,6,Global Pharma,259,2024-09-08,2024-09-14,6.0,Chennai,Tamil Nadu,delivered,141120
+ORD000843,14,Rifampicin,4,MedTech Solutions,996,2025-06-30,2025-07-19,19.0,Mumbai,Maharashtra,delivered,107880
+ORD000844,15,Hepatitis A Vaccine,2,HealthCare Distributors,1314,2025-05-18,2025-06-02,15.0,Lucknow,Uttar Pradesh,delivered,303200
+ORD000845,2,Paracetamol,6,PharmaCorp India,1987,2023-08-14,2023-09-10,27.0,Chennai,Tamil Nadu,delivered,2095
+ORD000846,11,Remdesivir,1,PharmaCorp India,168,2025-11-01,2025-11-18,17.0,Lucknow,Uttar Pradesh,delivered,4160000
+ORD000847,6,Artemisinin,4,BioMed Suppliers,528,2025-09-07,2025-09-29,22.0,Chennai,Tamil Nadu,delivered,114600
+ORD000848,15,Hepatitis A Vaccine,2,HealthCare Distributors,1087,2022-12-07,,,Lucknow,Uttar Pradesh,pending,260800
+ORD000849,16,MMR Vaccine,2,PharmaCorp India,762,2023-10-24,2023-11-04,11.0,Bangalore,Karnataka,shipped,479400
+ORD000850,7,ORS Solution,2,Global Pharma,1280,2025-06-21,2025-06-26,5.0,Jaipur,Rajasthan,delivered,18230
+ORD000851,9,Azithromycin,1,BioMed Suppliers,1522,2025-03-08,2025-03-26,18.0,Ahmedabad,Gujarat,delivered,162500
+ORD000852,8,Doxycycline,6,Global Pharma,1667,2024-08-05,2024-08-18,13.0,Lucknow,Uttar Pradesh,delivered,37040
+ORD000853,10,Ceftriaxone,6,Global Pharma,1189,2024-11-07,,,Kolkata,West Bengal,pending,59850
+ORD000854,14,Rifampicin,4,MedTech Solutions,199,2024-09-02,,,New York City,New York,pending,92880
+ORD000855,17,Acyclovir,1,HealthCare Distributors,1660,2023-06-29,2023-07-28,29.0,Ahmedabad,Gujarat,delivered,399000
+ORD000856,4,Platelet Concentrate,4,BioMed Suppliers,1075,2023-06-09,2023-07-08,29.0,Ahmedabad,Gujarat,shipped,964500
+ORD000857,8,Doxycycline,6,Global Pharma,252,2024-04-05,2024-05-03,28.0,Los Angeles,California,delivered,60320
+ORD000858,10,Ceftriaxone,6,Global Pharma,175,2025-06-09,2025-06-25,16.0,Jaipur,Rajasthan,shipped,214350
+ORD000859,14,Rifampicin,4,MedTech Solutions,1346,2024-12-04,2024-12-08,4.0,Los Angeles,California,delivered,72900
+ORD000860,7,ORS Solution,2,Global Pharma,557,2023-12-30,,,New Delhi,Delhi,pending,6300
+ORD000861,2,Paracetamol,6,PharmaCorp India,755,2025-04-17,2025-04-30,13.0,Bangalore,Karnataka,shipped,5710
+ORD000862,8,Doxycycline,6,Global Pharma,871,2025-04-06,2025-04-10,4.0,Kolkata,West Bengal,delivered,41200
+ORD000863,7,ORS Solution,2,Global Pharma,408,2024-03-18,,,Los Angeles,California,pending,6000
+ORD000864,12,Dexamethasone,6,HealthCare Distributors,1675,2024-07-18,2024-08-09,22.0,Bangalore,Karnataka,delivered,37850
+ORD000865,11,Remdesivir,1,PharmaCorp India,1868,2025-05-24,2025-05-28,4.0,New Delhi,Delhi,delivered,9515000
+ORD000866,16,MMR Vaccine,2,PharmaCorp India,924,2024-10-01,2024-10-27,26.0,Los Angeles,California,delivered,295800
+ORD000867,7,ORS Solution,2,Global Pharma,1486,2022-11-26,2022-12-25,29.0,Bangalore,Karnataka,delivered,16130
+ORD000868,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1462,2023-09-04,2023-09-21,17.0,Jaipur,Rajasthan,delivered,235000
+ORD000869,6,Artemisinin,4,BioMed Suppliers,1287,2025-01-17,2025-02-13,27.0,Los Angeles,California,shipped,125640
+ORD000870,14,Rifampicin,4,MedTech Solutions,1395,2024-04-07,2024-04-25,18.0,Bangalore,Karnataka,delivered,63660
+ORD000871,12,Dexamethasone,6,HealthCare Distributors,1247,2022-12-31,2023-01-09,9.0,Kolkata,West Bengal,shipped,82550
+ORD000872,6,Artemisinin,4,BioMed Suppliers,296,2025-05-08,,,Jaipur,Rajasthan,pending,152160
+ORD000873,5,Chloroquine,6,MediSupply Ltd,674,2023-12-03,,,Bangalore,Karnataka,pending,14200
+ORD000874,8,Doxycycline,6,Global Pharma,1643,2023-11-05,,,Bangalore,Karnataka,pending,122160
+ORD000875,13,Isoniazid,6,MediSupply Ltd,592,2022-11-12,2022-12-12,30.0,Bangalore,Karnataka,delivered,45090
+ORD000876,4,Platelet Concentrate,4,BioMed Suppliers,662,2024-04-07,2024-05-07,30.0,Los Angeles,California,delivered,399500
+ORD000877,3,Dengue NS1 Test Kit,1,HealthCare Distributors,436,2024-12-03,,,Los Angeles,California,pending,150200
+ORD000878,3,Dengue NS1 Test Kit,1,HealthCare Distributors,204,2025-10-31,2025-11-10,10.0,Kolkata,West Bengal,delivered,384600
+ORD000879,13,Isoniazid,6,MediSupply Ltd,515,2024-02-29,2024-03-14,14.0,Chennai,Tamil Nadu,delivered,58560
+ORD000880,5,Chloroquine,6,MediSupply Ltd,490,2023-10-01,2023-10-20,19.0,Jaipur,Rajasthan,shipped,38400
+ORD000881,1,Oseltamivir,4,HealthCare Distributors,1286,2024-07-23,2024-08-22,30.0,Kolkata,West Bengal,shipped,264750
+ORD000882,15,Hepatitis A Vaccine,2,HealthCare Distributors,1796,2024-12-28,2025-01-11,14.0,New Delhi,Delhi,shipped,1379200
+ORD000883,14,Rifampicin,4,MedTech Solutions,498,2025-09-07,2025-09-28,21.0,Bangalore,Karnataka,delivered,24120
+ORD000884,17,Acyclovir,1,HealthCare Distributors,1841,2024-11-30,2024-12-04,4.0,Jaipur,Rajasthan,delivered,241000
+ORD000885,11,Remdesivir,1,PharmaCorp India,1380,2025-02-23,2025-03-15,20.0,Jaipur,Rajasthan,delivered,2650000
+ORD000886,13,Isoniazid,6,MediSupply Ltd,1787,2024-07-13,,,Mumbai,Maharashtra,pending,56640
+ORD000887,1,Oseltamivir,4,HealthCare Distributors,1842,2023-11-04,2023-11-13,9.0,New York City,New York,delivered,126000
+ORD000888,17,Acyclovir,1,HealthCare Distributors,909,2025-04-28,2025-05-06,8.0,New York City,New York,delivered,211200
+ORD000889,7,ORS Solution,2,Global Pharma,514,2024-01-22,2024-02-06,15.0,New Delhi,Delhi,shipped,5990
+ORD000890,10,Ceftriaxone,6,Global Pharma,311,2022-12-14,2023-01-13,30.0,Jaipur,Rajasthan,delivered,159000
+ORD000891,13,Isoniazid,6,MediSupply Ltd,1675,2023-09-29,,,Bangalore,Karnataka,pending,3870
+ORD000892,13,Isoniazid,6,MediSupply Ltd,200,2024-03-07,,,Kolkata,West Bengal,pending,34650
+ORD000893,16,MMR Vaccine,2,PharmaCorp India,265,2024-06-14,,,Kolkata,West Bengal,pending,835800
+ORD000894,8,Doxycycline,6,Global Pharma,1858,2023-05-14,2023-05-30,16.0,Kolkata,West Bengal,delivered,119360
+ORD000895,4,Platelet Concentrate,4,BioMed Suppliers,895,2023-01-20,2023-01-30,10.0,Mumbai,Maharashtra,delivered,471500
+ORD000896,13,Isoniazid,6,MediSupply Ltd,1639,2024-03-06,2024-04-02,27.0,Jaipur,Rajasthan,delivered,11820
+ORD000897,12,Dexamethasone,6,HealthCare Distributors,248,2025-10-19,2025-10-30,11.0,Ahmedabad,Gujarat,delivered,34700
+ORD000898,11,Remdesivir,1,PharmaCorp India,1971,2022-11-16,,,Lucknow,Uttar Pradesh,pending,9985000
+ORD000899,6,Artemisinin,4,BioMed Suppliers,255,2024-12-24,2024-12-31,7.0,New York City,New York,delivered,199680
+ORD000900,1,Oseltamivir,4,HealthCare Distributors,1179,2023-06-12,2023-07-05,23.0,Los Angeles,California,delivered,146100
+ORD000901,13,Isoniazid,6,MediSupply Ltd,1615,2023-04-23,2023-04-27,4.0,Jaipur,Rajasthan,delivered,43530
+ORD000902,13,Isoniazid,6,MediSupply Ltd,957,2023-03-14,2023-03-22,8.0,Mumbai,Maharashtra,delivered,39300
+ORD000903,4,Platelet Concentrate,4,BioMed Suppliers,1354,2022-12-17,2023-01-09,23.0,Lucknow,Uttar Pradesh,delivered,725500
+ORD000904,17,Acyclovir,1,HealthCare Distributors,1961,2024-09-28,2024-10-07,9.0,New York City,New York,delivered,357000
+ORD000905,5,Chloroquine,6,MediSupply Ltd,248,2024-12-27,2025-01-25,29.0,Kolkata,West Bengal,delivered,7400
+ORD000906,16,MMR Vaccine,2,PharmaCorp India,689,2025-03-12,,,Los Angeles,California,pending,452400
+ORD000907,8,Doxycycline,6,Global Pharma,981,2025-07-01,2025-07-31,30.0,Bangalore,Karnataka,delivered,65200
+ORD000908,6,Artemisinin,4,BioMed Suppliers,1936,2023-03-05,2023-04-04,30.0,Kolkata,West Bengal,delivered,63960
+ORD000909,7,ORS Solution,2,Global Pharma,1620,2025-10-20,2025-11-10,21.0,Ahmedabad,Gujarat,delivered,6200
+ORD000910,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1507,2022-12-09,2022-12-26,17.0,New Delhi,Delhi,delivered,210000
+ORD000911,17,Acyclovir,1,HealthCare Distributors,445,2023-10-28,2023-11-19,22.0,Ahmedabad,Gujarat,delivered,119800
+ORD000912,1,Oseltamivir,4,HealthCare Distributors,1010,2023-01-02,2023-01-16,14.0,Jaipur,Rajasthan,shipped,43950
+ORD000913,11,Remdesivir,1,PharmaCorp India,1445,2024-04-11,2024-05-01,20.0,Chennai,Tamil Nadu,delivered,2535000
+ORD000914,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1277,2023-07-18,2023-08-05,18.0,Kolkata,West Bengal,shipped,331400
+ORD000915,9,Azithromycin,1,BioMed Suppliers,1252,2024-08-20,2024-09-03,14.0,New Delhi,Delhi,delivered,198200
+ORD000916,6,Artemisinin,4,BioMed Suppliers,1780,2023-10-16,2023-10-28,12.0,Bangalore,Karnataka,delivered,204360
+ORD000917,3,Dengue NS1 Test Kit,1,HealthCare Distributors,197,2023-11-14,2023-12-03,19.0,Ahmedabad,Gujarat,delivered,228400
+ORD000918,4,Platelet Concentrate,4,BioMed Suppliers,1221,2024-11-05,2024-11-12,7.0,Lucknow,Uttar Pradesh,shipped,53500
+ORD000919,6,Artemisinin,4,BioMed Suppliers,980,2023-07-15,,,Jaipur,Rajasthan,pending,52800
+ORD000920,11,Remdesivir,1,PharmaCorp India,1608,2024-09-25,2024-09-29,4.0,Mumbai,Maharashtra,shipped,2830000
+ORD000921,3,Dengue NS1 Test Kit,1,HealthCare Distributors,704,2023-08-16,,,Chennai,Tamil Nadu,pending,117600
+ORD000922,6,Artemisinin,4,BioMed Suppliers,1619,2023-03-01,2023-03-11,10.0,Ahmedabad,Gujarat,delivered,197640
+ORD000923,9,Azithromycin,1,BioMed Suppliers,1767,2023-10-21,2023-11-08,18.0,New York City,New York,shipped,41100
+ORD000924,8,Doxycycline,6,Global Pharma,705,2024-03-15,2024-04-04,20.0,Los Angeles,California,delivered,15680
+ORD000925,13,Isoniazid,6,MediSupply Ltd,531,2024-02-29,2024-03-18,18.0,Ahmedabad,Gujarat,delivered,39600
+ORD000926,12,Dexamethasone,6,HealthCare Distributors,491,2024-05-08,2024-05-15,7.0,Los Angeles,California,delivered,28000
+ORD000927,14,Rifampicin,4,MedTech Solutions,688,2023-01-03,2023-01-22,19.0,Kolkata,West Bengal,delivered,74340
+ORD000928,8,Doxycycline,6,Global Pharma,1428,2025-03-02,,,Bangalore,Karnataka,pending,15600
+ORD000929,1,Oseltamivir,4,HealthCare Distributors,1644,2025-10-01,2025-10-14,13.0,Ahmedabad,Gujarat,delivered,269850
+ORD000930,17,Acyclovir,1,HealthCare Distributors,785,2024-05-21,2024-06-14,24.0,Lucknow,Uttar Pradesh,delivered,259400
+ORD000931,11,Remdesivir,1,PharmaCorp India,356,2023-01-06,,,New Delhi,Delhi,pending,9830000
+ORD000932,16,MMR Vaccine,2,PharmaCorp India,221,2024-01-17,2024-02-03,17.0,Bangalore,Karnataka,delivered,814800
+ORD000933,9,Azithromycin,1,BioMed Suppliers,1063,2023-02-25,2023-03-15,18.0,Kolkata,West Bengal,delivered,127200
+ORD000934,4,Platelet Concentrate,4,BioMed Suppliers,355,2024-02-28,2024-03-20,21.0,New Delhi,Delhi,shipped,546000
+ORD000935,1,Oseltamivir,4,HealthCare Distributors,1554,2024-04-08,2024-05-08,30.0,Mumbai,Maharashtra,delivered,93600
+ORD000936,17,Acyclovir,1,HealthCare Distributors,1974,2024-11-10,2024-11-25,15.0,Los Angeles,California,delivered,237000
+ORD000937,16,MMR Vaccine,2,PharmaCorp India,701,2025-01-30,2025-02-12,13.0,Chennai,Tamil Nadu,shipped,1018800
+ORD000938,13,Isoniazid,6,MediSupply Ltd,110,2024-06-02,2024-06-24,22.0,Jaipur,Rajasthan,shipped,30180
+ORD000939,13,Isoniazid,6,MediSupply Ltd,1671,2023-08-14,2023-08-24,10.0,Jaipur,Rajasthan,delivered,20940
+ORD000940,4,Platelet Concentrate,4,BioMed Suppliers,1243,2025-06-30,2025-07-11,11.0,Bangalore,Karnataka,delivered,158000
+ORD000941,14,Rifampicin,4,MedTech Solutions,531,2022-11-14,,,Los Angeles,California,pending,67560
+ORD000942,5,Chloroquine,6,MediSupply Ltd,1380,2023-09-22,,,Los Angeles,California,pending,33850
+ORD000943,7,ORS Solution,2,Global Pharma,1684,2022-11-20,2022-12-02,12.0,New York City,New York,delivered,8470
+ORD000944,1,Oseltamivir,4,HealthCare Distributors,1344,2023-07-08,2023-07-23,15.0,Bangalore,Karnataka,shipped,252750
+ORD000945,15,Hepatitis A Vaccine,2,HealthCare Distributors,1512,2024-09-13,2024-10-01,18.0,Ahmedabad,Gujarat,delivered,1584000
+ORD000946,10,Ceftriaxone,6,Global Pharma,544,2025-04-10,2025-04-26,16.0,Los Angeles,California,delivered,219600
+ORD000947,7,ORS Solution,2,Global Pharma,1171,2023-06-01,2023-06-17,16.0,Jaipur,Rajasthan,shipped,2420
+ORD000948,5,Chloroquine,6,MediSupply Ltd,237,2025-06-09,,,Kolkata,West Bengal,pending,30400
+ORD000949,16,MMR Vaccine,2,PharmaCorp India,420,2024-10-03,2024-10-13,10.0,Jaipur,Rajasthan,delivered,808800
+ORD000950,8,Doxycycline,6,Global Pharma,1378,2025-10-01,2025-10-11,10.0,Mumbai,Maharashtra,delivered,132960
+ORD000951,12,Dexamethasone,6,HealthCare Distributors,185,2024-11-12,2024-11-22,10.0,Bangalore,Karnataka,shipped,58400
+ORD000952,6,Artemisinin,4,BioMed Suppliers,1813,2024-10-19,,,New York City,New York,pending,126960
+ORD000953,1,Oseltamivir,4,HealthCare Distributors,620,2024-03-09,2024-03-21,12.0,New Delhi,Delhi,delivered,205200
+ORD000954,10,Ceftriaxone,6,Global Pharma,657,2025-08-08,2025-09-06,29.0,Lucknow,Uttar Pradesh,delivered,238350
+ORD000955,15,Hepatitis A Vaccine,2,HealthCare Distributors,664,2025-08-09,2025-08-18,9.0,Lucknow,Uttar Pradesh,delivered,1326400
+ORD000956,14,Rifampicin,4,MedTech Solutions,238,2023-01-31,,,Lucknow,Uttar Pradesh,pending,80100
+ORD000957,13,Isoniazid,6,MediSupply Ltd,1081,2024-08-06,,,Ahmedabad,Gujarat,pending,30690
+ORD000958,13,Isoniazid,6,MediSupply Ltd,1458,2024-03-02,2024-03-24,22.0,New Delhi,Delhi,delivered,15300
+ORD000959,11,Remdesivir,1,PharmaCorp India,1960,2024-04-07,2024-04-10,3.0,Lucknow,Uttar Pradesh,delivered,9685000
+ORD000960,4,Platelet Concentrate,4,BioMed Suppliers,1872,2025-02-10,,,Mumbai,Maharashtra,pending,813500
+ORD000961,4,Platelet Concentrate,4,BioMed Suppliers,979,2022-12-22,2023-01-03,12.0,Lucknow,Uttar Pradesh,delivered,689500
+ORD000962,2,Paracetamol,6,PharmaCorp India,1748,2024-06-02,2024-06-11,9.0,Lucknow,Uttar Pradesh,delivered,1565
+ORD000963,17,Acyclovir,1,HealthCare Distributors,1742,2025-09-05,2025-09-29,24.0,Lucknow,Uttar Pradesh,shipped,47800
+ORD000964,4,Platelet Concentrate,4,BioMed Suppliers,1136,2025-03-29,2025-04-19,21.0,Jaipur,Rajasthan,delivered,523500
+ORD000965,14,Rifampicin,4,MedTech Solutions,1663,2023-11-16,2023-11-26,10.0,Chennai,Tamil Nadu,delivered,14580
+ORD000966,9,Azithromycin,1,BioMed Suppliers,1000,2023-07-12,2023-07-16,4.0,Los Angeles,California,delivered,123800
+ORD000967,4,Platelet Concentrate,4,BioMed Suppliers,771,2025-03-19,2025-04-05,17.0,Bangalore,Karnataka,shipped,878500
+ORD000968,6,Artemisinin,4,BioMed Suppliers,1233,2025-07-15,2025-08-09,25.0,Los Angeles,California,delivered,47280
+ORD000969,16,MMR Vaccine,2,PharmaCorp India,1413,2023-07-09,,,Los Angeles,California,pending,1101600
+ORD000970,12,Dexamethasone,6,HealthCare Distributors,1282,2025-11-08,2025-11-27,19.0,Bangalore,Karnataka,delivered,73950
+ORD000971,13,Isoniazid,6,MediSupply Ltd,698,2023-03-22,,,Mumbai,Maharashtra,pending,9120
+ORD000972,11,Remdesivir,1,PharmaCorp India,1052,2024-10-23,2024-11-16,24.0,Ahmedabad,Gujarat,delivered,7800000
+ORD000973,9,Azithromycin,1,BioMed Suppliers,1941,2024-02-18,2024-02-22,4.0,Chennai,Tamil Nadu,shipped,95200
+ORD000974,17,Acyclovir,1,HealthCare Distributors,1258,2024-01-01,2024-01-07,6.0,Ahmedabad,Gujarat,delivered,185200
+ORD000975,16,MMR Vaccine,2,PharmaCorp India,1638,2025-08-18,2025-08-21,3.0,New Delhi,Delhi,shipped,824400
+ORD000976,4,Platelet Concentrate,4,BioMed Suppliers,104,2024-04-17,2024-04-28,11.0,Kolkata,West Bengal,delivered,54500
+ORD000977,9,Azithromycin,1,BioMed Suppliers,856,2023-03-12,2023-04-07,26.0,Mumbai,Maharashtra,shipped,94000
+ORD000978,8,Doxycycline,6,Global Pharma,1588,2023-02-11,2023-02-18,7.0,New Delhi,Delhi,delivered,77200
+ORD000979,2,Paracetamol,6,PharmaCorp India,1095,2024-08-11,,,Lucknow,Uttar Pradesh,pending,2125
+ORD000980,6,Artemisinin,4,BioMed Suppliers,1130,2025-03-01,,,Bangalore,Karnataka,pending,174600
+ORD000981,10,Ceftriaxone,6,Global Pharma,1992,2024-09-17,2024-10-13,26.0,Bangalore,Karnataka,shipped,78300
+ORD000982,16,MMR Vaccine,2,PharmaCorp India,405,2024-05-11,,,New York City,New York,pending,1161000
+ORD000983,16,MMR Vaccine,2,PharmaCorp India,935,2024-12-17,2024-12-23,6.0,Chennai,Tamil Nadu,shipped,835200
+ORD000984,15,Hepatitis A Vaccine,2,HealthCare Distributors,1945,2024-08-30,,,Ahmedabad,Gujarat,pending,1448800
+ORD000985,8,Doxycycline,6,Global Pharma,1964,2025-06-13,2025-07-12,29.0,Lucknow,Uttar Pradesh,delivered,17760
+ORD000986,5,Chloroquine,6,MediSupply Ltd,212,2024-09-01,,,Ahmedabad,Gujarat,pending,86500
+ORD000987,16,MMR Vaccine,2,PharmaCorp India,1243,2025-04-09,2025-05-04,25.0,Lucknow,Uttar Pradesh,delivered,457800
+ORD000988,13,Isoniazid,6,MediSupply Ltd,1073,2023-12-15,2024-01-09,25.0,Mumbai,Maharashtra,delivered,20760
+ORD000989,1,Oseltamivir,4,HealthCare Distributors,1993,2024-02-13,2024-03-09,25.0,Kolkata,West Bengal,delivered,63450
+ORD000990,2,Paracetamol,6,PharmaCorp India,347,2024-10-28,2024-11-12,15.0,Mumbai,Maharashtra,delivered,2555
+ORD000991,13,Isoniazid,6,MediSupply Ltd,821,2023-06-02,2023-06-18,16.0,Lucknow,Uttar Pradesh,shipped,12060
+ORD000992,1,Oseltamivir,4,HealthCare Distributors,418,2025-07-21,2025-08-17,27.0,Lucknow,Uttar Pradesh,delivered,285600
+ORD000993,15,Hepatitis A Vaccine,2,HealthCare Distributors,980,2025-05-16,2025-06-06,21.0,New Delhi,Delhi,shipped,428800
+ORD000994,14,Rifampicin,4,MedTech Solutions,1526,2024-09-08,2024-09-11,3.0,Kolkata,West Bengal,delivered,62340
+ORD000995,1,Oseltamivir,4,HealthCare Distributors,1148,2023-09-29,2023-10-20,21.0,Kolkata,West Bengal,delivered,183150
+ORD000996,14,Rifampicin,4,MedTech Solutions,377,2023-06-05,2023-06-23,18.0,Lucknow,Uttar Pradesh,shipped,112200
+ORD000997,15,Hepatitis A Vaccine,2,HealthCare Distributors,1611,2023-10-20,2023-11-19,30.0,Mumbai,Maharashtra,delivered,649600
+ORD000998,3,Dengue NS1 Test Kit,1,HealthCare Distributors,1276,2024-08-10,2024-08-20,10.0,Jaipur,Rajasthan,delivered,47200
+ORD000999,10,Ceftriaxone,6,Global Pharma,1914,2024-08-24,2024-09-12,19.0,Jaipur,Rajasthan,delivered,163200
+ORD001000,14,Rifampicin,4,MedTech Solutions,886,2023-07-27,2023-08-09,13.0,Mumbai,Maharashtra,delivered,105120
